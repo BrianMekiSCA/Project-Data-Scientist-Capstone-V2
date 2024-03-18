@@ -22,8 +22,10 @@ Combined, the 2 parts used the following libraries:
 
 # Data, Wrangling and Cleaning
 The data for this mission is called "Disease Prediction Data" and is sourced from https://www.kaggle.com/datasets/marslinoedward/disease-prediction-data (Edward, M. (Owner). (2024, Jan)). The data comprises 134 columns in total. 132 of these provide symptom data, 1 column comprises 42 diseases and is therefore the target variable and the last column is an unnamed variable. 
-The data is originally split into the training and test sets. The original split was not 80/20 no was the data representative of reality in that it was too clean to be of use in testing model capabilities. To this effect, I added noise to the data to simulate (1) the caregiver having limited skills, knowledge and / or resources to make a correct diagnosis, (2) patients providing incomplete and / or inaccurate information regarding their symptoms and (3) simply the unfortunate rarity of the underlying disease. As a result, the "noisey" training and test data used all analyses here in are called "Noisy_Disease_Training_Data.csv" and "Clean_Disease_Testing_Data.csv" respectively.
-Part of the cleaning process involved removing the unnamed variable, replacing missing values with '0' and isolating the explanatory inputs from the response variable.
+
+The data is originally split into the training and test sets. The original split was not 80/20 nor was the data representative of reality in that it was too clean to be of use in testing model capabilities. To this effect, I added noise to the data to simulate (1) the caregiver having limited skills, knowledge and / or resources to make a correct diagnosis, (2) patients providing incomplete and / or inaccurate information regarding their symptoms and (3) simply the unfortunate rarity of the underlying disease. As a result, the "noisey" training and test data used all analyses here in are called "Noisy_Disease_Training_Data.csv" and "Clean_Disease_Testing_Data.csv" respectively.
+
+The remainder of the data cleaning process involved removing the unnamed variable, replacing missing values with '0' and isolating the explanatory inputs from the response variable.
  
 # Data Analysis
 This portion began with analyzing the input data to check if the response variable was balanced and to understand the explanatory variables in terms of relative presence/absence of the symptoms among the cases studied.
