@@ -1,0 +1,3336 @@
+Symptom,Frequency,Disease,Relative_Frequency
+itching,4,Migraine,0.006493506493506494
+skin_rash,5,Migraine,0.008116883116883116
+nodal_skin_eruptions,1,Migraine,0.0016233766233766235
+continuous_sneezing,1,Migraine,0.0016233766233766235
+chills,5,Migraine,0.008116883116883116
+joint_pain,5,Migraine,0.008116883116883116
+stomach_pain,1,Migraine,0.0016233766233766235
+acidity,49,Migraine,0.07954545454545454
+vomiting,10,Migraine,0.016233766233766232
+fatigue,10,Migraine,0.016233766233766232
+weight_gain,2,Migraine,0.003246753246753247
+cold_hands_and_feets,2,Migraine,0.003246753246753247
+mood_swings,2,Migraine,0.003246753246753247
+weight_loss,1,Migraine,0.0016233766233766235
+lethargy,3,Migraine,0.00487012987012987
+cough,3,Migraine,0.00487012987012987
+high_fever,9,Migraine,0.01461038961038961
+sunken_eyes,1,Migraine,0.0016233766233766235
+sweating,1,Migraine,0.0016233766233766235
+indigestion,48,Migraine,0.07792207792207792
+headache,54,Migraine,0.08766233766233766
+yellowish_skin,4,Migraine,0.006493506493506494
+dark_urine,2,Migraine,0.003246753246753247
+nausea,8,Migraine,0.012987012987012988
+loss_of_appetite,7,Migraine,0.011363636363636364
+pain_behind_the_eyes,2,Migraine,0.003246753246753247
+back_pain,2,Migraine,0.003246753246753247
+constipation,2,Migraine,0.003246753246753247
+abdominal_pain,5,Migraine,0.008116883116883116
+diarrhoea,1,Migraine,0.0016233766233766235
+mild_fever,1,Migraine,0.0016233766233766235
+yellowing_of_eyes,4,Migraine,0.006493506493506494
+acute_liver_failure,1,Migraine,0.0016233766233766235
+fluid_overload,1,Migraine,0.0016233766233766235
+swelled_lymph_nodes,2,Migraine,0.003246753246753247
+malaise,4,Migraine,0.006493506493506494
+blurred_and_distorted_vision,49,Migraine,0.07954545454545454
+phlegm,1,Migraine,0.0016233766233766235
+throat_irritation,1,Migraine,0.0016233766233766235
+redness_of_eyes,1,Migraine,0.0016233766233766235
+sinus_pressure,1,Migraine,0.0016233766233766235
+runny_nose,1,Migraine,0.0016233766233766235
+congestion,1,Migraine,0.0016233766233766235
+chest_pain,2,Migraine,0.003246753246753247
+pain_during_bowel_movements,1,Migraine,0.0016233766233766235
+pain_in_anal_region,1,Migraine,0.0016233766233766235
+bloody_stool,1,Migraine,0.0016233766233766235
+irritation_in_anus,1,Migraine,0.0016233766233766235
+neck_pain,1,Migraine,0.0016233766233766235
+dizziness,2,Migraine,0.003246753246753247
+puffy_face_and_eyes,2,Migraine,0.003246753246753247
+enlarged_thyroid,2,Migraine,0.003246753246753247
+brittle_nails,2,Migraine,0.003246753246753247
+swollen_extremeties,2,Migraine,0.003246753246753247
+excessive_hunger,48,Migraine,0.07792207792207792
+knee_pain,1,Migraine,0.0016233766233766235
+hip_joint_pain,1,Migraine,0.0016233766233766235
+stiff_neck,47,Migraine,0.0762987012987013
+swelling_joints,1,Migraine,0.0016233766233766235
+loss_of_balance,1,Migraine,0.0016233766233766235
+weakness_of_one_body_side,1,Migraine,0.0016233766233766235
+loss_of_smell,1,Migraine,0.0016233766233766235
+passage_of_gases,1,Migraine,0.0016233766233766235
+internal_itching,1,Migraine,0.0016233766233766235
+toxic_look_(typhos),1,Migraine,0.0016233766233766235
+depression,51,Migraine,0.08279220779220779
+irritability,50,Migraine,0.08116883116883117
+muscle_pain,3,Migraine,0.00487012987012987
+altered_sensorium,1,Migraine,0.0016233766233766235
+red_spots_over_body,3,Migraine,0.00487012987012987
+belly_pain,1,Migraine,0.0016233766233766235
+abnormal_menstruation,2,Migraine,0.003246753246753247
+dischromic _patches,1,Migraine,0.0016233766233766235
+family_history,1,Migraine,0.0016233766233766235
+rusty_sputum,1,Migraine,0.0016233766233766235
+visual_disturbances,49,Migraine,0.07954545454545454
+coma,1,Migraine,0.0016233766233766235
+stomach_bleeding,1,Migraine,0.0016233766233766235
+fluid_overload,1,Migraine,0.0016233766233766235
+blood_in_sputum,1,Migraine,0.0016233766233766235
+painful_walking,1,Migraine,0.0016233766233766235
+skin_peeling,2,Migraine,0.003246753246753247
+silver_like_dusting,2,Migraine,0.003246753246753247
+small_dents_in_nails,2,Migraine,0.003246753246753247
+inflammatory_nails,2,Migraine,0.003246753246753247
+red_sore_around_nose,1,Migraine,0.0016233766233766235
+itching,5,Hepatitis D,0.008710801393728223
+skin_rash,2,Hepatitis D,0.003484320557491289
+chills,3,Hepatitis D,0.005226480836236934
+joint_pain,52,Hepatitis D,0.09059233449477352
+stomach_pain,1,Hepatitis D,0.0017421602787456446
+muscle_wasting,1,Hepatitis D,0.0017421602787456446
+vomiting,60,Hepatitis D,0.10452961672473868
+burning_micturition,2,Hepatitis D,0.003484320557491289
+fatigue,54,Hepatitis D,0.09407665505226481
+mood_swings,2,Hepatitis D,0.003484320557491289
+weight_loss,3,Hepatitis D,0.005226480836236934
+restlessness,1,Hepatitis D,0.0017421602787456446
+lethargy,1,Hepatitis D,0.0017421602787456446
+high_fever,6,Hepatitis D,0.010452961672473868
+sweating,3,Hepatitis D,0.005226480836236934
+headache,4,Hepatitis D,0.006968641114982578
+yellowish_skin,57,Hepatitis D,0.09930313588850175
+dark_urine,52,Hepatitis D,0.09059233449477352
+nausea,54,Hepatitis D,0.09407665505226481
+loss_of_appetite,53,Hepatitis D,0.09233449477351917
+constipation,1,Hepatitis D,0.0017421602787456446
+abdominal_pain,59,Hepatitis D,0.10278745644599303
+diarrhoea,5,Hepatitis D,0.008710801393728223
+mild_fever,1,Hepatitis D,0.0017421602787456446
+yellow_urine,1,Hepatitis D,0.0017421602787456446
+yellowing_of_eyes,53,Hepatitis D,0.09233449477351917
+swelling_of_stomach,2,Hepatitis D,0.003484320557491289
+malaise,1,Hepatitis D,0.0017421602787456446
+chest_pain,1,Hepatitis D,0.0017421602787456446
+fast_heart_rate,1,Hepatitis D,0.0017421602787456446
+pain_in_anal_region,1,Hepatitis D,0.0017421602787456446
+obesity,1,Hepatitis D,0.0017421602787456446
+excessive_hunger,1,Hepatitis D,0.0017421602787456446
+extra_marital_contacts,1,Hepatitis D,0.0017421602787456446
+hip_joint_pain,1,Hepatitis D,0.0017421602787456446
+muscle_weakness,1,Hepatitis D,0.0017421602787456446
+weakness_of_one_body_side,1,Hepatitis D,0.0017421602787456446
+bladder_discomfort,3,Hepatitis D,0.005226480836236934
+foul_smell_of urine,1,Hepatitis D,0.0017421602787456446
+continuous_feel_of_urine,2,Hepatitis D,0.003484320557491289
+toxic_look_(typhos),1,Hepatitis D,0.0017421602787456446
+irritability,1,Hepatitis D,0.0017421602787456446
+muscle_pain,3,Hepatitis D,0.005226480836236934
+altered_sensorium,1,Hepatitis D,0.0017421602787456446
+belly_pain,1,Hepatitis D,0.0017421602787456446
+abnormal_menstruation,1,Hepatitis D,0.0017421602787456446
+receiving_blood_transfusion,1,Hepatitis D,0.0017421602787456446
+receiving_unsterile_injections,1,Hepatitis D,0.0017421602787456446
+distention_of_abdomen,1,Hepatitis D,0.0017421602787456446
+history_of_alcohol_consumption,1,Hepatitis D,0.0017421602787456446
+fluid_overload,1,Hepatitis D,0.0017421602787456446
+pus_filled_pimples,1,Hepatitis D,0.0017421602787456446
+blackheads,1,Hepatitis D,0.0017421602787456446
+scurring,1,Hepatitis D,0.0017421602787456446
+skin_peeling,1,Hepatitis D,0.0017421602787456446
+silver_like_dusting,1,Hepatitis D,0.0017421602787456446
+small_dents_in_nails,1,Hepatitis D,0.0017421602787456446
+inflammatory_nails,1,Hepatitis D,0.0017421602787456446
+itching,54,Hepatitis B,0.06683168316831684
+skin_rash,2,Hepatitis B,0.0024752475247524753
+nodal_skin_eruptions,1,Hepatitis B,0.0012376237623762376
+chills,3,Hepatitis B,0.0037128712871287127
+joint_pain,3,Hepatitis B,0.0037128712871287127
+stomach_pain,1,Hepatitis B,0.0012376237623762376
+acidity,2,Hepatitis B,0.0024752475247524753
+vomiting,8,Hepatitis B,0.009900990099009901
+burning_micturition,2,Hepatitis B,0.0024752475247524753
+spotting_ urination,1,Hepatitis B,0.0012376237623762376
+fatigue,59,Hepatitis B,0.07301980198019802
+weight_gain,2,Hepatitis B,0.0024752475247524753
+anxiety,2,Hepatitis B,0.0024752475247524753
+cold_hands_and_feets,3,Hepatitis B,0.0037128712871287127
+mood_swings,4,Hepatitis B,0.0049504950495049506
+weight_loss,4,Hepatitis B,0.0049504950495049506
+restlessness,3,Hepatitis B,0.0037128712871287127
+lethargy,51,Hepatitis B,0.06311881188118812
+irregular_sugar_level,1,Hepatitis B,0.0012376237623762376
+cough,1,Hepatitis B,0.0012376237623762376
+high_fever,6,Hepatitis B,0.007425742574257425
+sunken_eyes,1,Hepatitis B,0.0012376237623762376
+breathlessness,1,Hepatitis B,0.0012376237623762376
+sweating,4,Hepatitis B,0.0049504950495049506
+dehydration,1,Hepatitis B,0.0012376237623762376
+indigestion,1,Hepatitis B,0.0012376237623762376
+headache,5,Hepatitis B,0.006188118811881188
+yellowish_skin,54,Hepatitis B,0.06683168316831684
+dark_urine,52,Hepatitis B,0.06435643564356436
+nausea,7,Hepatitis B,0.008663366336633664
+loss_of_appetite,53,Hepatitis B,0.0655940594059406
+back_pain,2,Hepatitis B,0.0024752475247524753
+constipation,4,Hepatitis B,0.0049504950495049506
+abdominal_pain,55,Hepatitis B,0.06806930693069307
+diarrhoea,6,Hepatitis B,0.007425742574257425
+mild_fever,1,Hepatitis B,0.0012376237623762376
+yellow_urine,50,Hepatitis B,0.06188118811881188
+yellowing_of_eyes,55,Hepatitis B,0.06806930693069307
+acute_liver_failure,2,Hepatitis B,0.0024752475247524753
+fluid_overload,1,Hepatitis B,0.0012376237623762376
+malaise,52,Hepatitis B,0.06435643564356436
+blurred_and_distorted_vision,3,Hepatitis B,0.0037128712871287127
+phlegm,1,Hepatitis B,0.0012376237623762376
+chest_pain,1,Hepatitis B,0.0012376237623762376
+weakness_in_limbs,2,Hepatitis B,0.0024752475247524753
+fast_heart_rate,2,Hepatitis B,0.0024752475247524753
+pain_during_bowel_movements,2,Hepatitis B,0.0024752475247524753
+pain_in_anal_region,3,Hepatitis B,0.0037128712871287127
+bloody_stool,2,Hepatitis B,0.0024752475247524753
+irritation_in_anus,3,Hepatitis B,0.0037128712871287127
+neck_pain,2,Hepatitis B,0.0024752475247524753
+dizziness,4,Hepatitis B,0.0049504950495049506
+obesity,1,Hepatitis B,0.0012376237623762376
+puffy_face_and_eyes,3,Hepatitis B,0.0037128712871287127
+enlarged_thyroid,2,Hepatitis B,0.0024752475247524753
+brittle_nails,2,Hepatitis B,0.0024752475247524753
+swollen_extremeties,2,Hepatitis B,0.0024752475247524753
+excessive_hunger,4,Hepatitis B,0.0049504950495049506
+drying_and_tingling_lips,2,Hepatitis B,0.0024752475247524753
+slurred_speech,1,Hepatitis B,0.0012376237623762376
+muscle_weakness,3,Hepatitis B,0.0037128712871287127
+stiff_neck,2,Hepatitis B,0.0024752475247524753
+swelling_joints,1,Hepatitis B,0.0012376237623762376
+movement_stiffness,1,Hepatitis B,0.0012376237623762376
+loss_of_balance,2,Hepatitis B,0.0024752475247524753
+weakness_of_one_body_side,1,Hepatitis B,0.0012376237623762376
+toxic_look_(typhos),3,Hepatitis B,0.0037128712871287127
+depression,3,Hepatitis B,0.0037128712871287127
+irritability,6,Hepatitis B,0.007425742574257425
+muscle_pain,1,Hepatitis B,0.0012376237623762376
+altered_sensorium,1,Hepatitis B,0.0012376237623762376
+belly_pain,3,Hepatitis B,0.0037128712871287127
+abnormal_menstruation,4,Hepatitis B,0.0049504950495049506
+dischromic _patches,2,Hepatitis B,0.0024752475247524753
+increased_appetite,1,Hepatitis B,0.0012376237623762376
+polyuria,1,Hepatitis B,0.0012376237623762376
+rusty_sputum,1,Hepatitis B,0.0012376237623762376
+receiving_blood_transfusion,51,Hepatitis B,0.06311881188118812
+receiving_unsterile_injections,51,Hepatitis B,0.06311881188118812
+coma,2,Hepatitis B,0.0024752475247524753
+stomach_bleeding,2,Hepatitis B,0.0024752475247524753
+fluid_overload,1,Hepatitis B,0.0012376237623762376
+palpitations,1,Hepatitis B,0.0012376237623762376
+painful_walking,1,Hepatitis B,0.0012376237623762376
+scurring,1,Hepatitis B,0.0012376237623762376
+itching,8,Dengue,0.0098159509202454
+skin_rash,54,Dengue,0.06625766871165645
+nodal_skin_eruptions,2,Dengue,0.00245398773006135
+continuous_sneezing,2,Dengue,0.00245398773006135
+shivering,1,Dengue,0.001226993865030675
+chills,47,Dengue,0.05766871165644172
+joint_pain,47,Dengue,0.05766871165644172
+stomach_pain,2,Dengue,0.00245398773006135
+vomiting,52,Dengue,0.0638036809815951
+burning_micturition,1,Dengue,0.001226993865030675
+spotting_ urination,2,Dengue,0.00245398773006135
+fatigue,50,Dengue,0.06134969325153374
+mood_swings,2,Dengue,0.00245398773006135
+weight_loss,2,Dengue,0.00245398773006135
+restlessness,1,Dengue,0.001226993865030675
+lethargy,2,Dengue,0.00245398773006135
+patches_in_throat,1,Dengue,0.001226993865030675
+irregular_sugar_level,1,Dengue,0.001226993865030675
+cough,1,Dengue,0.001226993865030675
+high_fever,49,Dengue,0.06012269938650307
+sweating,3,Dengue,0.0036809815950920245
+indigestion,1,Dengue,0.001226993865030675
+headache,51,Dengue,0.06257668711656442
+yellowish_skin,7,Dengue,0.008588957055214725
+dark_urine,5,Dengue,0.006134969325153374
+nausea,52,Dengue,0.0638036809815951
+loss_of_appetite,53,Dengue,0.06503067484662577
+pain_behind_the_eyes,46,Dengue,0.05644171779141104
+back_pain,46,Dengue,0.05644171779141104
+constipation,2,Dengue,0.00245398773006135
+abdominal_pain,7,Dengue,0.008588957055214725
+diarrhoea,3,Dengue,0.0036809815950920245
+mild_fever,2,Dengue,0.00245398773006135
+yellow_urine,1,Dengue,0.001226993865030675
+yellowing_of_eyes,6,Dengue,0.007361963190184049
+acute_liver_failure,1,Dengue,0.001226993865030675
+swelling_of_stomach,1,Dengue,0.001226993865030675
+swelled_lymph_nodes,3,Dengue,0.0036809815950920245
+malaise,47,Dengue,0.05766871165644172
+phlegm,1,Dengue,0.001226993865030675
+throat_irritation,1,Dengue,0.001226993865030675
+redness_of_eyes,1,Dengue,0.001226993865030675
+sinus_pressure,1,Dengue,0.001226993865030675
+runny_nose,2,Dengue,0.00245398773006135
+congestion,1,Dengue,0.001226993865030675
+chest_pain,2,Dengue,0.00245398773006135
+fast_heart_rate,2,Dengue,0.00245398773006135
+pain_during_bowel_movements,1,Dengue,0.001226993865030675
+pain_in_anal_region,1,Dengue,0.001226993865030675
+bloody_stool,1,Dengue,0.001226993865030675
+irritation_in_anus,1,Dengue,0.001226993865030675
+dizziness,1,Dengue,0.001226993865030675
+brittle_nails,1,Dengue,0.001226993865030675
+excessive_hunger,2,Dengue,0.00245398773006135
+muscle_weakness,3,Dengue,0.0036809815950920245
+stiff_neck,1,Dengue,0.001226993865030675
+swelling_joints,1,Dengue,0.001226993865030675
+movement_stiffness,1,Dengue,0.001226993865030675
+spinning_movements,1,Dengue,0.001226993865030675
+loss_of_balance,2,Dengue,0.00245398773006135
+unsteadiness,1,Dengue,0.001226993865030675
+loss_of_smell,1,Dengue,0.001226993865030675
+irritability,2,Dengue,0.00245398773006135
+muscle_pain,46,Dengue,0.05644171779141104
+red_spots_over_body,44,Dengue,0.053987730061349694
+abnormal_menstruation,3,Dengue,0.0036809815950920245
+dischromic _patches,2,Dengue,0.00245398773006135
+watering_from_eyes,1,Dengue,0.001226993865030675
+lack_of_concentration,1,Dengue,0.001226993865030675
+receiving_blood_transfusion,3,Dengue,0.0036809815950920245
+receiving_unsterile_injections,2,Dengue,0.00245398773006135
+coma,2,Dengue,0.00245398773006135
+stomach_bleeding,1,Dengue,0.001226993865030675
+distention_of_abdomen,1,Dengue,0.001226993865030675
+fluid_overload,1,Dengue,0.001226993865030675
+painful_walking,1,Dengue,0.001226993865030675
+pus_filled_pimples,1,Dengue,0.001226993865030675
+blackheads,2,Dengue,0.00245398773006135
+scurring,1,Dengue,0.001226993865030675
+skin_peeling,2,Dengue,0.00245398773006135
+silver_like_dusting,2,Dengue,0.00245398773006135
+small_dents_in_nails,1,Dengue,0.001226993865030675
+inflammatory_nails,2,Dengue,0.00245398773006135
+itching,2,Common Cold,0.0018885741265344666
+skin_rash,3,Common Cold,0.0028328611898017
+nodal_skin_eruptions,1,Common Cold,0.0009442870632672333
+continuous_sneezing,52,Common Cold,0.049102927289896126
+chills,52,Common Cold,0.049102927289896126
+joint_pain,3,Common Cold,0.0028328611898017
+stomach_pain,2,Common Cold,0.0018885741265344666
+acidity,3,Common Cold,0.0028328611898017
+ulcers_on_tongue,1,Common Cold,0.0009442870632672333
+muscle_wasting,2,Common Cold,0.0018885741265344666
+vomiting,5,Common Cold,0.004721435316336166
+burning_micturition,2,Common Cold,0.0018885741265344666
+spotting_ urination,1,Common Cold,0.0009442870632672333
+fatigue,56,Common Cold,0.05288007554296506
+weight_gain,2,Common Cold,0.0018885741265344666
+cold_hands_and_feets,2,Common Cold,0.0018885741265344666
+mood_swings,4,Common Cold,0.003777148253068933
+weight_loss,3,Common Cold,0.0028328611898017
+restlessness,3,Common Cold,0.0028328611898017
+lethargy,2,Common Cold,0.0018885741265344666
+patches_in_throat,1,Common Cold,0.0009442870632672333
+irregular_sugar_level,1,Common Cold,0.0009442870632672333
+cough,52,Common Cold,0.049102927289896126
+high_fever,54,Common Cold,0.05099150141643059
+breathlessness,2,Common Cold,0.0018885741265344666
+sweating,3,Common Cold,0.0028328611898017
+indigestion,2,Common Cold,0.0018885741265344666
+headache,54,Common Cold,0.05099150141643059
+nausea,1,Common Cold,0.0009442870632672333
+loss_of_appetite,1,Common Cold,0.0009442870632672333
+constipation,2,Common Cold,0.0018885741265344666
+abdominal_pain,1,Common Cold,0.0009442870632672333
+diarrhoea,2,Common Cold,0.0018885741265344666
+yellowing_of_eyes,1,Common Cold,0.0009442870632672333
+swelling_of_stomach,1,Common Cold,0.0009442870632672333
+swelled_lymph_nodes,51,Common Cold,0.04815864022662889
+malaise,51,Common Cold,0.04815864022662889
+blurred_and_distorted_vision,2,Common Cold,0.0018885741265344666
+phlegm,55,Common Cold,0.05193578847969783
+throat_irritation,55,Common Cold,0.05193578847969783
+redness_of_eyes,55,Common Cold,0.05193578847969783
+sinus_pressure,55,Common Cold,0.05193578847969783
+runny_nose,55,Common Cold,0.05193578847969783
+congestion,55,Common Cold,0.05193578847969783
+chest_pain,58,Common Cold,0.05476864966949953
+fast_heart_rate,1,Common Cold,0.0009442870632672333
+pain_during_bowel_movements,2,Common Cold,0.0018885741265344666
+pain_in_anal_region,2,Common Cold,0.0018885741265344666
+bloody_stool,2,Common Cold,0.0018885741265344666
+irritation_in_anus,1,Common Cold,0.0009442870632672333
+neck_pain,2,Common Cold,0.0018885741265344666
+dizziness,2,Common Cold,0.0018885741265344666
+obesity,1,Common Cold,0.0009442870632672333
+puffy_face_and_eyes,2,Common Cold,0.0018885741265344666
+enlarged_thyroid,2,Common Cold,0.0018885741265344666
+brittle_nails,3,Common Cold,0.0028328611898017
+swollen_extremeties,2,Common Cold,0.0018885741265344666
+excessive_hunger,5,Common Cold,0.004721435316336166
+extra_marital_contacts,2,Common Cold,0.0018885741265344666
+knee_pain,3,Common Cold,0.0028328611898017
+hip_joint_pain,2,Common Cold,0.0018885741265344666
+muscle_weakness,3,Common Cold,0.0028328611898017
+stiff_neck,3,Common Cold,0.0028328611898017
+swelling_joints,3,Common Cold,0.0028328611898017
+movement_stiffness,1,Common Cold,0.0009442870632672333
+loss_of_balance,2,Common Cold,0.0018885741265344666
+weakness_of_one_body_side,1,Common Cold,0.0009442870632672333
+loss_of_smell,55,Common Cold,0.05193578847969783
+bladder_discomfort,2,Common Cold,0.0018885741265344666
+foul_smell_of urine,1,Common Cold,0.0009442870632672333
+continuous_feel_of_urine,1,Common Cold,0.0009442870632672333
+internal_itching,1,Common Cold,0.0009442870632672333
+depression,4,Common Cold,0.003777148253068933
+irritability,6,Common Cold,0.0056657223796034
+muscle_pain,55,Common Cold,0.05193578847969783
+altered_sensorium,1,Common Cold,0.0009442870632672333
+abnormal_menstruation,4,Common Cold,0.003777148253068933
+dischromic _patches,1,Common Cold,0.0009442870632672333
+increased_appetite,1,Common Cold,0.0009442870632672333
+polyuria,1,Common Cold,0.0009442870632672333
+visual_disturbances,2,Common Cold,0.0018885741265344666
+receiving_blood_transfusion,1,Common Cold,0.0009442870632672333
+painful_walking,2,Common Cold,0.0018885741265344666
+pus_filled_pimples,1,Common Cold,0.0009442870632672333
+blackheads,1,Common Cold,0.0009442870632672333
+scurring,1,Common Cold,0.0009442870632672333
+itching,1,Typhoid,0.001669449081803005
+skin_rash,2,Typhoid,0.00333889816360601
+chills,44,Typhoid,0.07345575959933222
+stomach_pain,1,Typhoid,0.001669449081803005
+acidity,3,Typhoid,0.005008347245409015
+ulcers_on_tongue,1,Typhoid,0.001669449081803005
+vomiting,49,Typhoid,0.08180300500834725
+burning_micturition,4,Typhoid,0.00667779632721202
+fatigue,49,Typhoid,0.08180300500834725
+mood_swings,3,Typhoid,0.005008347245409015
+weight_loss,5,Typhoid,0.008347245409015025
+restlessness,4,Typhoid,0.00667779632721202
+lethargy,1,Typhoid,0.001669449081803005
+irregular_sugar_level,1,Typhoid,0.001669449081803005
+cough,2,Typhoid,0.00333889816360601
+high_fever,47,Typhoid,0.07846410684474124
+sunken_eyes,1,Typhoid,0.001669449081803005
+breathlessness,3,Typhoid,0.005008347245409015
+sweating,6,Typhoid,0.01001669449081803
+dehydration,1,Typhoid,0.001669449081803005
+indigestion,2,Typhoid,0.00333889816360601
+headache,45,Typhoid,0.07512520868113523
+yellowish_skin,2,Typhoid,0.00333889816360601
+dark_urine,1,Typhoid,0.001669449081803005
+nausea,42,Typhoid,0.07011686143572621
+loss_of_appetite,1,Typhoid,0.001669449081803005
+constipation,41,Typhoid,0.06844741235392321
+abdominal_pain,39,Typhoid,0.0651085141903172
+diarrhoea,46,Typhoid,0.07679465776293823
+mild_fever,1,Typhoid,0.001669449081803005
+yellowing_of_eyes,1,Typhoid,0.001669449081803005
+swelling_of_stomach,1,Typhoid,0.001669449081803005
+swelled_lymph_nodes,2,Typhoid,0.00333889816360601
+malaise,1,Typhoid,0.001669449081803005
+blurred_and_distorted_vision,3,Typhoid,0.005008347245409015
+phlegm,1,Typhoid,0.001669449081803005
+chest_pain,4,Typhoid,0.00667779632721202
+fast_heart_rate,3,Typhoid,0.005008347245409015
+dizziness,1,Typhoid,0.001669449081803005
+obesity,1,Typhoid,0.001669449081803005
+excessive_hunger,5,Typhoid,0.008347245409015025
+hip_joint_pain,1,Typhoid,0.001669449081803005
+muscle_weakness,3,Typhoid,0.005008347245409015
+stiff_neck,2,Typhoid,0.00333889816360601
+spinning_movements,1,Typhoid,0.001669449081803005
+loss_of_balance,2,Typhoid,0.00333889816360601
+unsteadiness,1,Typhoid,0.001669449081803005
+bladder_discomfort,3,Typhoid,0.005008347245409015
+foul_smell_of urine,3,Typhoid,0.005008347245409015
+continuous_feel_of_urine,4,Typhoid,0.00667779632721202
+toxic_look_(typhos),38,Typhoid,0.06343906510851419
+depression,2,Typhoid,0.00333889816360601
+irritability,5,Typhoid,0.008347245409015025
+muscle_pain,2,Typhoid,0.00333889816360601
+altered_sensorium,1,Typhoid,0.001669449081803005
+red_spots_over_body,1,Typhoid,0.001669449081803005
+belly_pain,38,Typhoid,0.06343906510851419
+abnormal_menstruation,3,Typhoid,0.005008347245409015
+increased_appetite,1,Typhoid,0.001669449081803005
+polyuria,1,Typhoid,0.001669449081803005
+family_history,1,Typhoid,0.001669449081803005
+mucoid_sputum,1,Typhoid,0.001669449081803005
+lack_of_concentration,1,Typhoid,0.001669449081803005
+visual_disturbances,2,Typhoid,0.00333889816360601
+coma,1,Typhoid,0.001669449081803005
+distention_of_abdomen,1,Typhoid,0.001669449081803005
+history_of_alcohol_consumption,1,Typhoid,0.001669449081803005
+fluid_overload,1,Typhoid,0.001669449081803005
+blood_in_sputum,1,Typhoid,0.001669449081803005
+blister,2,Typhoid,0.00333889816360601
+red_sore_around_nose,2,Typhoid,0.00333889816360601
+yellow_crust_ooze,2,Typhoid,0.00333889816360601
+itching,3,Hepatitis E,0.004070556309362279
+skin_rash,2,Hepatitis E,0.0027137042062415195
+nodal_skin_eruptions,1,Hepatitis E,0.0013568521031207597
+continuous_sneezing,3,Hepatitis E,0.004070556309362279
+shivering,3,Hepatitis E,0.004070556309362279
+chills,4,Hepatitis E,0.005427408412483039
+joint_pain,48,Hepatitis E,0.06512890094979647
+acidity,1,Hepatitis E,0.0013568521031207597
+vomiting,51,Hepatitis E,0.06919945725915876
+fatigue,50,Hepatitis E,0.06784260515603799
+anxiety,1,Hepatitis E,0.0013568521031207597
+weight_loss,1,Hepatitis E,0.0013568521031207597
+lethargy,1,Hepatitis E,0.0013568521031207597
+patches_in_throat,1,Hepatitis E,0.0013568521031207597
+cough,1,Hepatitis E,0.0013568521031207597
+high_fever,50,Hepatitis E,0.06784260515603799
+sunken_eyes,2,Hepatitis E,0.0027137042062415195
+breathlessness,1,Hepatitis E,0.0013568521031207597
+sweating,2,Hepatitis E,0.0027137042062415195
+dehydration,1,Hepatitis E,0.0013568521031207597
+headache,3,Hepatitis E,0.004070556309362279
+yellowish_skin,52,Hepatitis E,0.07055630936227951
+dark_urine,48,Hepatitis E,0.06512890094979647
+nausea,50,Hepatitis E,0.06784260515603799
+loss_of_appetite,55,Hepatitis E,0.07462686567164178
+abdominal_pain,52,Hepatitis E,0.07055630936227951
+diarrhoea,1,Hepatitis E,0.0013568521031207597
+mild_fever,2,Hepatitis E,0.0027137042062415195
+yellowing_of_eyes,54,Hepatitis E,0.07327001356852103
+acute_liver_failure,49,Hepatitis E,0.06648575305291723
+fluid_overload,2,Hepatitis E,0.0027137042062415195
+swelled_lymph_nodes,1,Hepatitis E,0.0013568521031207597
+malaise,2,Hepatitis E,0.0027137042062415195
+blurred_and_distorted_vision,2,Hepatitis E,0.0027137042062415195
+phlegm,1,Hepatitis E,0.0013568521031207597
+chest_pain,1,Hepatitis E,0.0013568521031207597
+weakness_in_limbs,1,Hepatitis E,0.0013568521031207597
+pain_during_bowel_movements,1,Hepatitis E,0.0013568521031207597
+pain_in_anal_region,1,Hepatitis E,0.0013568521031207597
+bloody_stool,1,Hepatitis E,0.0013568521031207597
+irritation_in_anus,1,Hepatitis E,0.0013568521031207597
+swollen_legs,1,Hepatitis E,0.0013568521031207597
+excessive_hunger,2,Hepatitis E,0.0027137042062415195
+extra_marital_contacts,1,Hepatitis E,0.0013568521031207597
+drying_and_tingling_lips,1,Hepatitis E,0.0013568521031207597
+slurred_speech,1,Hepatitis E,0.0013568521031207597
+knee_pain,1,Hepatitis E,0.0013568521031207597
+hip_joint_pain,1,Hepatitis E,0.0013568521031207597
+stiff_neck,1,Hepatitis E,0.0013568521031207597
+swelling_joints,1,Hepatitis E,0.0013568521031207597
+passage_of_gases,1,Hepatitis E,0.0013568521031207597
+depression,2,Hepatitis E,0.0027137042062415195
+irritability,2,Hepatitis E,0.0027137042062415195
+red_spots_over_body,1,Hepatitis E,0.0013568521031207597
+watering_from_eyes,3,Hepatitis E,0.004070556309362279
+family_history,1,Hepatitis E,0.0013568521031207597
+visual_disturbances,1,Hepatitis E,0.0013568521031207597
+coma,50,Hepatitis E,0.06784260515603799
+stomach_bleeding,49,Hepatitis E,0.06648575305291723
+fluid_overload,2,Hepatitis E,0.0027137042062415195
+blood_in_sputum,2,Hepatitis E,0.0027137042062415195
+palpitations,1,Hepatitis E,0.0013568521031207597
+painful_walking,1,Hepatitis E,0.0013568521031207597
+scurring,1,Hepatitis E,0.0013568521031207597
+skin_peeling,1,Hepatitis E,0.0013568521031207597
+silver_like_dusting,1,Hepatitis E,0.0013568521031207597
+small_dents_in_nails,1,Hepatitis E,0.0013568521031207597
+itching,4,Tuberculosis,0.004343105320304018
+skin_rash,1,Tuberculosis,0.0010857763300760044
+nodal_skin_eruptions,2,Tuberculosis,0.002171552660152009
+chills,48,Tuberculosis,0.05211726384364821
+joint_pain,3,Tuberculosis,0.003257328990228013
+stomach_pain,1,Tuberculosis,0.0010857763300760044
+acidity,1,Tuberculosis,0.0010857763300760044
+ulcers_on_tongue,1,Tuberculosis,0.0010857763300760044
+vomiting,59,Tuberculosis,0.06406080347448426
+burning_micturition,2,Tuberculosis,0.002171552660152009
+fatigue,57,Tuberculosis,0.06188925081433225
+weight_gain,2,Tuberculosis,0.002171552660152009
+cold_hands_and_feets,2,Tuberculosis,0.002171552660152009
+mood_swings,2,Tuberculosis,0.002171552660152009
+weight_loss,47,Tuberculosis,0.051031487513572206
+restlessness,1,Tuberculosis,0.0010857763300760044
+lethargy,3,Tuberculosis,0.003257328990228013
+irregular_sugar_level,1,Tuberculosis,0.0010857763300760044
+cough,46,Tuberculosis,0.0499457111834962
+high_fever,51,Tuberculosis,0.05537459283387622
+breathlessness,46,Tuberculosis,0.0499457111834962
+sweating,48,Tuberculosis,0.05211726384364821
+headache,3,Tuberculosis,0.003257328990228013
+yellowish_skin,6,Tuberculosis,0.006514657980456026
+dark_urine,3,Tuberculosis,0.003257328990228013
+nausea,7,Tuberculosis,0.00760043431053203
+loss_of_appetite,55,Tuberculosis,0.05971769815418024
+back_pain,1,Tuberculosis,0.0010857763300760044
+constipation,1,Tuberculosis,0.0010857763300760044
+abdominal_pain,5,Tuberculosis,0.0054288816503800215
+diarrhoea,3,Tuberculosis,0.003257328990228013
+mild_fever,51,Tuberculosis,0.05537459283387622
+yellowing_of_eyes,55,Tuberculosis,0.05971769815418024
+swelled_lymph_nodes,50,Tuberculosis,0.05428881650380022
+malaise,50,Tuberculosis,0.05428881650380022
+blurred_and_distorted_vision,1,Tuberculosis,0.0010857763300760044
+phlegm,50,Tuberculosis,0.05428881650380022
+chest_pain,51,Tuberculosis,0.05537459283387622
+neck_pain,1,Tuberculosis,0.0010857763300760044
+dizziness,2,Tuberculosis,0.002171552660152009
+cramps,2,Tuberculosis,0.002171552660152009
+bruising,2,Tuberculosis,0.002171552660152009
+obesity,3,Tuberculosis,0.003257328990228013
+swollen_legs,2,Tuberculosis,0.002171552660152009
+swollen_blood_vessels,2,Tuberculosis,0.002171552660152009
+puffy_face_and_eyes,1,Tuberculosis,0.0010857763300760044
+enlarged_thyroid,2,Tuberculosis,0.002171552660152009
+brittle_nails,2,Tuberculosis,0.002171552660152009
+swollen_extremeties,2,Tuberculosis,0.002171552660152009
+spinning_movements,2,Tuberculosis,0.002171552660152009
+loss_of_balance,3,Tuberculosis,0.003257328990228013
+unsteadiness,2,Tuberculosis,0.002171552660152009
+weakness_of_one_body_side,1,Tuberculosis,0.0010857763300760044
+bladder_discomfort,2,Tuberculosis,0.002171552660152009
+foul_smell_of urine,1,Tuberculosis,0.0010857763300760044
+continuous_feel_of_urine,2,Tuberculosis,0.002171552660152009
+depression,2,Tuberculosis,0.002171552660152009
+irritability,2,Tuberculosis,0.002171552660152009
+muscle_pain,3,Tuberculosis,0.003257328990228013
+red_spots_over_body,1,Tuberculosis,0.0010857763300760044
+abnormal_menstruation,2,Tuberculosis,0.002171552660152009
+dischromic _patches,1,Tuberculosis,0.0010857763300760044
+increased_appetite,1,Tuberculosis,0.0010857763300760044
+polyuria,1,Tuberculosis,0.0010857763300760044
+family_history,1,Tuberculosis,0.0010857763300760044
+mucoid_sputum,1,Tuberculosis,0.0010857763300760044
+blood_in_sputum,50,Tuberculosis,0.05428881650380022
+prominent_veins_on_calf,2,Tuberculosis,0.002171552660152009
+skin_rash,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+chills,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+joint_pain,4,Dimorphic hemmorhoids(piles),0.009456264775413711
+vomiting,8,Dimorphic hemmorhoids(piles),0.018912529550827423
+burning_micturition,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+fatigue,6,Dimorphic hemmorhoids(piles),0.014184397163120567
+weight_gain,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+anxiety,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+cold_hands_and_feets,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+mood_swings,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+restlessness,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+lethargy,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+cough,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+high_fever,6,Dimorphic hemmorhoids(piles),0.014184397163120567
+sunken_eyes,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+breathlessness,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+sweating,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+dehydration,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+headache,8,Dimorphic hemmorhoids(piles),0.018912529550827423
+yellowish_skin,4,Dimorphic hemmorhoids(piles),0.009456264775413711
+dark_urine,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+nausea,8,Dimorphic hemmorhoids(piles),0.018912529550827423
+loss_of_appetite,4,Dimorphic hemmorhoids(piles),0.009456264775413711
+pain_behind_the_eyes,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+back_pain,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+constipation,54,Dimorphic hemmorhoids(piles),0.1276595744680851
+abdominal_pain,4,Dimorphic hemmorhoids(piles),0.009456264775413711
+diarrhoea,5,Dimorphic hemmorhoids(piles),0.01182033096926714
+mild_fever,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+yellowing_of_eyes,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+swelling_of_stomach,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+malaise,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+blurred_and_distorted_vision,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+chest_pain,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+pain_during_bowel_movements,54,Dimorphic hemmorhoids(piles),0.1276595744680851
+pain_in_anal_region,52,Dimorphic hemmorhoids(piles),0.12293144208037825
+bloody_stool,54,Dimorphic hemmorhoids(piles),0.1276595744680851
+irritation_in_anus,56,Dimorphic hemmorhoids(piles),0.13238770685579196
+neck_pain,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+dizziness,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+swollen_blood_vessels,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+puffy_face_and_eyes,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+enlarged_thyroid,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+brittle_nails,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+swollen_extremeties,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+excessive_hunger,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+drying_and_tingling_lips,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+slurred_speech,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+knee_pain,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+hip_joint_pain,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+swelling_joints,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+spinning_movements,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+loss_of_balance,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+unsteadiness,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+weakness_of_one_body_side,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+bladder_discomfort,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+foul_smell_of urine,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+continuous_feel_of_urine,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+toxic_look_(typhos),1,Dimorphic hemmorhoids(piles),0.002364066193853428
+depression,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+irritability,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+muscle_pain,4,Dimorphic hemmorhoids(piles),0.009456264775413711
+altered_sensorium,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+red_spots_over_body,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+belly_pain,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+abnormal_menstruation,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+dischromic _patches,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+family_history,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+mucoid_sputum,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+distention_of_abdomen,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+history_of_alcohol_consumption,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+fluid_overload,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+palpitations,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+painful_walking,1,Dimorphic hemmorhoids(piles),0.002364066193853428
+blister,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+red_sore_around_nose,2,Dimorphic hemmorhoids(piles),0.004728132387706856
+yellow_crust_ooze,3,Dimorphic hemmorhoids(piles),0.0070921985815602835
+itching,4,Urinary tract infection,0.013559322033898305
+skin_rash,3,Urinary tract infection,0.010169491525423728
+nodal_skin_eruptions,1,Urinary tract infection,0.003389830508474576
+continuous_sneezing,1,Urinary tract infection,0.003389830508474576
+shivering,1,Urinary tract infection,0.003389830508474576
+chills,1,Urinary tract infection,0.003389830508474576
+joint_pain,2,Urinary tract infection,0.006779661016949152
+stomach_pain,1,Urinary tract infection,0.003389830508474576
+ulcers_on_tongue,1,Urinary tract infection,0.003389830508474576
+vomiting,11,Urinary tract infection,0.03728813559322034
+burning_micturition,32,Urinary tract infection,0.10847457627118644
+fatigue,6,Urinary tract infection,0.020338983050847456
+anxiety,1,Urinary tract infection,0.003389830508474576
+weight_loss,2,Urinary tract infection,0.006779661016949152
+restlessness,1,Urinary tract infection,0.003389830508474576
+lethargy,2,Urinary tract infection,0.006779661016949152
+irregular_sugar_level,1,Urinary tract infection,0.003389830508474576
+cough,1,Urinary tract infection,0.003389830508474576
+high_fever,3,Urinary tract infection,0.010169491525423728
+sunken_eyes,2,Urinary tract infection,0.006779661016949152
+sweating,2,Urinary tract infection,0.006779661016949152
+dehydration,2,Urinary tract infection,0.006779661016949152
+indigestion,1,Urinary tract infection,0.003389830508474576
+headache,8,Urinary tract infection,0.02711864406779661
+yellowish_skin,3,Urinary tract infection,0.010169491525423728
+dark_urine,2,Urinary tract infection,0.006779661016949152
+nausea,5,Urinary tract infection,0.01694915254237288
+loss_of_appetite,4,Urinary tract infection,0.013559322033898305
+back_pain,2,Urinary tract infection,0.006779661016949152
+abdominal_pain,3,Urinary tract infection,0.010169491525423728
+diarrhoea,3,Urinary tract infection,0.010169491525423728
+mild_fever,1,Urinary tract infection,0.003389830508474576
+yellowing_of_eyes,2,Urinary tract infection,0.006779661016949152
+swelled_lymph_nodes,1,Urinary tract infection,0.003389830508474576
+malaise,1,Urinary tract infection,0.003389830508474576
+blurred_and_distorted_vision,2,Urinary tract infection,0.006779661016949152
+chest_pain,3,Urinary tract infection,0.010169491525423728
+weakness_in_limbs,3,Urinary tract infection,0.010169491525423728
+neck_pain,3,Urinary tract infection,0.010169491525423728
+dizziness,4,Urinary tract infection,0.013559322033898305
+cramps,1,Urinary tract infection,0.003389830508474576
+bruising,1,Urinary tract infection,0.003389830508474576
+obesity,1,Urinary tract infection,0.003389830508474576
+swollen_legs,1,Urinary tract infection,0.003389830508474576
+swollen_blood_vessels,1,Urinary tract infection,0.003389830508474576
+excessive_hunger,2,Urinary tract infection,0.006779661016949152
+drying_and_tingling_lips,1,Urinary tract infection,0.003389830508474576
+slurred_speech,1,Urinary tract infection,0.003389830508474576
+knee_pain,1,Urinary tract infection,0.003389830508474576
+hip_joint_pain,1,Urinary tract infection,0.003389830508474576
+muscle_weakness,1,Urinary tract infection,0.003389830508474576
+stiff_neck,1,Urinary tract infection,0.003389830508474576
+swelling_joints,2,Urinary tract infection,0.006779661016949152
+movement_stiffness,1,Urinary tract infection,0.003389830508474576
+spinning_movements,1,Urinary tract infection,0.003389830508474576
+loss_of_balance,5,Urinary tract infection,0.01694915254237288
+unsteadiness,1,Urinary tract infection,0.003389830508474576
+weakness_of_one_body_side,3,Urinary tract infection,0.010169491525423728
+bladder_discomfort,39,Urinary tract infection,0.13220338983050847
+foul_smell_of urine,37,Urinary tract infection,0.12542372881355932
+continuous_feel_of_urine,37,Urinary tract infection,0.12542372881355932
+passage_of_gases,1,Urinary tract infection,0.003389830508474576
+internal_itching,1,Urinary tract infection,0.003389830508474576
+irritability,1,Urinary tract infection,0.003389830508474576
+muscle_pain,1,Urinary tract infection,0.003389830508474576
+altered_sensorium,3,Urinary tract infection,0.010169491525423728
+red_spots_over_body,1,Urinary tract infection,0.003389830508474576
+dischromic _patches,1,Urinary tract infection,0.003389830508474576
+watering_from_eyes,1,Urinary tract infection,0.003389830508474576
+increased_appetite,1,Urinary tract infection,0.003389830508474576
+polyuria,1,Urinary tract infection,0.003389830508474576
+lack_of_concentration,2,Urinary tract infection,0.006779661016949152
+prominent_veins_on_calf,1,Urinary tract infection,0.003389830508474576
+palpitations,2,Urinary tract infection,0.006779661016949152
+painful_walking,2,Urinary tract infection,0.006779661016949152
+pus_filled_pimples,1,Urinary tract infection,0.003389830508474576
+blackheads,1,Urinary tract infection,0.003389830508474576
+scurring,2,Urinary tract infection,0.006779661016949152
+inflammatory_nails,1,Urinary tract infection,0.003389830508474576
+itching,1,Hypertension ,0.0025
+skin_rash,1,Hypertension ,0.0025
+chills,8,Hypertension ,0.02
+joint_pain,1,Hypertension ,0.0025
+stomach_pain,2,Hypertension ,0.005
+acidity,1,Hypertension ,0.0025
+ulcers_on_tongue,1,Hypertension ,0.0025
+vomiting,13,Hypertension ,0.0325
+fatigue,7,Hypertension ,0.0175
+weight_loss,2,Hypertension ,0.005
+patches_in_throat,1,Hypertension ,0.0025
+cough,2,Hypertension ,0.005
+high_fever,9,Hypertension ,0.0225
+breathlessness,1,Hypertension ,0.0025
+sweating,3,Hypertension ,0.0075
+indigestion,2,Hypertension ,0.005
+headache,61,Hypertension ,0.1525
+yellowish_skin,2,Hypertension ,0.005
+dark_urine,1,Hypertension ,0.0025
+nausea,10,Hypertension ,0.025
+loss_of_appetite,5,Hypertension ,0.0125
+pain_behind_the_eyes,2,Hypertension ,0.005
+back_pain,1,Hypertension ,0.0025
+constipation,3,Hypertension ,0.0075
+abdominal_pain,6,Hypertension ,0.015
+diarrhoea,6,Hypertension ,0.015
+mild_fever,1,Hypertension ,0.0025
+yellowing_of_eyes,2,Hypertension ,0.005
+fluid_overload,1,Hypertension ,0.0025
+swelled_lymph_nodes,1,Hypertension ,0.0025
+malaise,2,Hypertension ,0.005
+phlegm,2,Hypertension ,0.005
+runny_nose,1,Hypertension ,0.0025
+chest_pain,50,Hypertension ,0.125
+fast_heart_rate,1,Hypertension ,0.0025
+neck_pain,1,Hypertension ,0.0025
+dizziness,48,Hypertension ,0.12
+cramps,1,Hypertension ,0.0025
+puffy_face_and_eyes,1,Hypertension ,0.0025
+slurred_speech,1,Hypertension ,0.0025
+knee_pain,1,Hypertension ,0.0025
+hip_joint_pain,1,Hypertension ,0.0025
+muscle_weakness,1,Hypertension ,0.0025
+swelling_joints,1,Hypertension ,0.0025
+spinning_movements,1,Hypertension ,0.0025
+loss_of_balance,52,Hypertension ,0.13
+unsteadiness,2,Hypertension ,0.005
+weakness_of_one_body_side,1,Hypertension ,0.0025
+passage_of_gases,2,Hypertension ,0.005
+internal_itching,2,Hypertension ,0.005
+toxic_look_(typhos),3,Hypertension ,0.0075
+muscle_pain,4,Hypertension ,0.01
+red_spots_over_body,1,Hypertension ,0.0025
+belly_pain,3,Hypertension ,0.0075
+abnormal_menstruation,1,Hypertension ,0.0025
+family_history,1,Hypertension ,0.0025
+lack_of_concentration,50,Hypertension ,0.125
+history_of_alcohol_consumption,1,Hypertension ,0.0025
+fluid_overload,1,Hypertension ,0.0025
+blood_in_sputum,3,Hypertension ,0.0075
+painful_walking,1,Hypertension ,0.0025
+small_dents_in_nails,1,Hypertension ,0.0025
+yellow_crust_ooze,1,Hypertension ,0.0025
+itching,2,Peptic ulcer diseae,0.004056795131845842
+skin_rash,4,Peptic ulcer diseae,0.008113590263691683
+chills,3,Peptic ulcer diseae,0.006085192697768763
+joint_pain,5,Peptic ulcer diseae,0.010141987829614604
+stomach_pain,1,Peptic ulcer diseae,0.002028397565922921
+acidity,1,Peptic ulcer diseae,0.002028397565922921
+ulcers_on_tongue,1,Peptic ulcer diseae,0.002028397565922921
+muscle_wasting,1,Peptic ulcer diseae,0.002028397565922921
+vomiting,56,Peptic ulcer diseae,0.11359026369168357
+fatigue,8,Peptic ulcer diseae,0.016227180527383367
+anxiety,3,Peptic ulcer diseae,0.006085192697768763
+mood_swings,2,Peptic ulcer diseae,0.004056795131845842
+weight_loss,4,Peptic ulcer diseae,0.008113590263691683
+restlessness,1,Peptic ulcer diseae,0.002028397565922921
+lethargy,1,Peptic ulcer diseae,0.002028397565922921
+patches_in_throat,1,Peptic ulcer diseae,0.002028397565922921
+cough,5,Peptic ulcer diseae,0.010141987829614604
+high_fever,5,Peptic ulcer diseae,0.010141987829614604
+sunken_eyes,1,Peptic ulcer diseae,0.002028397565922921
+breathlessness,2,Peptic ulcer diseae,0.004056795131845842
+sweating,5,Peptic ulcer diseae,0.010141987829614604
+dehydration,1,Peptic ulcer diseae,0.002028397565922921
+indigestion,46,Peptic ulcer diseae,0.09330628803245436
+headache,6,Peptic ulcer diseae,0.012170385395537525
+yellowish_skin,4,Peptic ulcer diseae,0.008113590263691683
+dark_urine,2,Peptic ulcer diseae,0.004056795131845842
+nausea,3,Peptic ulcer diseae,0.006085192697768763
+loss_of_appetite,51,Peptic ulcer diseae,0.10344827586206896
+constipation,2,Peptic ulcer diseae,0.004056795131845842
+abdominal_pain,54,Peptic ulcer diseae,0.10953346855983773
+diarrhoea,2,Peptic ulcer diseae,0.004056795131845842
+mild_fever,3,Peptic ulcer diseae,0.006085192697768763
+yellow_urine,1,Peptic ulcer diseae,0.002028397565922921
+yellowing_of_eyes,5,Peptic ulcer diseae,0.010141987829614604
+fluid_overload,1,Peptic ulcer diseae,0.002028397565922921
+swelling_of_stomach,1,Peptic ulcer diseae,0.002028397565922921
+swelled_lymph_nodes,3,Peptic ulcer diseae,0.006085192697768763
+malaise,4,Peptic ulcer diseae,0.008113590263691683
+blurred_and_distorted_vision,2,Peptic ulcer diseae,0.004056795131845842
+phlegm,3,Peptic ulcer diseae,0.006085192697768763
+throat_irritation,1,Peptic ulcer diseae,0.002028397565922921
+redness_of_eyes,1,Peptic ulcer diseae,0.002028397565922921
+sinus_pressure,1,Peptic ulcer diseae,0.002028397565922921
+runny_nose,1,Peptic ulcer diseae,0.002028397565922921
+congestion,1,Peptic ulcer diseae,0.002028397565922921
+chest_pain,6,Peptic ulcer diseae,0.012170385395537525
+fast_heart_rate,1,Peptic ulcer diseae,0.002028397565922921
+pain_during_bowel_movements,2,Peptic ulcer diseae,0.004056795131845842
+pain_in_anal_region,2,Peptic ulcer diseae,0.004056795131845842
+bloody_stool,2,Peptic ulcer diseae,0.004056795131845842
+irritation_in_anus,1,Peptic ulcer diseae,0.002028397565922921
+dizziness,3,Peptic ulcer diseae,0.006085192697768763
+cramps,1,Peptic ulcer diseae,0.002028397565922921
+bruising,1,Peptic ulcer diseae,0.002028397565922921
+swollen_legs,1,Peptic ulcer diseae,0.002028397565922921
+swollen_blood_vessels,1,Peptic ulcer diseae,0.002028397565922921
+excessive_hunger,3,Peptic ulcer diseae,0.006085192697768763
+extra_marital_contacts,1,Peptic ulcer diseae,0.002028397565922921
+drying_and_tingling_lips,2,Peptic ulcer diseae,0.004056795131845842
+slurred_speech,3,Peptic ulcer diseae,0.006085192697768763
+knee_pain,1,Peptic ulcer diseae,0.002028397565922921
+hip_joint_pain,1,Peptic ulcer diseae,0.002028397565922921
+muscle_weakness,2,Peptic ulcer diseae,0.004056795131845842
+stiff_neck,1,Peptic ulcer diseae,0.002028397565922921
+swelling_joints,2,Peptic ulcer diseae,0.004056795131845842
+movement_stiffness,1,Peptic ulcer diseae,0.002028397565922921
+loss_of_balance,3,Peptic ulcer diseae,0.006085192697768763
+weakness_of_one_body_side,1,Peptic ulcer diseae,0.002028397565922921
+loss_of_smell,1,Peptic ulcer diseae,0.002028397565922921
+continuous_feel_of_urine,1,Peptic ulcer diseae,0.002028397565922921
+passage_of_gases,49,Peptic ulcer diseae,0.09939148073022312
+internal_itching,50,Peptic ulcer diseae,0.10141987829614604
+irritability,3,Peptic ulcer diseae,0.006085192697768763
+muscle_pain,2,Peptic ulcer diseae,0.004056795131845842
+altered_sensorium,1,Peptic ulcer diseae,0.002028397565922921
+abnormal_menstruation,1,Peptic ulcer diseae,0.002028397565922921
+rusty_sputum,1,Peptic ulcer diseae,0.002028397565922921
+lack_of_concentration,3,Peptic ulcer diseae,0.006085192697768763
+receiving_blood_transfusion,1,Peptic ulcer diseae,0.002028397565922921
+receiving_unsterile_injections,1,Peptic ulcer diseae,0.002028397565922921
+distention_of_abdomen,2,Peptic ulcer diseae,0.004056795131845842
+history_of_alcohol_consumption,1,Peptic ulcer diseae,0.002028397565922921
+fluid_overload,2,Peptic ulcer diseae,0.004056795131845842
+blood_in_sputum,2,Peptic ulcer diseae,0.004056795131845842
+prominent_veins_on_calf,1,Peptic ulcer diseae,0.002028397565922921
+palpitations,2,Peptic ulcer diseae,0.004056795131845842
+painful_walking,2,Peptic ulcer diseae,0.004056795131845842
+pus_filled_pimples,1,Peptic ulcer diseae,0.002028397565922921
+blackheads,1,Peptic ulcer diseae,0.002028397565922921
+skin_peeling,3,Peptic ulcer diseae,0.006085192697768763
+silver_like_dusting,3,Peptic ulcer diseae,0.006085192697768763
+small_dents_in_nails,3,Peptic ulcer diseae,0.006085192697768763
+inflammatory_nails,3,Peptic ulcer diseae,0.006085192697768763
+itching,3,Gastroenteritis,0.007731958762886598
+skin_rash,4,Gastroenteritis,0.010309278350515464
+continuous_sneezing,1,Gastroenteritis,0.002577319587628866
+chills,4,Gastroenteritis,0.010309278350515464
+joint_pain,3,Gastroenteritis,0.007731958762886598
+stomach_pain,1,Gastroenteritis,0.002577319587628866
+acidity,1,Gastroenteritis,0.002577319587628866
+vomiting,59,Gastroenteritis,0.15206185567010308
+burning_micturition,1,Gastroenteritis,0.002577319587628866
+spotting_ urination,1,Gastroenteritis,0.002577319587628866
+fatigue,10,Gastroenteritis,0.02577319587628866
+weight_gain,3,Gastroenteritis,0.007731958762886598
+cold_hands_and_feets,3,Gastroenteritis,0.007731958762886598
+mood_swings,4,Gastroenteritis,0.010309278350515464
+weight_loss,4,Gastroenteritis,0.010309278350515464
+lethargy,2,Gastroenteritis,0.005154639175257732
+cough,5,Gastroenteritis,0.01288659793814433
+high_fever,11,Gastroenteritis,0.028350515463917526
+sunken_eyes,47,Gastroenteritis,0.1211340206185567
+breathlessness,4,Gastroenteritis,0.010309278350515464
+sweating,4,Gastroenteritis,0.010309278350515464
+dehydration,46,Gastroenteritis,0.11855670103092783
+indigestion,1,Gastroenteritis,0.002577319587628866
+headache,5,Gastroenteritis,0.01288659793814433
+yellowish_skin,4,Gastroenteritis,0.010309278350515464
+dark_urine,4,Gastroenteritis,0.010309278350515464
+nausea,4,Gastroenteritis,0.010309278350515464
+loss_of_appetite,4,Gastroenteritis,0.010309278350515464
+back_pain,1,Gastroenteritis,0.002577319587628866
+abdominal_pain,4,Gastroenteritis,0.010309278350515464
+diarrhoea,53,Gastroenteritis,0.13659793814432988
+mild_fever,2,Gastroenteritis,0.005154639175257732
+yellowing_of_eyes,4,Gastroenteritis,0.010309278350515464
+acute_liver_failure,2,Gastroenteritis,0.005154639175257732
+fluid_overload,1,Gastroenteritis,0.002577319587628866
+swelled_lymph_nodes,2,Gastroenteritis,0.005154639175257732
+malaise,3,Gastroenteritis,0.007731958762886598
+blurred_and_distorted_vision,1,Gastroenteritis,0.002577319587628866
+phlegm,3,Gastroenteritis,0.007731958762886598
+chest_pain,3,Gastroenteritis,0.007731958762886598
+fast_heart_rate,1,Gastroenteritis,0.002577319587628866
+neck_pain,1,Gastroenteritis,0.002577319587628866
+dizziness,4,Gastroenteritis,0.010309278350515464
+puffy_face_and_eyes,3,Gastroenteritis,0.007731958762886598
+enlarged_thyroid,3,Gastroenteritis,0.007731958762886598
+brittle_nails,3,Gastroenteritis,0.007731958762886598
+swollen_extremeties,3,Gastroenteritis,0.007731958762886598
+hip_joint_pain,1,Gastroenteritis,0.002577319587628866
+stiff_neck,1,Gastroenteritis,0.002577319587628866
+spinning_movements,2,Gastroenteritis,0.005154639175257732
+loss_of_balance,3,Gastroenteritis,0.007731958762886598
+unsteadiness,2,Gastroenteritis,0.005154639175257732
+weakness_of_one_body_side,1,Gastroenteritis,0.002577319587628866
+continuous_feel_of_urine,1,Gastroenteritis,0.002577319587628866
+passage_of_gases,1,Gastroenteritis,0.002577319587628866
+depression,4,Gastroenteritis,0.010309278350515464
+irritability,4,Gastroenteritis,0.010309278350515464
+muscle_pain,1,Gastroenteritis,0.002577319587628866
+altered_sensorium,1,Gastroenteritis,0.002577319587628866
+abnormal_menstruation,3,Gastroenteritis,0.007731958762886598
+family_history,1,Gastroenteritis,0.002577319587628866
+mucoid_sputum,1,Gastroenteritis,0.002577319587628866
+rusty_sputum,1,Gastroenteritis,0.002577319587628866
+visual_disturbances,1,Gastroenteritis,0.002577319587628866
+coma,2,Gastroenteritis,0.005154639175257732
+stomach_bleeding,2,Gastroenteritis,0.005154639175257732
+fluid_overload,1,Gastroenteritis,0.002577319587628866
+blood_in_sputum,2,Gastroenteritis,0.005154639175257732
+scurring,1,Gastroenteritis,0.002577319587628866
+skin_peeling,2,Gastroenteritis,0.005154639175257732
+silver_like_dusting,2,Gastroenteritis,0.005154639175257732
+inflammatory_nails,1,Gastroenteritis,0.002577319587628866
+blister,2,Gastroenteritis,0.005154639175257732
+red_sore_around_nose,3,Gastroenteritis,0.007731958762886598
+yellow_crust_ooze,1,Gastroenteritis,0.002577319587628866
+itching,1,Impetigo,0.0028169014084507044
+skin_rash,50,Impetigo,0.14084507042253522
+nodal_skin_eruptions,1,Impetigo,0.0028169014084507044
+shivering,1,Impetigo,0.0028169014084507044
+chills,3,Impetigo,0.008450704225352112
+joint_pain,1,Impetigo,0.0028169014084507044
+stomach_pain,2,Impetigo,0.005633802816901409
+acidity,1,Impetigo,0.0028169014084507044
+ulcers_on_tongue,1,Impetigo,0.0028169014084507044
+vomiting,8,Impetigo,0.022535211267605635
+fatigue,3,Impetigo,0.008450704225352112
+anxiety,1,Impetigo,0.0028169014084507044
+cold_hands_and_feets,1,Impetigo,0.0028169014084507044
+mood_swings,1,Impetigo,0.0028169014084507044
+weight_loss,2,Impetigo,0.005633802816901409
+restlessness,1,Impetigo,0.0028169014084507044
+cough,2,Impetigo,0.005633802816901409
+high_fever,42,Impetigo,0.11830985915492957
+breathlessness,1,Impetigo,0.0028169014084507044
+sweating,4,Impetigo,0.011267605633802818
+indigestion,3,Impetigo,0.008450704225352112
+headache,5,Impetigo,0.014084507042253521
+nausea,3,Impetigo,0.008450704225352112
+loss_of_appetite,3,Impetigo,0.008450704225352112
+back_pain,1,Impetigo,0.0028169014084507044
+constipation,1,Impetigo,0.0028169014084507044
+abdominal_pain,3,Impetigo,0.008450704225352112
+diarrhoea,2,Impetigo,0.005633802816901409
+mild_fever,1,Impetigo,0.0028169014084507044
+yellowing_of_eyes,2,Impetigo,0.005633802816901409
+swelling_of_stomach,1,Impetigo,0.0028169014084507044
+swelled_lymph_nodes,1,Impetigo,0.0028169014084507044
+malaise,1,Impetigo,0.0028169014084507044
+blurred_and_distorted_vision,2,Impetigo,0.005633802816901409
+phlegm,1,Impetigo,0.0028169014084507044
+redness_of_eyes,1,Impetigo,0.0028169014084507044
+chest_pain,2,Impetigo,0.005633802816901409
+fast_heart_rate,2,Impetigo,0.005633802816901409
+pain_during_bowel_movements,1,Impetigo,0.0028169014084507044
+bloody_stool,1,Impetigo,0.0028169014084507044
+irritation_in_anus,1,Impetigo,0.0028169014084507044
+neck_pain,2,Impetigo,0.005633802816901409
+dizziness,1,Impetigo,0.0028169014084507044
+excessive_hunger,3,Impetigo,0.008450704225352112
+extra_marital_contacts,1,Impetigo,0.0028169014084507044
+drying_and_tingling_lips,1,Impetigo,0.0028169014084507044
+slurred_speech,1,Impetigo,0.0028169014084507044
+knee_pain,1,Impetigo,0.0028169014084507044
+muscle_weakness,1,Impetigo,0.0028169014084507044
+stiff_neck,1,Impetigo,0.0028169014084507044
+swelling_joints,1,Impetigo,0.0028169014084507044
+spinning_movements,2,Impetigo,0.005633802816901409
+loss_of_balance,3,Impetigo,0.008450704225352112
+unsteadiness,2,Impetigo,0.005633802816901409
+passage_of_gases,2,Impetigo,0.005633802816901409
+internal_itching,2,Impetigo,0.005633802816901409
+depression,1,Impetigo,0.0028169014084507044
+irritability,2,Impetigo,0.005633802816901409
+muscle_pain,1,Impetigo,0.0028169014084507044
+abnormal_menstruation,1,Impetigo,0.0028169014084507044
+dischromic _patches,1,Impetigo,0.0028169014084507044
+watering_from_eyes,1,Impetigo,0.0028169014084507044
+visual_disturbances,1,Impetigo,0.0028169014084507044
+stomach_bleeding,1,Impetigo,0.0028169014084507044
+blood_in_sputum,1,Impetigo,0.0028169014084507044
+palpitations,2,Impetigo,0.005633802816901409
+painful_walking,1,Impetigo,0.0028169014084507044
+pus_filled_pimples,2,Impetigo,0.005633802816901409
+blackheads,3,Impetigo,0.008450704225352112
+scurring,2,Impetigo,0.005633802816901409
+inflammatory_nails,1,Impetigo,0.0028169014084507044
+blister,49,Impetigo,0.13802816901408452
+red_sore_around_nose,48,Impetigo,0.1352112676056338
+yellow_crust_ooze,48,Impetigo,0.1352112676056338
+itching,4,Cervical spondylosis,0.009615384615384616
+skin_rash,5,Cervical spondylosis,0.01201923076923077
+continuous_sneezing,1,Cervical spondylosis,0.002403846153846154
+shivering,1,Cervical spondylosis,0.002403846153846154
+chills,3,Cervical spondylosis,0.007211538461538462
+joint_pain,3,Cervical spondylosis,0.007211538461538462
+stomach_pain,2,Cervical spondylosis,0.004807692307692308
+vomiting,7,Cervical spondylosis,0.016826923076923076
+burning_micturition,3,Cervical spondylosis,0.007211538461538462
+spotting_ urination,2,Cervical spondylosis,0.004807692307692308
+fatigue,9,Cervical spondylosis,0.021634615384615384
+cold_hands_and_feets,1,Cervical spondylosis,0.002403846153846154
+mood_swings,1,Cervical spondylosis,0.002403846153846154
+weight_loss,2,Cervical spondylosis,0.004807692307692308
+restlessness,1,Cervical spondylosis,0.002403846153846154
+lethargy,5,Cervical spondylosis,0.01201923076923077
+patches_in_throat,1,Cervical spondylosis,0.002403846153846154
+irregular_sugar_level,1,Cervical spondylosis,0.002403846153846154
+cough,3,Cervical spondylosis,0.007211538461538462
+high_fever,5,Cervical spondylosis,0.01201923076923077
+breathlessness,4,Cervical spondylosis,0.009615384615384616
+sweating,2,Cervical spondylosis,0.004807692307692308
+indigestion,1,Cervical spondylosis,0.002403846153846154
+headache,5,Cervical spondylosis,0.01201923076923077
+yellowish_skin,6,Cervical spondylosis,0.014423076923076924
+dark_urine,4,Cervical spondylosis,0.009615384615384616
+nausea,7,Cervical spondylosis,0.016826923076923076
+loss_of_appetite,9,Cervical spondylosis,0.021634615384615384
+back_pain,42,Cervical spondylosis,0.10096153846153846
+constipation,2,Cervical spondylosis,0.004807692307692308
+abdominal_pain,5,Cervical spondylosis,0.01201923076923077
+diarrhoea,3,Cervical spondylosis,0.007211538461538462
+mild_fever,4,Cervical spondylosis,0.009615384615384616
+yellow_urine,2,Cervical spondylosis,0.004807692307692308
+yellowing_of_eyes,7,Cervical spondylosis,0.016826923076923076
+swelled_lymph_nodes,2,Cervical spondylosis,0.004807692307692308
+malaise,4,Cervical spondylosis,0.009615384615384616
+blurred_and_distorted_vision,1,Cervical spondylosis,0.002403846153846154
+phlegm,2,Cervical spondylosis,0.004807692307692308
+runny_nose,1,Cervical spondylosis,0.002403846153846154
+chest_pain,3,Cervical spondylosis,0.007211538461538462
+weakness_in_limbs,41,Cervical spondylosis,0.0985576923076923
+pain_during_bowel_movements,2,Cervical spondylosis,0.004807692307692308
+pain_in_anal_region,2,Cervical spondylosis,0.004807692307692308
+bloody_stool,2,Cervical spondylosis,0.004807692307692308
+irritation_in_anus,2,Cervical spondylosis,0.004807692307692308
+neck_pain,44,Cervical spondylosis,0.10576923076923077
+dizziness,46,Cervical spondylosis,0.11057692307692307
+cramps,1,Cervical spondylosis,0.002403846153846154
+bruising,1,Cervical spondylosis,0.002403846153846154
+obesity,2,Cervical spondylosis,0.004807692307692308
+swollen_legs,1,Cervical spondylosis,0.002403846153846154
+swollen_blood_vessels,2,Cervical spondylosis,0.004807692307692308
+puffy_face_and_eyes,1,Cervical spondylosis,0.002403846153846154
+enlarged_thyroid,1,Cervical spondylosis,0.002403846153846154
+brittle_nails,1,Cervical spondylosis,0.002403846153846154
+swollen_extremeties,1,Cervical spondylosis,0.002403846153846154
+excessive_hunger,1,Cervical spondylosis,0.002403846153846154
+drying_and_tingling_lips,1,Cervical spondylosis,0.002403846153846154
+muscle_weakness,1,Cervical spondylosis,0.002403846153846154
+stiff_neck,1,Cervical spondylosis,0.002403846153846154
+swelling_joints,1,Cervical spondylosis,0.002403846153846154
+movement_stiffness,1,Cervical spondylosis,0.002403846153846154
+spinning_movements,1,Cervical spondylosis,0.002403846153846154
+loss_of_balance,44,Cervical spondylosis,0.10576923076923077
+unsteadiness,1,Cervical spondylosis,0.002403846153846154
+weakness_of_one_body_side,1,Cervical spondylosis,0.002403846153846154
+bladder_discomfort,1,Cervical spondylosis,0.002403846153846154
+continuous_feel_of_urine,1,Cervical spondylosis,0.002403846153846154
+passage_of_gases,2,Cervical spondylosis,0.004807692307692308
+internal_itching,1,Cervical spondylosis,0.002403846153846154
+depression,1,Cervical spondylosis,0.002403846153846154
+irritability,1,Cervical spondylosis,0.002403846153846154
+muscle_pain,3,Cervical spondylosis,0.007211538461538462
+red_spots_over_body,1,Cervical spondylosis,0.002403846153846154
+abnormal_menstruation,2,Cervical spondylosis,0.004807692307692308
+watering_from_eyes,1,Cervical spondylosis,0.002403846153846154
+increased_appetite,1,Cervical spondylosis,0.002403846153846154
+polyuria,1,Cervical spondylosis,0.002403846153846154
+family_history,4,Cervical spondylosis,0.009615384615384616
+mucoid_sputum,2,Cervical spondylosis,0.004807692307692308
+lack_of_concentration,2,Cervical spondylosis,0.004807692307692308
+receiving_blood_transfusion,2,Cervical spondylosis,0.004807692307692308
+receiving_unsterile_injections,2,Cervical spondylosis,0.004807692307692308
+blood_in_sputum,1,Cervical spondylosis,0.002403846153846154
+prominent_veins_on_calf,1,Cervical spondylosis,0.002403846153846154
+painful_walking,1,Cervical spondylosis,0.002403846153846154
+blackheads,1,Cervical spondylosis,0.002403846153846154
+scurring,1,Cervical spondylosis,0.002403846153846154
+skin_peeling,1,Cervical spondylosis,0.002403846153846154
+small_dents_in_nails,1,Cervical spondylosis,0.002403846153846154
+inflammatory_nails,1,Cervical spondylosis,0.002403846153846154
+red_sore_around_nose,1,Cervical spondylosis,0.002403846153846154
+itching,3,Alcoholic hepatitis,0.005338078291814947
+skin_rash,3,Alcoholic hepatitis,0.005338078291814947
+continuous_sneezing,4,Alcoholic hepatitis,0.0071174377224199285
+shivering,3,Alcoholic hepatitis,0.005338078291814947
+chills,7,Alcoholic hepatitis,0.012455516014234875
+joint_pain,11,Alcoholic hepatitis,0.019572953736654804
+stomach_pain,1,Alcoholic hepatitis,0.0017793594306049821
+acidity,3,Alcoholic hepatitis,0.005338078291814947
+ulcers_on_tongue,1,Alcoholic hepatitis,0.0017793594306049821
+muscle_wasting,1,Alcoholic hepatitis,0.0017793594306049821
+vomiting,52,Alcoholic hepatitis,0.09252669039145907
+spotting_ urination,1,Alcoholic hepatitis,0.0017793594306049821
+fatigue,17,Alcoholic hepatitis,0.030249110320284697
+mood_swings,1,Alcoholic hepatitis,0.0017793594306049821
+weight_loss,4,Alcoholic hepatitis,0.0071174377224199285
+restlessness,4,Alcoholic hepatitis,0.0071174377224199285
+lethargy,4,Alcoholic hepatitis,0.0071174377224199285
+irregular_sugar_level,3,Alcoholic hepatitis,0.005338078291814947
+cough,6,Alcoholic hepatitis,0.010676156583629894
+high_fever,7,Alcoholic hepatitis,0.012455516014234875
+breathlessness,4,Alcoholic hepatitis,0.0071174377224199285
+sweating,4,Alcoholic hepatitis,0.0071174377224199285
+indigestion,6,Alcoholic hepatitis,0.010676156583629894
+headache,5,Alcoholic hepatitis,0.008896797153024912
+yellowish_skin,45,Alcoholic hepatitis,0.0800711743772242
+dark_urine,7,Alcoholic hepatitis,0.012455516014234875
+nausea,11,Alcoholic hepatitis,0.019572953736654804
+loss_of_appetite,16,Alcoholic hepatitis,0.028469750889679714
+pain_behind_the_eyes,2,Alcoholic hepatitis,0.0035587188612099642
+back_pain,2,Alcoholic hepatitis,0.0035587188612099642
+constipation,2,Alcoholic hepatitis,0.0035587188612099642
+abdominal_pain,48,Alcoholic hepatitis,0.08540925266903915
+diarrhoea,4,Alcoholic hepatitis,0.0071174377224199285
+mild_fever,3,Alcoholic hepatitis,0.005338078291814947
+yellow_urine,1,Alcoholic hepatitis,0.0017793594306049821
+yellowing_of_eyes,10,Alcoholic hepatitis,0.017793594306049824
+acute_liver_failure,1,Alcoholic hepatitis,0.0017793594306049821
+swelling_of_stomach,35,Alcoholic hepatitis,0.06227758007117438
+swelled_lymph_nodes,1,Alcoholic hepatitis,0.0017793594306049821
+malaise,4,Alcoholic hepatitis,0.0071174377224199285
+blurred_and_distorted_vision,5,Alcoholic hepatitis,0.008896797153024912
+phlegm,3,Alcoholic hepatitis,0.005338078291814947
+throat_irritation,1,Alcoholic hepatitis,0.0017793594306049821
+redness_of_eyes,1,Alcoholic hepatitis,0.0017793594306049821
+sinus_pressure,1,Alcoholic hepatitis,0.0017793594306049821
+runny_nose,1,Alcoholic hepatitis,0.0017793594306049821
+congestion,2,Alcoholic hepatitis,0.0035587188612099642
+chest_pain,4,Alcoholic hepatitis,0.0071174377224199285
+fast_heart_rate,3,Alcoholic hepatitis,0.005338078291814947
+pain_during_bowel_movements,1,Alcoholic hepatitis,0.0017793594306049821
+pain_in_anal_region,2,Alcoholic hepatitis,0.0035587188612099642
+bloody_stool,2,Alcoholic hepatitis,0.0035587188612099642
+irritation_in_anus,1,Alcoholic hepatitis,0.0017793594306049821
+neck_pain,1,Alcoholic hepatitis,0.0017793594306049821
+cramps,1,Alcoholic hepatitis,0.0017793594306049821
+bruising,1,Alcoholic hepatitis,0.0017793594306049821
+obesity,3,Alcoholic hepatitis,0.005338078291814947
+swollen_legs,1,Alcoholic hepatitis,0.0017793594306049821
+swollen_blood_vessels,1,Alcoholic hepatitis,0.0017793594306049821
+excessive_hunger,6,Alcoholic hepatitis,0.010676156583629894
+knee_pain,1,Alcoholic hepatitis,0.0017793594306049821
+hip_joint_pain,1,Alcoholic hepatitis,0.0017793594306049821
+muscle_weakness,2,Alcoholic hepatitis,0.0035587188612099642
+stiff_neck,2,Alcoholic hepatitis,0.0035587188612099642
+swelling_joints,2,Alcoholic hepatitis,0.0035587188612099642
+movement_stiffness,1,Alcoholic hepatitis,0.0017793594306049821
+loss_of_smell,1,Alcoholic hepatitis,0.0017793594306049821
+passage_of_gases,5,Alcoholic hepatitis,0.008896797153024912
+internal_itching,5,Alcoholic hepatitis,0.008896797153024912
+depression,2,Alcoholic hepatitis,0.0035587188612099642
+irritability,3,Alcoholic hepatitis,0.005338078291814947
+muscle_pain,6,Alcoholic hepatitis,0.010676156583629894
+red_spots_over_body,1,Alcoholic hepatitis,0.0017793594306049821
+abnormal_menstruation,1,Alcoholic hepatitis,0.0017793594306049821
+watering_from_eyes,3,Alcoholic hepatitis,0.005338078291814947
+increased_appetite,3,Alcoholic hepatitis,0.005338078291814947
+polyuria,3,Alcoholic hepatitis,0.005338078291814947
+family_history,3,Alcoholic hepatitis,0.005338078291814947
+mucoid_sputum,2,Alcoholic hepatitis,0.0035587188612099642
+rusty_sputum,2,Alcoholic hepatitis,0.0035587188612099642
+visual_disturbances,1,Alcoholic hepatitis,0.0017793594306049821
+receiving_blood_transfusion,1,Alcoholic hepatitis,0.0017793594306049821
+receiving_unsterile_injections,1,Alcoholic hepatitis,0.0017793594306049821
+coma,1,Alcoholic hepatitis,0.0017793594306049821
+stomach_bleeding,1,Alcoholic hepatitis,0.0017793594306049821
+distention_of_abdomen,35,Alcoholic hepatitis,0.06227758007117438
+history_of_alcohol_consumption,38,Alcoholic hepatitis,0.06761565836298933
+fluid_overload,36,Alcoholic hepatitis,0.06405693950177936
+prominent_veins_on_calf,1,Alcoholic hepatitis,0.0017793594306049821
+painful_walking,2,Alcoholic hepatitis,0.0035587188612099642
+skin_peeling,2,Alcoholic hepatitis,0.0035587188612099642
+silver_like_dusting,2,Alcoholic hepatitis,0.0035587188612099642
+small_dents_in_nails,2,Alcoholic hepatitis,0.0035587188612099642
+inflammatory_nails,2,Alcoholic hepatitis,0.0035587188612099642
+itching,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+skin_rash,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+nodal_skin_eruptions,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+chills,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+joint_pain,6,(vertigo) Paroymsal  Positional Vertigo,0.012244897959183673
+stomach_pain,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+ulcers_on_tongue,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+vomiting,60,(vertigo) Paroymsal  Positional Vertigo,0.12244897959183673
+fatigue,5,(vertigo) Paroymsal  Positional Vertigo,0.01020408163265306
+weight_gain,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+cold_hands_and_feets,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+mood_swings,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+weight_loss,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+restlessness,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+lethargy,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+irregular_sugar_level,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+cough,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+high_fever,4,(vertigo) Paroymsal  Positional Vertigo,0.00816326530612245
+breathlessness,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+sweating,4,(vertigo) Paroymsal  Positional Vertigo,0.00816326530612245
+indigestion,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+headache,51,(vertigo) Paroymsal  Positional Vertigo,0.10408163265306122
+yellowish_skin,7,(vertigo) Paroymsal  Positional Vertigo,0.014285714285714285
+dark_urine,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+nausea,55,(vertigo) Paroymsal  Positional Vertigo,0.11224489795918367
+loss_of_appetite,7,(vertigo) Paroymsal  Positional Vertigo,0.014285714285714285
+back_pain,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+constipation,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+abdominal_pain,7,(vertigo) Paroymsal  Positional Vertigo,0.014285714285714285
+diarrhoea,5,(vertigo) Paroymsal  Positional Vertigo,0.01020408163265306
+mild_fever,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+yellowing_of_eyes,6,(vertigo) Paroymsal  Positional Vertigo,0.012244897959183673
+acute_liver_failure,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+swelling_of_stomach,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+malaise,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+blurred_and_distorted_vision,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+throat_irritation,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+sinus_pressure,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+chest_pain,6,(vertigo) Paroymsal  Positional Vertigo,0.012244897959183673
+weakness_in_limbs,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+fast_heart_rate,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+pain_during_bowel_movements,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+pain_in_anal_region,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+bloody_stool,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+irritation_in_anus,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+neck_pain,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+dizziness,4,(vertigo) Paroymsal  Positional Vertigo,0.00816326530612245
+obesity,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+puffy_face_and_eyes,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+enlarged_thyroid,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+brittle_nails,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+swollen_extremeties,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+excessive_hunger,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+knee_pain,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+hip_joint_pain,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+muscle_weakness,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+stiff_neck,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+swelling_joints,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+movement_stiffness,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+spinning_movements,45,(vertigo) Paroymsal  Positional Vertigo,0.09183673469387756
+loss_of_balance,52,(vertigo) Paroymsal  Positional Vertigo,0.10612244897959183
+unsteadiness,47,(vertigo) Paroymsal  Positional Vertigo,0.09591836734693877
+weakness_of_one_body_side,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+passage_of_gases,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+internal_itching,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+depression,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+irritability,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+muscle_pain,4,(vertigo) Paroymsal  Positional Vertigo,0.00816326530612245
+altered_sensorium,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+red_spots_over_body,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+abnormal_menstruation,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+dischromic _patches,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+increased_appetite,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+polyuria,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+family_history,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+rusty_sputum,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+lack_of_concentration,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+coma,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+stomach_bleeding,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+distention_of_abdomen,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+history_of_alcohol_consumption,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+fluid_overload,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+painful_walking,3,(vertigo) Paroymsal  Positional Vertigo,0.006122448979591836
+skin_peeling,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+silver_like_dusting,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+small_dents_in_nails,2,(vertigo) Paroymsal  Positional Vertigo,0.004081632653061225
+inflammatory_nails,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+blister,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+red_sore_around_nose,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+yellow_crust_ooze,1,(vertigo) Paroymsal  Positional Vertigo,0.0020408163265306124
+itching,47,Chicken pox,0.06973293768545995
+skin_rash,53,Chicken pox,0.07863501483679525
+continuous_sneezing,1,Chicken pox,0.001483679525222552
+chills,1,Chicken pox,0.001483679525222552
+joint_pain,4,Chicken pox,0.005934718100890208
+acidity,1,Chicken pox,0.001483679525222552
+vomiting,10,Chicken pox,0.01483679525222552
+fatigue,54,Chicken pox,0.08011869436201781
+anxiety,2,Chicken pox,0.002967359050445104
+mood_swings,1,Chicken pox,0.001483679525222552
+weight_loss,1,Chicken pox,0.001483679525222552
+restlessness,1,Chicken pox,0.001483679525222552
+lethargy,48,Chicken pox,0.0712166172106825
+cough,3,Chicken pox,0.004451038575667656
+high_fever,52,Chicken pox,0.0771513353115727
+sunken_eyes,2,Chicken pox,0.002967359050445104
+breathlessness,2,Chicken pox,0.002967359050445104
+sweating,2,Chicken pox,0.002967359050445104
+indigestion,1,Chicken pox,0.001483679525222552
+headache,52,Chicken pox,0.0771513353115727
+yellowish_skin,4,Chicken pox,0.005934718100890208
+dark_urine,2,Chicken pox,0.002967359050445104
+nausea,4,Chicken pox,0.005934718100890208
+loss_of_appetite,50,Chicken pox,0.07418397626112759
+back_pain,1,Chicken pox,0.001483679525222552
+abdominal_pain,3,Chicken pox,0.004451038575667656
+diarrhoea,3,Chicken pox,0.004451038575667656
+mild_fever,46,Chicken pox,0.06824925816023739
+yellowing_of_eyes,3,Chicken pox,0.004451038575667656
+acute_liver_failure,2,Chicken pox,0.002967359050445104
+swelling_of_stomach,2,Chicken pox,0.002967359050445104
+swelled_lymph_nodes,46,Chicken pox,0.06824925816023739
+malaise,50,Chicken pox,0.07418397626112759
+blurred_and_distorted_vision,3,Chicken pox,0.004451038575667656
+phlegm,1,Chicken pox,0.001483679525222552
+throat_irritation,1,Chicken pox,0.001483679525222552
+redness_of_eyes,1,Chicken pox,0.001483679525222552
+sinus_pressure,1,Chicken pox,0.001483679525222552
+runny_nose,1,Chicken pox,0.001483679525222552
+congestion,1,Chicken pox,0.001483679525222552
+chest_pain,1,Chicken pox,0.001483679525222552
+weakness_in_limbs,1,Chicken pox,0.001483679525222552
+fast_heart_rate,1,Chicken pox,0.001483679525222552
+neck_pain,2,Chicken pox,0.002967359050445104
+dizziness,1,Chicken pox,0.001483679525222552
+excessive_hunger,4,Chicken pox,0.005934718100890208
+drying_and_tingling_lips,2,Chicken pox,0.002967359050445104
+slurred_speech,2,Chicken pox,0.002967359050445104
+knee_pain,1,Chicken pox,0.001483679525222552
+hip_joint_pain,1,Chicken pox,0.001483679525222552
+muscle_weakness,1,Chicken pox,0.001483679525222552
+stiff_neck,1,Chicken pox,0.001483679525222552
+swelling_joints,1,Chicken pox,0.001483679525222552
+loss_of_balance,1,Chicken pox,0.001483679525222552
+weakness_of_one_body_side,1,Chicken pox,0.001483679525222552
+loss_of_smell,1,Chicken pox,0.001483679525222552
+internal_itching,1,Chicken pox,0.001483679525222552
+irritability,4,Chicken pox,0.005934718100890208
+muscle_pain,1,Chicken pox,0.001483679525222552
+altered_sensorium,1,Chicken pox,0.001483679525222552
+red_spots_over_body,49,Chicken pox,0.07270029673590504
+abnormal_menstruation,1,Chicken pox,0.001483679525222552
+dischromic _patches,1,Chicken pox,0.001483679525222552
+family_history,2,Chicken pox,0.002967359050445104
+mucoid_sputum,2,Chicken pox,0.002967359050445104
+visual_disturbances,1,Chicken pox,0.001483679525222552
+receiving_unsterile_injections,1,Chicken pox,0.001483679525222552
+coma,2,Chicken pox,0.002967359050445104
+stomach_bleeding,2,Chicken pox,0.002967359050445104
+distention_of_abdomen,2,Chicken pox,0.002967359050445104
+history_of_alcohol_consumption,2,Chicken pox,0.002967359050445104
+fluid_overload,2,Chicken pox,0.002967359050445104
+palpitations,2,Chicken pox,0.002967359050445104
+painful_walking,1,Chicken pox,0.001483679525222552
+pus_filled_pimples,1,Chicken pox,0.001483679525222552
+blackheads,1,Chicken pox,0.001483679525222552
+scurring,1,Chicken pox,0.001483679525222552
+skin_peeling,1,Chicken pox,0.001483679525222552
+small_dents_in_nails,1,Chicken pox,0.001483679525222552
+inflammatory_nails,1,Chicken pox,0.001483679525222552
+blister,1,Chicken pox,0.001483679525222552
+red_sore_around_nose,3,Chicken pox,0.004451038575667656
+yellow_crust_ooze,2,Chicken pox,0.002967359050445104
+itching,3,Acne,0.006607929515418502
+skin_rash,46,Acne,0.1013215859030837
+continuous_sneezing,1,Acne,0.0022026431718061676
+shivering,1,Acne,0.0022026431718061676
+chills,8,Acne,0.01762114537444934
+joint_pain,5,Acne,0.011013215859030838
+muscle_wasting,1,Acne,0.0022026431718061676
+vomiting,19,Acne,0.04185022026431718
+fatigue,20,Acne,0.04405286343612335
+weight_gain,1,Acne,0.0022026431718061676
+anxiety,3,Acne,0.006607929515418502
+cold_hands_and_feets,2,Acne,0.004405286343612335
+mood_swings,4,Acne,0.00881057268722467
+weight_loss,3,Acne,0.006607929515418502
+restlessness,1,Acne,0.0022026431718061676
+lethargy,4,Acne,0.00881057268722467
+cough,1,Acne,0.0022026431718061676
+high_fever,12,Acne,0.02643171806167401
+sunken_eyes,2,Acne,0.004405286343612335
+breathlessness,2,Acne,0.004405286343612335
+sweating,6,Acne,0.013215859030837005
+dehydration,2,Acne,0.004405286343612335
+indigestion,2,Acne,0.004405286343612335
+headache,10,Acne,0.022026431718061675
+yellowish_skin,8,Acne,0.01762114537444934
+dark_urine,8,Acne,0.01762114537444934
+nausea,13,Acne,0.028634361233480177
+loss_of_appetite,8,Acne,0.01762114537444934
+pain_behind_the_eyes,1,Acne,0.0022026431718061676
+back_pain,1,Acne,0.0022026431718061676
+constipation,2,Acne,0.004405286343612335
+abdominal_pain,12,Acne,0.02643171806167401
+diarrhoea,9,Acne,0.019823788546255508
+yellow_urine,2,Acne,0.004405286343612335
+yellowing_of_eyes,6,Acne,0.013215859030837005
+acute_liver_failure,3,Acne,0.006607929515418502
+swelling_of_stomach,1,Acne,0.0022026431718061676
+swelled_lymph_nodes,1,Acne,0.0022026431718061676
+malaise,5,Acne,0.011013215859030838
+blurred_and_distorted_vision,3,Acne,0.006607929515418502
+phlegm,1,Acne,0.0022026431718061676
+throat_irritation,1,Acne,0.0022026431718061676
+redness_of_eyes,1,Acne,0.0022026431718061676
+sinus_pressure,1,Acne,0.0022026431718061676
+chest_pain,3,Acne,0.006607929515418502
+fast_heart_rate,2,Acne,0.004405286343612335
+dizziness,4,Acne,0.00881057268722467
+puffy_face_and_eyes,2,Acne,0.004405286343612335
+enlarged_thyroid,3,Acne,0.006607929515418502
+brittle_nails,2,Acne,0.004405286343612335
+swollen_extremeties,2,Acne,0.004405286343612335
+excessive_hunger,4,Acne,0.00881057268722467
+extra_marital_contacts,1,Acne,0.0022026431718061676
+drying_and_tingling_lips,3,Acne,0.006607929515418502
+slurred_speech,3,Acne,0.006607929515418502
+hip_joint_pain,1,Acne,0.0022026431718061676
+muscle_weakness,1,Acne,0.0022026431718061676
+loss_of_balance,2,Acne,0.004405286343612335
+weakness_of_one_body_side,2,Acne,0.004405286343612335
+passage_of_gases,1,Acne,0.0022026431718061676
+internal_itching,1,Acne,0.0022026431718061676
+toxic_look_(typhos),3,Acne,0.006607929515418502
+depression,2,Acne,0.004405286343612335
+irritability,6,Acne,0.013215859030837005
+muscle_pain,3,Acne,0.006607929515418502
+altered_sensorium,2,Acne,0.004405286343612335
+red_spots_over_body,1,Acne,0.0022026431718061676
+belly_pain,3,Acne,0.006607929515418502
+abnormal_menstruation,3,Acne,0.006607929515418502
+watering_from_eyes,1,Acne,0.0022026431718061676
+family_history,1,Acne,0.0022026431718061676
+rusty_sputum,1,Acne,0.0022026431718061676
+lack_of_concentration,2,Acne,0.004405286343612335
+receiving_blood_transfusion,3,Acne,0.006607929515418502
+receiving_unsterile_injections,2,Acne,0.004405286343612335
+coma,3,Acne,0.006607929515418502
+stomach_bleeding,3,Acne,0.006607929515418502
+distention_of_abdomen,1,Acne,0.0022026431718061676
+history_of_alcohol_consumption,1,Acne,0.0022026431718061676
+fluid_overload,1,Acne,0.0022026431718061676
+blood_in_sputum,1,Acne,0.0022026431718061676
+palpitations,3,Acne,0.006607929515418502
+pus_filled_pimples,42,Acne,0.09251101321585903
+blackheads,40,Acne,0.0881057268722467
+scurring,41,Acne,0.09030837004405286
+red_sore_around_nose,1,Acne,0.0022026431718061676
+yellow_crust_ooze,1,Acne,0.0022026431718061676
+itching,49,Fungal infection,0.12468193384223919
+skin_rash,49,Fungal infection,0.12468193384223919
+nodal_skin_eruptions,42,Fungal infection,0.10687022900763359
+chills,6,Fungal infection,0.015267175572519083
+joint_pain,4,Fungal infection,0.010178117048346057
+stomach_pain,1,Fungal infection,0.002544529262086514
+acidity,2,Fungal infection,0.005089058524173028
+ulcers_on_tongue,1,Fungal infection,0.002544529262086514
+muscle_wasting,1,Fungal infection,0.002544529262086514
+vomiting,9,Fungal infection,0.022900763358778626
+burning_micturition,2,Fungal infection,0.005089058524173028
+fatigue,9,Fungal infection,0.022900763358778626
+weight_gain,1,Fungal infection,0.002544529262086514
+cold_hands_and_feets,1,Fungal infection,0.002544529262086514
+mood_swings,1,Fungal infection,0.002544529262086514
+weight_loss,2,Fungal infection,0.005089058524173028
+lethargy,3,Fungal infection,0.007633587786259542
+patches_in_throat,1,Fungal infection,0.002544529262086514
+cough,4,Fungal infection,0.010178117048346057
+high_fever,11,Fungal infection,0.027989821882951654
+breathlessness,4,Fungal infection,0.010178117048346057
+sweating,6,Fungal infection,0.015267175572519083
+indigestion,1,Fungal infection,0.002544529262086514
+headache,7,Fungal infection,0.017811704834605598
+yellowish_skin,5,Fungal infection,0.01272264631043257
+dark_urine,2,Fungal infection,0.005089058524173028
+nausea,7,Fungal infection,0.017811704834605598
+loss_of_appetite,8,Fungal infection,0.020356234096692113
+pain_behind_the_eyes,2,Fungal infection,0.005089058524173028
+back_pain,2,Fungal infection,0.005089058524173028
+constipation,1,Fungal infection,0.002544529262086514
+abdominal_pain,4,Fungal infection,0.010178117048346057
+diarrhoea,4,Fungal infection,0.010178117048346057
+mild_fever,5,Fungal infection,0.01272264631043257
+yellowing_of_eyes,5,Fungal infection,0.01272264631043257
+swelled_lymph_nodes,3,Fungal infection,0.007633587786259542
+malaise,6,Fungal infection,0.015267175572519083
+blurred_and_distorted_vision,1,Fungal infection,0.002544529262086514
+phlegm,3,Fungal infection,0.007633587786259542
+chest_pain,7,Fungal infection,0.017811704834605598
+weakness_in_limbs,1,Fungal infection,0.002544529262086514
+fast_heart_rate,2,Fungal infection,0.005089058524173028
+pain_during_bowel_movements,2,Fungal infection,0.005089058524173028
+pain_in_anal_region,2,Fungal infection,0.005089058524173028
+bloody_stool,1,Fungal infection,0.002544529262086514
+irritation_in_anus,1,Fungal infection,0.002544529262086514
+neck_pain,1,Fungal infection,0.002544529262086514
+dizziness,3,Fungal infection,0.007633587786259542
+puffy_face_and_eyes,1,Fungal infection,0.002544529262086514
+enlarged_thyroid,1,Fungal infection,0.002544529262086514
+brittle_nails,1,Fungal infection,0.002544529262086514
+swollen_extremeties,2,Fungal infection,0.005089058524173028
+extra_marital_contacts,1,Fungal infection,0.002544529262086514
+knee_pain,1,Fungal infection,0.002544529262086514
+stiff_neck,1,Fungal infection,0.002544529262086514
+loss_of_balance,2,Fungal infection,0.005089058524173028
+loss_of_smell,1,Fungal infection,0.002544529262086514
+bladder_discomfort,2,Fungal infection,0.005089058524173028
+foul_smell_of urine,2,Fungal infection,0.005089058524173028
+continuous_feel_of_urine,1,Fungal infection,0.002544529262086514
+depression,2,Fungal infection,0.005089058524173028
+irritability,3,Fungal infection,0.007633587786259542
+muscle_pain,5,Fungal infection,0.01272264631043257
+red_spots_over_body,4,Fungal infection,0.010178117048346057
+abnormal_menstruation,1,Fungal infection,0.002544529262086514
+dischromic _patches,46,Fungal infection,0.11704834605597965
+watering_from_eyes,1,Fungal infection,0.002544529262086514
+family_history,2,Fungal infection,0.005089058524173028
+rusty_sputum,2,Fungal infection,0.005089058524173028
+lack_of_concentration,1,Fungal infection,0.002544529262086514
+visual_disturbances,2,Fungal infection,0.005089058524173028
+blood_in_sputum,1,Fungal infection,0.002544529262086514
+pus_filled_pimples,1,Fungal infection,0.002544529262086514
+blackheads,1,Fungal infection,0.002544529262086514
+scurring,1,Fungal infection,0.002544529262086514
+skin_peeling,1,Fungal infection,0.002544529262086514
+blister,2,Fungal infection,0.005089058524173028
+red_sore_around_nose,4,Fungal infection,0.010178117048346057
+yellow_crust_ooze,2,Fungal infection,0.005089058524173028
+itching,1,Arthritis,0.0027397260273972603
+skin_rash,5,Arthritis,0.0136986301369863
+chills,4,Arthritis,0.010958904109589041
+joint_pain,4,Arthritis,0.010958904109589041
+stomach_pain,2,Arthritis,0.005479452054794521
+acidity,2,Arthritis,0.005479452054794521
+vomiting,7,Arthritis,0.019178082191780823
+burning_micturition,2,Arthritis,0.005479452054794521
+spotting_ urination,2,Arthritis,0.005479452054794521
+fatigue,9,Arthritis,0.024657534246575342
+weight_gain,1,Arthritis,0.0027397260273972603
+cold_hands_and_feets,1,Arthritis,0.0027397260273972603
+mood_swings,1,Arthritis,0.0027397260273972603
+lethargy,1,Arthritis,0.0027397260273972603
+cough,1,Arthritis,0.0027397260273972603
+high_fever,6,Arthritis,0.01643835616438356
+sunken_eyes,2,Arthritis,0.005479452054794521
+breathlessness,1,Arthritis,0.0027397260273972603
+dehydration,1,Arthritis,0.0027397260273972603
+indigestion,2,Arthritis,0.005479452054794521
+headache,8,Arthritis,0.021917808219178082
+yellowish_skin,2,Arthritis,0.005479452054794521
+dark_urine,1,Arthritis,0.0027397260273972603
+nausea,6,Arthritis,0.01643835616438356
+loss_of_appetite,3,Arthritis,0.00821917808219178
+pain_behind_the_eyes,2,Arthritis,0.005479452054794521
+back_pain,3,Arthritis,0.00821917808219178
+constipation,3,Arthritis,0.00821917808219178
+abdominal_pain,4,Arthritis,0.010958904109589041
+diarrhoea,2,Arthritis,0.005479452054794521
+yellowing_of_eyes,1,Arthritis,0.0027397260273972603
+acute_liver_failure,1,Arthritis,0.0027397260273972603
+swelling_of_stomach,1,Arthritis,0.0027397260273972603
+malaise,3,Arthritis,0.00821917808219178
+blurred_and_distorted_vision,2,Arthritis,0.005479452054794521
+sinus_pressure,1,Arthritis,0.0027397260273972603
+weakness_in_limbs,1,Arthritis,0.0027397260273972603
+pain_during_bowel_movements,1,Arthritis,0.0027397260273972603
+pain_in_anal_region,1,Arthritis,0.0027397260273972603
+bloody_stool,1,Arthritis,0.0027397260273972603
+irritation_in_anus,1,Arthritis,0.0027397260273972603
+neck_pain,1,Arthritis,0.0027397260273972603
+dizziness,1,Arthritis,0.0027397260273972603
+cramps,2,Arthritis,0.005479452054794521
+bruising,2,Arthritis,0.005479452054794521
+obesity,2,Arthritis,0.005479452054794521
+swollen_legs,3,Arthritis,0.00821917808219178
+swollen_blood_vessels,2,Arthritis,0.005479452054794521
+puffy_face_and_eyes,1,Arthritis,0.0027397260273972603
+enlarged_thyroid,1,Arthritis,0.0027397260273972603
+brittle_nails,1,Arthritis,0.0027397260273972603
+swollen_extremeties,1,Arthritis,0.0027397260273972603
+excessive_hunger,2,Arthritis,0.005479452054794521
+muscle_weakness,42,Arthritis,0.11506849315068493
+stiff_neck,44,Arthritis,0.12054794520547946
+swelling_joints,42,Arthritis,0.11506849315068493
+movement_stiffness,42,Arthritis,0.11506849315068493
+spinning_movements,1,Arthritis,0.0027397260273972603
+loss_of_balance,1,Arthritis,0.0027397260273972603
+unsteadiness,1,Arthritis,0.0027397260273972603
+weakness_of_one_body_side,1,Arthritis,0.0027397260273972603
+toxic_look_(typhos),1,Arthritis,0.0027397260273972603
+depression,3,Arthritis,0.00821917808219178
+irritability,3,Arthritis,0.00821917808219178
+muscle_pain,2,Arthritis,0.005479452054794521
+altered_sensorium,1,Arthritis,0.0027397260273972603
+red_spots_over_body,2,Arthritis,0.005479452054794521
+belly_pain,2,Arthritis,0.005479452054794521
+abnormal_menstruation,1,Arthritis,0.0027397260273972603
+family_history,1,Arthritis,0.0027397260273972603
+mucoid_sputum,1,Arthritis,0.0027397260273972603
+visual_disturbances,2,Arthritis,0.005479452054794521
+coma,1,Arthritis,0.0027397260273972603
+stomach_bleeding,1,Arthritis,0.0027397260273972603
+distention_of_abdomen,1,Arthritis,0.0027397260273972603
+history_of_alcohol_consumption,1,Arthritis,0.0027397260273972603
+prominent_veins_on_calf,2,Arthritis,0.005479452054794521
+painful_walking,41,Arthritis,0.11232876712328767
+blister,1,Arthritis,0.0027397260273972603
+red_sore_around_nose,1,Arthritis,0.0027397260273972603
+yellow_crust_ooze,1,Arthritis,0.0027397260273972603
+itching,2,Pneumonia,0.002890173410404624
+skin_rash,4,Pneumonia,0.005780346820809248
+nodal_skin_eruptions,1,Pneumonia,0.001445086705202312
+chills,48,Pneumonia,0.06936416184971098
+joint_pain,2,Pneumonia,0.002890173410404624
+stomach_pain,1,Pneumonia,0.001445086705202312
+acidity,2,Pneumonia,0.002890173410404624
+ulcers_on_tongue,1,Pneumonia,0.001445086705202312
+vomiting,7,Pneumonia,0.010115606936416185
+burning_micturition,2,Pneumonia,0.002890173410404624
+fatigue,53,Pneumonia,0.07658959537572255
+weight_gain,1,Pneumonia,0.001445086705202312
+cold_hands_and_feets,1,Pneumonia,0.001445086705202312
+mood_swings,1,Pneumonia,0.001445086705202312
+weight_loss,4,Pneumonia,0.005780346820809248
+restlessness,3,Pneumonia,0.004335260115606936
+lethargy,4,Pneumonia,0.005780346820809248
+irregular_sugar_level,3,Pneumonia,0.004335260115606936
+cough,46,Pneumonia,0.06647398843930635
+high_fever,50,Pneumonia,0.07225433526011561
+breathlessness,49,Pneumonia,0.0708092485549133
+sweating,48,Pneumonia,0.06936416184971098
+indigestion,1,Pneumonia,0.001445086705202312
+headache,5,Pneumonia,0.0072254335260115606
+yellowish_skin,2,Pneumonia,0.002890173410404624
+nausea,4,Pneumonia,0.005780346820809248
+loss_of_appetite,4,Pneumonia,0.005780346820809248
+back_pain,3,Pneumonia,0.004335260115606936
+constipation,2,Pneumonia,0.002890173410404624
+abdominal_pain,1,Pneumonia,0.001445086705202312
+diarrhoea,2,Pneumonia,0.002890173410404624
+mild_fever,1,Pneumonia,0.001445086705202312
+yellowing_of_eyes,4,Pneumonia,0.005780346820809248
+acute_liver_failure,1,Pneumonia,0.001445086705202312
+swelled_lymph_nodes,2,Pneumonia,0.002890173410404624
+malaise,46,Pneumonia,0.06647398843930635
+blurred_and_distorted_vision,4,Pneumonia,0.005780346820809248
+phlegm,47,Pneumonia,0.06791907514450866
+chest_pain,52,Pneumonia,0.07514450867052024
+weakness_in_limbs,3,Pneumonia,0.004335260115606936
+fast_heart_rate,48,Pneumonia,0.06936416184971098
+pain_during_bowel_movements,2,Pneumonia,0.002890173410404624
+pain_in_anal_region,2,Pneumonia,0.002890173410404624
+bloody_stool,1,Pneumonia,0.001445086705202312
+irritation_in_anus,2,Pneumonia,0.002890173410404624
+neck_pain,4,Pneumonia,0.005780346820809248
+dizziness,4,Pneumonia,0.005780346820809248
+obesity,3,Pneumonia,0.004335260115606936
+puffy_face_and_eyes,1,Pneumonia,0.001445086705202312
+enlarged_thyroid,1,Pneumonia,0.001445086705202312
+brittle_nails,1,Pneumonia,0.001445086705202312
+swollen_extremeties,2,Pneumonia,0.002890173410404624
+excessive_hunger,4,Pneumonia,0.005780346820809248
+knee_pain,1,Pneumonia,0.001445086705202312
+hip_joint_pain,1,Pneumonia,0.001445086705202312
+muscle_weakness,1,Pneumonia,0.001445086705202312
+stiff_neck,2,Pneumonia,0.002890173410404624
+swelling_joints,2,Pneumonia,0.002890173410404624
+movement_stiffness,1,Pneumonia,0.001445086705202312
+loss_of_balance,3,Pneumonia,0.004335260115606936
+unsteadiness,1,Pneumonia,0.001445086705202312
+weakness_of_one_body_side,1,Pneumonia,0.001445086705202312
+bladder_discomfort,2,Pneumonia,0.002890173410404624
+foul_smell_of urine,2,Pneumonia,0.002890173410404624
+continuous_feel_of_urine,2,Pneumonia,0.002890173410404624
+depression,2,Pneumonia,0.002890173410404624
+irritability,2,Pneumonia,0.002890173410404624
+muscle_pain,2,Pneumonia,0.002890173410404624
+altered_sensorium,1,Pneumonia,0.001445086705202312
+abnormal_menstruation,1,Pneumonia,0.001445086705202312
+dischromic _patches,1,Pneumonia,0.001445086705202312
+increased_appetite,3,Pneumonia,0.004335260115606936
+polyuria,3,Pneumonia,0.004335260115606936
+family_history,2,Pneumonia,0.002890173410404624
+rusty_sputum,48,Pneumonia,0.06936416184971098
+lack_of_concentration,2,Pneumonia,0.002890173410404624
+history_of_alcohol_consumption,1,Pneumonia,0.001445086705202312
+blood_in_sputum,1,Pneumonia,0.001445086705202312
+painful_walking,2,Pneumonia,0.002890173410404624
+skin_peeling,1,Pneumonia,0.001445086705202312
+silver_like_dusting,1,Pneumonia,0.001445086705202312
+small_dents_in_nails,2,Pneumonia,0.002890173410404624
+inflammatory_nails,1,Pneumonia,0.001445086705202312
+blister,1,Pneumonia,0.001445086705202312
+red_sore_around_nose,2,Pneumonia,0.002890173410404624
+yellow_crust_ooze,2,Pneumonia,0.002890173410404624
+itching,2,Hyperthyroidism,0.0033500837520938024
+skin_rash,4,Hyperthyroidism,0.006700167504187605
+nodal_skin_eruptions,1,Hyperthyroidism,0.0016750418760469012
+continuous_sneezing,1,Hyperthyroidism,0.0016750418760469012
+shivering,1,Hyperthyroidism,0.0016750418760469012
+chills,5,Hyperthyroidism,0.008375209380234505
+joint_pain,3,Hyperthyroidism,0.005025125628140704
+muscle_wasting,1,Hyperthyroidism,0.0016750418760469012
+vomiting,12,Hyperthyroidism,0.020100502512562814
+burning_micturition,2,Hyperthyroidism,0.0033500837520938024
+fatigue,48,Hyperthyroidism,0.08040201005025126
+anxiety,2,Hyperthyroidism,0.0033500837520938024
+mood_swings,39,Hyperthyroidism,0.06532663316582915
+weight_loss,42,Hyperthyroidism,0.07035175879396985
+restlessness,39,Hyperthyroidism,0.06532663316582915
+lethargy,1,Hyperthyroidism,0.0016750418760469012
+cough,3,Hyperthyroidism,0.005025125628140704
+high_fever,8,Hyperthyroidism,0.01340033500837521
+breathlessness,4,Hyperthyroidism,0.006700167504187605
+sweating,44,Hyperthyroidism,0.07370184254606366
+headache,7,Hyperthyroidism,0.011725293132328308
+yellowish_skin,4,Hyperthyroidism,0.006700167504187605
+dark_urine,2,Hyperthyroidism,0.0033500837520938024
+nausea,6,Hyperthyroidism,0.010050251256281407
+loss_of_appetite,5,Hyperthyroidism,0.008375209380234505
+pain_behind_the_eyes,1,Hyperthyroidism,0.0016750418760469012
+back_pain,1,Hyperthyroidism,0.0016750418760469012
+abdominal_pain,3,Hyperthyroidism,0.005025125628140704
+diarrhoea,41,Hyperthyroidism,0.06867671691792294
+mild_fever,3,Hyperthyroidism,0.005025125628140704
+yellowing_of_eyes,3,Hyperthyroidism,0.005025125628140704
+swelled_lymph_nodes,2,Hyperthyroidism,0.0033500837520938024
+malaise,4,Hyperthyroidism,0.006700167504187605
+blurred_and_distorted_vision,2,Hyperthyroidism,0.0033500837520938024
+phlegm,2,Hyperthyroidism,0.0033500837520938024
+congestion,1,Hyperthyroidism,0.0016750418760469012
+chest_pain,3,Hyperthyroidism,0.005025125628140704
+fast_heart_rate,40,Hyperthyroidism,0.06700167504187604
+bruising,1,Hyperthyroidism,0.0016750418760469012
+excessive_hunger,40,Hyperthyroidism,0.06700167504187604
+extra_marital_contacts,2,Hyperthyroidism,0.0033500837520938024
+drying_and_tingling_lips,2,Hyperthyroidism,0.0033500837520938024
+slurred_speech,2,Hyperthyroidism,0.0033500837520938024
+knee_pain,1,Hyperthyroidism,0.0016750418760469012
+hip_joint_pain,1,Hyperthyroidism,0.0016750418760469012
+muscle_weakness,41,Hyperthyroidism,0.06867671691792294
+swelling_joints,1,Hyperthyroidism,0.0016750418760469012
+spinning_movements,2,Hyperthyroidism,0.0033500837520938024
+loss_of_balance,2,Hyperthyroidism,0.0033500837520938024
+unsteadiness,2,Hyperthyroidism,0.0033500837520938024
+weakness_of_one_body_side,1,Hyperthyroidism,0.0016750418760469012
+bladder_discomfort,1,Hyperthyroidism,0.0016750418760469012
+foul_smell_of urine,1,Hyperthyroidism,0.0016750418760469012
+continuous_feel_of_urine,2,Hyperthyroidism,0.0033500837520938024
+irritability,43,Hyperthyroidism,0.07202680067001675
+muscle_pain,3,Hyperthyroidism,0.005025125628140704
+altered_sensorium,1,Hyperthyroidism,0.0016750418760469012
+red_spots_over_body,2,Hyperthyroidism,0.0033500837520938024
+abnormal_menstruation,41,Hyperthyroidism,0.06867671691792294
+family_history,1,Hyperthyroidism,0.0016750418760469012
+mucoid_sputum,1,Hyperthyroidism,0.0016750418760469012
+rusty_sputum,1,Hyperthyroidism,0.0016750418760469012
+blood_in_sputum,1,Hyperthyroidism,0.0016750418760469012
+palpitations,3,Hyperthyroidism,0.005025125628140704
+painful_walking,1,Hyperthyroidism,0.0016750418760469012
+pus_filled_pimples,2,Hyperthyroidism,0.0033500837520938024
+blackheads,1,Hyperthyroidism,0.0016750418760469012
+scurring,2,Hyperthyroidism,0.0033500837520938024
+itching,3,Hypoglycemia,0.003484320557491289
+skin_rash,3,Hypoglycemia,0.003484320557491289
+continuous_sneezing,1,Hypoglycemia,0.0011614401858304297
+chills,5,Hypoglycemia,0.005807200929152149
+joint_pain,3,Hypoglycemia,0.003484320557491289
+stomach_pain,2,Hypoglycemia,0.0023228803716608595
+acidity,4,Hypoglycemia,0.004645760743321719
+ulcers_on_tongue,1,Hypoglycemia,0.0011614401858304297
+muscle_wasting,1,Hypoglycemia,0.0011614401858304297
+vomiting,64,Hypoglycemia,0.0743321718931475
+burning_micturition,3,Hypoglycemia,0.003484320557491289
+spotting_ urination,1,Hypoglycemia,0.0011614401858304297
+fatigue,63,Hypoglycemia,0.07317073170731707
+anxiety,55,Hypoglycemia,0.06387921022067364
+weight_loss,1,Hypoglycemia,0.0011614401858304297
+restlessness,1,Hypoglycemia,0.0011614401858304297
+lethargy,2,Hypoglycemia,0.0023228803716608595
+irregular_sugar_level,1,Hypoglycemia,0.0011614401858304297
+cough,2,Hypoglycemia,0.0023228803716608595
+high_fever,7,Hypoglycemia,0.008130081300813009
+sunken_eyes,1,Hypoglycemia,0.0011614401858304297
+breathlessness,1,Hypoglycemia,0.0011614401858304297
+sweating,61,Hypoglycemia,0.07084785133565621
+dehydration,1,Hypoglycemia,0.0011614401858304297
+indigestion,3,Hypoglycemia,0.003484320557491289
+headache,65,Hypoglycemia,0.07549361207897794
+yellowish_skin,4,Hypoglycemia,0.004645760743321719
+dark_urine,3,Hypoglycemia,0.003484320557491289
+nausea,64,Hypoglycemia,0.0743321718931475
+loss_of_appetite,5,Hypoglycemia,0.005807200929152149
+pain_behind_the_eyes,1,Hypoglycemia,0.0011614401858304297
+back_pain,1,Hypoglycemia,0.0011614401858304297
+abdominal_pain,4,Hypoglycemia,0.004645760743321719
+diarrhoea,3,Hypoglycemia,0.003484320557491289
+yellow_urine,1,Hypoglycemia,0.0011614401858304297
+yellowing_of_eyes,3,Hypoglycemia,0.003484320557491289
+acute_liver_failure,1,Hypoglycemia,0.0011614401858304297
+fluid_overload,1,Hypoglycemia,0.0011614401858304297
+swelling_of_stomach,1,Hypoglycemia,0.0011614401858304297
+swelled_lymph_nodes,1,Hypoglycemia,0.0011614401858304297
+malaise,2,Hypoglycemia,0.0023228803716608595
+blurred_and_distorted_vision,61,Hypoglycemia,0.07084785133565621
+phlegm,2,Hypoglycemia,0.0023228803716608595
+throat_irritation,1,Hypoglycemia,0.0011614401858304297
+redness_of_eyes,1,Hypoglycemia,0.0011614401858304297
+sinus_pressure,1,Hypoglycemia,0.0011614401858304297
+runny_nose,1,Hypoglycemia,0.0011614401858304297
+congestion,1,Hypoglycemia,0.0011614401858304297
+chest_pain,2,Hypoglycemia,0.0023228803716608595
+irritation_in_anus,1,Hypoglycemia,0.0011614401858304297
+bruising,1,Hypoglycemia,0.0011614401858304297
+obesity,1,Hypoglycemia,0.0011614401858304297
+excessive_hunger,63,Hypoglycemia,0.07317073170731707
+drying_and_tingling_lips,54,Hypoglycemia,0.0627177700348432
+slurred_speech,59,Hypoglycemia,0.06852497096399536
+knee_pain,1,Hypoglycemia,0.0011614401858304297
+stiff_neck,4,Hypoglycemia,0.004645760743321719
+loss_of_smell,1,Hypoglycemia,0.0011614401858304297
+bladder_discomfort,2,Hypoglycemia,0.0023228803716608595
+foul_smell_of urine,2,Hypoglycemia,0.0023228803716608595
+continuous_feel_of_urine,2,Hypoglycemia,0.0023228803716608595
+passage_of_gases,1,Hypoglycemia,0.0011614401858304297
+internal_itching,1,Hypoglycemia,0.0011614401858304297
+depression,3,Hypoglycemia,0.003484320557491289
+irritability,62,Hypoglycemia,0.07200929152148665
+muscle_pain,5,Hypoglycemia,0.005807200929152149
+red_spots_over_body,1,Hypoglycemia,0.0011614401858304297
+dischromic _patches,1,Hypoglycemia,0.0011614401858304297
+increased_appetite,1,Hypoglycemia,0.0011614401858304297
+polyuria,1,Hypoglycemia,0.0011614401858304297
+family_history,1,Hypoglycemia,0.0011614401858304297
+mucoid_sputum,1,Hypoglycemia,0.0011614401858304297
+visual_disturbances,3,Hypoglycemia,0.003484320557491289
+receiving_blood_transfusion,1,Hypoglycemia,0.0011614401858304297
+receiving_unsterile_injections,1,Hypoglycemia,0.0011614401858304297
+coma,1,Hypoglycemia,0.0011614401858304297
+stomach_bleeding,1,Hypoglycemia,0.0011614401858304297
+distention_of_abdomen,2,Hypoglycemia,0.0023228803716608595
+history_of_alcohol_consumption,1,Hypoglycemia,0.0011614401858304297
+fluid_overload,2,Hypoglycemia,0.0023228803716608595
+palpitations,59,Hypoglycemia,0.06852497096399536
+yellow_crust_ooze,1,Hypoglycemia,0.0011614401858304297
+itching,1,Osteoarthristis,0.0019880715705765406
+skin_rash,4,Osteoarthristis,0.007952286282306162
+nodal_skin_eruptions,1,Osteoarthristis,0.0019880715705765406
+continuous_sneezing,1,Osteoarthristis,0.0019880715705765406
+shivering,1,Osteoarthristis,0.0019880715705765406
+chills,5,Osteoarthristis,0.009940357852882704
+joint_pain,53,Osteoarthristis,0.10536779324055666
+acidity,1,Osteoarthristis,0.0019880715705765406
+vomiting,11,Osteoarthristis,0.02186878727634195
+fatigue,13,Osteoarthristis,0.02584493041749503
+weight_gain,2,Osteoarthristis,0.003976143141153081
+cold_hands_and_feets,3,Osteoarthristis,0.005964214711729622
+mood_swings,2,Osteoarthristis,0.003976143141153081
+weight_loss,2,Osteoarthristis,0.003976143141153081
+restlessness,2,Osteoarthristis,0.003976143141153081
+lethargy,3,Osteoarthristis,0.005964214711729622
+irregular_sugar_level,1,Osteoarthristis,0.0019880715705765406
+cough,3,Osteoarthristis,0.005964214711729622
+high_fever,11,Osteoarthristis,0.02186878727634195
+sunken_eyes,2,Osteoarthristis,0.003976143141153081
+breathlessness,3,Osteoarthristis,0.005964214711729622
+sweating,2,Osteoarthristis,0.003976143141153081
+dehydration,1,Osteoarthristis,0.0019880715705765406
+indigestion,1,Osteoarthristis,0.0019880715705765406
+headache,7,Osteoarthristis,0.013916500994035786
+yellowish_skin,6,Osteoarthristis,0.011928429423459244
+dark_urine,5,Osteoarthristis,0.009940357852882704
+nausea,11,Osteoarthristis,0.02186878727634195
+loss_of_appetite,6,Osteoarthristis,0.011928429423459244
+pain_behind_the_eyes,1,Osteoarthristis,0.0019880715705765406
+back_pain,2,Osteoarthristis,0.003976143141153081
+abdominal_pain,5,Osteoarthristis,0.009940357852882704
+diarrhoea,3,Osteoarthristis,0.005964214711729622
+mild_fever,1,Osteoarthristis,0.0019880715705765406
+yellowing_of_eyes,7,Osteoarthristis,0.013916500994035786
+acute_liver_failure,1,Osteoarthristis,0.0019880715705765406
+malaise,2,Osteoarthristis,0.003976143141153081
+blurred_and_distorted_vision,2,Osteoarthristis,0.003976143141153081
+phlegm,1,Osteoarthristis,0.0019880715705765406
+redness_of_eyes,1,Osteoarthristis,0.0019880715705765406
+chest_pain,2,Osteoarthristis,0.003976143141153081
+weakness_in_limbs,1,Osteoarthristis,0.0019880715705765406
+fast_heart_rate,1,Osteoarthristis,0.0019880715705765406
+neck_pain,49,Osteoarthristis,0.09741550695825049
+dizziness,3,Osteoarthristis,0.005964214711729622
+obesity,2,Osteoarthristis,0.003976143141153081
+puffy_face_and_eyes,2,Osteoarthristis,0.003976143141153081
+enlarged_thyroid,2,Osteoarthristis,0.003976143141153081
+brittle_nails,2,Osteoarthristis,0.003976143141153081
+swollen_extremeties,2,Osteoarthristis,0.003976143141153081
+excessive_hunger,3,Osteoarthristis,0.005964214711729622
+extra_marital_contacts,1,Osteoarthristis,0.0019880715705765406
+knee_pain,46,Osteoarthristis,0.09145129224652088
+hip_joint_pain,47,Osteoarthristis,0.09343936381709742
+stiff_neck,1,Osteoarthristis,0.0019880715705765406
+swelling_joints,47,Osteoarthristis,0.09343936381709742
+spinning_movements,1,Osteoarthristis,0.0019880715705765406
+loss_of_balance,3,Osteoarthristis,0.005964214711729622
+unsteadiness,1,Osteoarthristis,0.0019880715705765406
+weakness_of_one_body_side,3,Osteoarthristis,0.005964214711729622
+depression,3,Osteoarthristis,0.005964214711729622
+irritability,3,Osteoarthristis,0.005964214711729622
+muscle_pain,4,Osteoarthristis,0.007952286282306162
+altered_sensorium,2,Osteoarthristis,0.003976143141153081
+red_spots_over_body,1,Osteoarthristis,0.0019880715705765406
+abnormal_menstruation,3,Osteoarthristis,0.005964214711729622
+watering_from_eyes,3,Osteoarthristis,0.005964214711729622
+increased_appetite,1,Osteoarthristis,0.0019880715705765406
+polyuria,1,Osteoarthristis,0.0019880715705765406
+family_history,4,Osteoarthristis,0.007952286282306162
+mucoid_sputum,2,Osteoarthristis,0.003976143141153081
+rusty_sputum,1,Osteoarthristis,0.0019880715705765406
+lack_of_concentration,1,Osteoarthristis,0.0019880715705765406
+visual_disturbances,1,Osteoarthristis,0.0019880715705765406
+coma,2,Osteoarthristis,0.003976143141153081
+stomach_bleeding,2,Osteoarthristis,0.003976143141153081
+painful_walking,47,Osteoarthristis,0.09343936381709742
+scurring,1,Osteoarthristis,0.0019880715705765406
+skin_peeling,2,Osteoarthristis,0.003976143141153081
+silver_like_dusting,2,Osteoarthristis,0.003976143141153081
+small_dents_in_nails,2,Osteoarthristis,0.003976143141153081
+inflammatory_nails,2,Osteoarthristis,0.003976143141153081
+blister,2,Osteoarthristis,0.003976143141153081
+red_sore_around_nose,1,Osteoarthristis,0.0019880715705765406
+yellow_crust_ooze,1,Osteoarthristis,0.0019880715705765406
+itching,6,Psoriasis,0.013015184381778741
+skin_rash,46,Psoriasis,0.09978308026030369
+continuous_sneezing,2,Psoriasis,0.004338394793926247
+chills,5,Psoriasis,0.010845986984815618
+joint_pain,43,Psoriasis,0.09327548806941431
+stomach_pain,1,Psoriasis,0.0021691973969631237
+ulcers_on_tongue,1,Psoriasis,0.0021691973969631237
+muscle_wasting,1,Psoriasis,0.0021691973969631237
+vomiting,9,Psoriasis,0.019522776572668113
+burning_micturition,1,Psoriasis,0.0021691973969631237
+fatigue,12,Psoriasis,0.026030368763557483
+weight_gain,1,Psoriasis,0.0021691973969631237
+anxiety,2,Psoriasis,0.004338394793926247
+cold_hands_and_feets,1,Psoriasis,0.0021691973969631237
+mood_swings,3,Psoriasis,0.006507592190889371
+weight_loss,2,Psoriasis,0.004338394793926247
+lethargy,3,Psoriasis,0.006507592190889371
+patches_in_throat,1,Psoriasis,0.0021691973969631237
+cough,4,Psoriasis,0.008676789587852495
+high_fever,8,Psoriasis,0.01735357917570499
+sunken_eyes,1,Psoriasis,0.0021691973969631237
+breathlessness,3,Psoriasis,0.006507592190889371
+sweating,5,Psoriasis,0.010845986984815618
+dehydration,2,Psoriasis,0.004338394793926247
+indigestion,1,Psoriasis,0.0021691973969631237
+headache,6,Psoriasis,0.013015184381778741
+yellowish_skin,4,Psoriasis,0.008676789587852495
+dark_urine,3,Psoriasis,0.006507592190889371
+nausea,5,Psoriasis,0.010845986984815618
+loss_of_appetite,6,Psoriasis,0.013015184381778741
+constipation,1,Psoriasis,0.0021691973969631237
+abdominal_pain,6,Psoriasis,0.013015184381778741
+diarrhoea,3,Psoriasis,0.006507592190889371
+mild_fever,2,Psoriasis,0.004338394793926247
+yellow_urine,2,Psoriasis,0.004338394793926247
+yellowing_of_eyes,3,Psoriasis,0.006507592190889371
+acute_liver_failure,1,Psoriasis,0.0021691973969631237
+swelled_lymph_nodes,4,Psoriasis,0.008676789587852495
+malaise,6,Psoriasis,0.013015184381778741
+blurred_and_distorted_vision,2,Psoriasis,0.004338394793926247
+phlegm,4,Psoriasis,0.008676789587852495
+throat_irritation,2,Psoriasis,0.004338394793926247
+redness_of_eyes,2,Psoriasis,0.004338394793926247
+sinus_pressure,2,Psoriasis,0.004338394793926247
+runny_nose,2,Psoriasis,0.004338394793926247
+congestion,2,Psoriasis,0.004338394793926247
+chest_pain,5,Psoriasis,0.010845986984815618
+fast_heart_rate,1,Psoriasis,0.0021691973969631237
+pain_in_anal_region,1,Psoriasis,0.0021691973969631237
+neck_pain,2,Psoriasis,0.004338394793926247
+dizziness,2,Psoriasis,0.004338394793926247
+cramps,1,Psoriasis,0.0021691973969631237
+bruising,1,Psoriasis,0.0021691973969631237
+obesity,1,Psoriasis,0.0021691973969631237
+swollen_legs,1,Psoriasis,0.0021691973969631237
+swollen_blood_vessels,1,Psoriasis,0.0021691973969631237
+puffy_face_and_eyes,1,Psoriasis,0.0021691973969631237
+enlarged_thyroid,1,Psoriasis,0.0021691973969631237
+brittle_nails,1,Psoriasis,0.0021691973969631237
+swollen_extremeties,1,Psoriasis,0.0021691973969631237
+excessive_hunger,2,Psoriasis,0.004338394793926247
+extra_marital_contacts,1,Psoriasis,0.0021691973969631237
+drying_and_tingling_lips,2,Psoriasis,0.004338394793926247
+slurred_speech,2,Psoriasis,0.004338394793926247
+knee_pain,2,Psoriasis,0.004338394793926247
+hip_joint_pain,1,Psoriasis,0.0021691973969631237
+swelling_joints,2,Psoriasis,0.004338394793926247
+loss_of_smell,2,Psoriasis,0.004338394793926247
+bladder_discomfort,1,Psoriasis,0.0021691973969631237
+passage_of_gases,1,Psoriasis,0.0021691973969631237
+internal_itching,1,Psoriasis,0.0021691973969631237
+toxic_look_(typhos),1,Psoriasis,0.0021691973969631237
+depression,1,Psoriasis,0.0021691973969631237
+irritability,3,Psoriasis,0.006507592190889371
+muscle_pain,2,Psoriasis,0.004338394793926247
+red_spots_over_body,1,Psoriasis,0.0021691973969631237
+belly_pain,1,Psoriasis,0.0021691973969631237
+abnormal_menstruation,1,Psoriasis,0.0021691973969631237
+polyuria,1,Psoriasis,0.0021691973969631237
+rusty_sputum,1,Psoriasis,0.0021691973969631237
+receiving_blood_transfusion,2,Psoriasis,0.004338394793926247
+receiving_unsterile_injections,1,Psoriasis,0.0021691973969631237
+coma,1,Psoriasis,0.0021691973969631237
+stomach_bleeding,1,Psoriasis,0.0021691973969631237
+blood_in_sputum,1,Psoriasis,0.0021691973969631237
+prominent_veins_on_calf,1,Psoriasis,0.0021691973969631237
+palpitations,2,Psoriasis,0.004338394793926247
+painful_walking,2,Psoriasis,0.004338394793926247
+pus_filled_pimples,3,Psoriasis,0.006507592190889371
+blackheads,1,Psoriasis,0.0021691973969631237
+scurring,2,Psoriasis,0.004338394793926247
+skin_peeling,40,Psoriasis,0.08676789587852494
+silver_like_dusting,42,Psoriasis,0.0911062906724512
+small_dents_in_nails,40,Psoriasis,0.08676789587852494
+inflammatory_nails,41,Psoriasis,0.08893709327548807
+itching,3,Malaria,0.00528169014084507
+skin_rash,4,Malaria,0.007042253521126761
+continuous_sneezing,1,Malaria,0.0017605633802816902
+chills,56,Malaria,0.09859154929577464
+joint_pain,3,Malaria,0.00528169014084507
+stomach_pain,2,Malaria,0.0035211267605633804
+muscle_wasting,1,Malaria,0.0017605633802816902
+vomiting,59,Malaria,0.10387323943661972
+spotting_ urination,1,Malaria,0.0017605633802816902
+fatigue,9,Malaria,0.01584507042253521
+weight_gain,1,Malaria,0.0017605633802816902
+cold_hands_and_feets,1,Malaria,0.0017605633802816902
+mood_swings,1,Malaria,0.0017605633802816902
+weight_loss,2,Malaria,0.0035211267605633804
+lethargy,2,Malaria,0.0035211267605633804
+patches_in_throat,1,Malaria,0.0017605633802816902
+cough,3,Malaria,0.00528169014084507
+high_fever,57,Malaria,0.10035211267605634
+breathlessness,3,Malaria,0.00528169014084507
+sweating,53,Malaria,0.09330985915492958
+headache,63,Malaria,0.11091549295774648
+yellowish_skin,3,Malaria,0.00528169014084507
+dark_urine,1,Malaria,0.0017605633802816902
+nausea,57,Malaria,0.10035211267605634
+loss_of_appetite,4,Malaria,0.007042253521126761
+pain_behind_the_eyes,2,Malaria,0.0035211267605633804
+back_pain,2,Malaria,0.0035211267605633804
+abdominal_pain,3,Malaria,0.00528169014084507
+diarrhoea,47,Malaria,0.08274647887323944
+mild_fever,1,Malaria,0.0017605633802816902
+yellowing_of_eyes,1,Malaria,0.0017605633802816902
+swelling_of_stomach,1,Malaria,0.0017605633802816902
+swelled_lymph_nodes,2,Malaria,0.0035211267605633804
+malaise,4,Malaria,0.007042253521126761
+phlegm,1,Malaria,0.0017605633802816902
+throat_irritation,1,Malaria,0.0017605633802816902
+redness_of_eyes,1,Malaria,0.0017605633802816902
+sinus_pressure,2,Malaria,0.0035211267605633804
+runny_nose,1,Malaria,0.0017605633802816902
+congestion,1,Malaria,0.0017605633802816902
+chest_pain,5,Malaria,0.008802816901408451
+irritation_in_anus,1,Malaria,0.0017605633802816902
+dizziness,3,Malaria,0.00528169014084507
+puffy_face_and_eyes,1,Malaria,0.0017605633802816902
+enlarged_thyroid,1,Malaria,0.0017605633802816902
+brittle_nails,1,Malaria,0.0017605633802816902
+swollen_extremeties,1,Malaria,0.0017605633802816902
+extra_marital_contacts,1,Malaria,0.0017605633802816902
+knee_pain,1,Malaria,0.0017605633802816902
+hip_joint_pain,1,Malaria,0.0017605633802816902
+spinning_movements,2,Malaria,0.0035211267605633804
+loss_of_balance,4,Malaria,0.007042253521126761
+unsteadiness,2,Malaria,0.0035211267605633804
+weakness_of_one_body_side,1,Malaria,0.0017605633802816902
+loss_of_smell,1,Malaria,0.0017605633802816902
+bladder_discomfort,2,Malaria,0.0035211267605633804
+passage_of_gases,1,Malaria,0.0017605633802816902
+depression,1,Malaria,0.0017605633802816902
+irritability,1,Malaria,0.0017605633802816902
+muscle_pain,57,Malaria,0.10035211267605634
+altered_sensorium,1,Malaria,0.0017605633802816902
+red_spots_over_body,2,Malaria,0.0035211267605633804
+abnormal_menstruation,1,Malaria,0.0017605633802816902
+family_history,3,Malaria,0.00528169014084507
+mucoid_sputum,2,Malaria,0.0035211267605633804
+lack_of_concentration,2,Malaria,0.0035211267605633804
+distention_of_abdomen,1,Malaria,0.0017605633802816902
+history_of_alcohol_consumption,1,Malaria,0.0017605633802816902
+fluid_overload,1,Malaria,0.0017605633802816902
+skin_peeling,1,Malaria,0.0017605633802816902
+silver_like_dusting,2,Malaria,0.0035211267605633804
+small_dents_in_nails,1,Malaria,0.0017605633802816902
+blister,1,Malaria,0.0017605633802816902
+itching,3,Varicose veins,0.006072874493927126
+skin_rash,6,Varicose veins,0.012145748987854251
+nodal_skin_eruptions,2,Varicose veins,0.004048582995951417
+shivering,1,Varicose veins,0.0020242914979757085
+chills,5,Varicose veins,0.010121457489878543
+joint_pain,3,Varicose veins,0.006072874493927126
+acidity,2,Varicose veins,0.004048582995951417
+ulcers_on_tongue,1,Varicose veins,0.0020242914979757085
+vomiting,6,Varicose veins,0.012145748987854251
+fatigue,59,Varicose veins,0.1194331983805668
+weight_gain,1,Varicose veins,0.0020242914979757085
+cold_hands_and_feets,1,Varicose veins,0.0020242914979757085
+mood_swings,3,Varicose veins,0.006072874493927126
+weight_loss,3,Varicose veins,0.006072874493927126
+restlessness,1,Varicose veins,0.0020242914979757085
+lethargy,1,Varicose veins,0.0020242914979757085
+patches_in_throat,1,Varicose veins,0.0020242914979757085
+cough,4,Varicose veins,0.008097165991902834
+high_fever,4,Varicose veins,0.008097165991902834
+breathlessness,4,Varicose veins,0.008097165991902834
+sweating,3,Varicose veins,0.006072874493927126
+indigestion,1,Varicose veins,0.0020242914979757085
+headache,4,Varicose veins,0.008097165991902834
+yellowish_skin,3,Varicose veins,0.006072874493927126
+dark_urine,2,Varicose veins,0.004048582995951417
+nausea,4,Varicose veins,0.008097165991902834
+loss_of_appetite,2,Varicose veins,0.004048582995951417
+constipation,3,Varicose veins,0.006072874493927126
+abdominal_pain,4,Varicose veins,0.008097165991902834
+diarrhoea,3,Varicose veins,0.006072874493927126
+mild_fever,1,Varicose veins,0.0020242914979757085
+yellowing_of_eyes,2,Varicose veins,0.004048582995951417
+swelled_lymph_nodes,1,Varicose veins,0.0020242914979757085
+malaise,2,Varicose veins,0.004048582995951417
+blurred_and_distorted_vision,1,Varicose veins,0.0020242914979757085
+phlegm,2,Varicose veins,0.004048582995951417
+chest_pain,3,Varicose veins,0.006072874493927126
+fast_heart_rate,2,Varicose veins,0.004048582995951417
+pain_during_bowel_movements,1,Varicose veins,0.0020242914979757085
+pain_in_anal_region,1,Varicose veins,0.0020242914979757085
+bloody_stool,1,Varicose veins,0.0020242914979757085
+irritation_in_anus,1,Varicose veins,0.0020242914979757085
+neck_pain,1,Varicose veins,0.0020242914979757085
+dizziness,1,Varicose veins,0.0020242914979757085
+cramps,50,Varicose veins,0.10121457489878542
+bruising,48,Varicose veins,0.09716599190283401
+obesity,49,Varicose veins,0.09919028340080972
+swollen_legs,50,Varicose veins,0.10121457489878542
+swollen_blood_vessels,46,Varicose veins,0.0931174089068826
+puffy_face_and_eyes,1,Varicose veins,0.0020242914979757085
+enlarged_thyroid,1,Varicose veins,0.0020242914979757085
+brittle_nails,1,Varicose veins,0.0020242914979757085
+swollen_extremeties,2,Varicose veins,0.004048582995951417
+excessive_hunger,1,Varicose veins,0.0020242914979757085
+knee_pain,1,Varicose veins,0.0020242914979757085
+hip_joint_pain,1,Varicose veins,0.0020242914979757085
+muscle_weakness,1,Varicose veins,0.0020242914979757085
+stiff_neck,1,Varicose veins,0.0020242914979757085
+swelling_joints,1,Varicose veins,0.0020242914979757085
+bladder_discomfort,1,Varicose veins,0.0020242914979757085
+toxic_look_(typhos),2,Varicose veins,0.004048582995951417
+depression,2,Varicose veins,0.004048582995951417
+irritability,3,Varicose veins,0.006072874493927126
+belly_pain,1,Varicose veins,0.0020242914979757085
+abnormal_menstruation,2,Varicose veins,0.004048582995951417
+dischromic _patches,1,Varicose veins,0.0020242914979757085
+watering_from_eyes,1,Varicose veins,0.0020242914979757085
+family_history,1,Varicose veins,0.0020242914979757085
+mucoid_sputum,1,Varicose veins,0.0020242914979757085
+rusty_sputum,1,Varicose veins,0.0020242914979757085
+visual_disturbances,1,Varicose veins,0.0020242914979757085
+blood_in_sputum,1,Varicose veins,0.0020242914979757085
+prominent_veins_on_calf,49,Varicose veins,0.09919028340080972
+painful_walking,1,Varicose veins,0.0020242914979757085
+pus_filled_pimples,1,Varicose veins,0.0020242914979757085
+blackheads,1,Varicose veins,0.0020242914979757085
+scurring,2,Varicose veins,0.004048582995951417
+skin_peeling,1,Varicose veins,0.0020242914979757085
+silver_like_dusting,1,Varicose veins,0.0020242914979757085
+small_dents_in_nails,1,Varicose veins,0.0020242914979757085
+inflammatory_nails,1,Varicose veins,0.0020242914979757085
+blister,1,Varicose veins,0.0020242914979757085
+red_sore_around_nose,2,Varicose veins,0.004048582995951417
+yellow_crust_ooze,1,Varicose veins,0.0020242914979757085
+itching,59,Drug Reaction,0.12139917695473251
+skin_rash,51,Drug Reaction,0.10493827160493827
+nodal_skin_eruptions,1,Drug Reaction,0.00205761316872428
+chills,4,Drug Reaction,0.00823045267489712
+joint_pain,7,Drug Reaction,0.01440329218106996
+stomach_pain,51,Drug Reaction,0.10493827160493827
+acidity,1,Drug Reaction,0.00205761316872428
+vomiting,11,Drug Reaction,0.02263374485596708
+burning_micturition,55,Drug Reaction,0.11316872427983539
+spotting_ urination,52,Drug Reaction,0.10699588477366255
+fatigue,10,Drug Reaction,0.0205761316872428
+weight_gain,2,Drug Reaction,0.00411522633744856
+cold_hands_and_feets,1,Drug Reaction,0.00205761316872428
+mood_swings,3,Drug Reaction,0.006172839506172839
+weight_loss,1,Drug Reaction,0.00205761316872428
+restlessness,1,Drug Reaction,0.00205761316872428
+lethargy,4,Drug Reaction,0.00823045267489712
+irregular_sugar_level,1,Drug Reaction,0.00205761316872428
+cough,2,Drug Reaction,0.00411522633744856
+high_fever,5,Drug Reaction,0.0102880658436214
+breathlessness,3,Drug Reaction,0.006172839506172839
+dehydration,1,Drug Reaction,0.00205761316872428
+headache,6,Drug Reaction,0.012345679012345678
+yellowish_skin,9,Drug Reaction,0.018518518518518517
+dark_urine,5,Drug Reaction,0.0102880658436214
+nausea,9,Drug Reaction,0.018518518518518517
+loss_of_appetite,10,Drug Reaction,0.0205761316872428
+pain_behind_the_eyes,2,Drug Reaction,0.00411522633744856
+back_pain,2,Drug Reaction,0.00411522633744856
+constipation,2,Drug Reaction,0.00411522633744856
+abdominal_pain,8,Drug Reaction,0.01646090534979424
+diarrhoea,4,Drug Reaction,0.00823045267489712
+mild_fever,6,Drug Reaction,0.012345679012345678
+yellowing_of_eyes,8,Drug Reaction,0.01646090534979424
+acute_liver_failure,1,Drug Reaction,0.00205761316872428
+swelling_of_stomach,1,Drug Reaction,0.00205761316872428
+swelled_lymph_nodes,3,Drug Reaction,0.006172839506172839
+malaise,4,Drug Reaction,0.00823045267489712
+blurred_and_distorted_vision,1,Drug Reaction,0.00205761316872428
+phlegm,1,Drug Reaction,0.00205761316872428
+redness_of_eyes,1,Drug Reaction,0.00205761316872428
+chest_pain,1,Drug Reaction,0.00205761316872428
+weakness_in_limbs,1,Drug Reaction,0.00205761316872428
+pain_during_bowel_movements,2,Drug Reaction,0.00411522633744856
+pain_in_anal_region,2,Drug Reaction,0.00411522633744856
+bloody_stool,2,Drug Reaction,0.00411522633744856
+irritation_in_anus,2,Drug Reaction,0.00411522633744856
+neck_pain,1,Drug Reaction,0.00205761316872428
+dizziness,3,Drug Reaction,0.006172839506172839
+cramps,1,Drug Reaction,0.00205761316872428
+bruising,2,Drug Reaction,0.00411522633744856
+obesity,1,Drug Reaction,0.00205761316872428
+swollen_legs,1,Drug Reaction,0.00205761316872428
+swollen_blood_vessels,1,Drug Reaction,0.00205761316872428
+puffy_face_and_eyes,2,Drug Reaction,0.00411522633744856
+enlarged_thyroid,2,Drug Reaction,0.00411522633744856
+brittle_nails,2,Drug Reaction,0.00411522633744856
+swollen_extremeties,2,Drug Reaction,0.00411522633744856
+excessive_hunger,1,Drug Reaction,0.00205761316872428
+muscle_weakness,1,Drug Reaction,0.00205761316872428
+stiff_neck,1,Drug Reaction,0.00205761316872428
+swelling_joints,1,Drug Reaction,0.00205761316872428
+movement_stiffness,1,Drug Reaction,0.00205761316872428
+spinning_movements,3,Drug Reaction,0.006172839506172839
+loss_of_balance,4,Drug Reaction,0.00823045267489712
+unsteadiness,3,Drug Reaction,0.006172839506172839
+foul_smell_of urine,1,Drug Reaction,0.00205761316872428
+depression,2,Drug Reaction,0.00411522633744856
+irritability,2,Drug Reaction,0.00411522633744856
+muscle_pain,5,Drug Reaction,0.0102880658436214
+red_spots_over_body,2,Drug Reaction,0.00411522633744856
+abnormal_menstruation,2,Drug Reaction,0.00411522633744856
+dischromic _patches,1,Drug Reaction,0.00205761316872428
+increased_appetite,1,Drug Reaction,0.00205761316872428
+polyuria,1,Drug Reaction,0.00205761316872428
+family_history,2,Drug Reaction,0.00411522633744856
+mucoid_sputum,1,Drug Reaction,0.00205761316872428
+coma,2,Drug Reaction,0.00411522633744856
+stomach_bleeding,1,Drug Reaction,0.00205761316872428
+distention_of_abdomen,1,Drug Reaction,0.00205761316872428
+history_of_alcohol_consumption,1,Drug Reaction,0.00205761316872428
+fluid_overload,1,Drug Reaction,0.00205761316872428
+blood_in_sputum,1,Drug Reaction,0.00205761316872428
+prominent_veins_on_calf,1,Drug Reaction,0.00205761316872428
+painful_walking,1,Drug Reaction,0.00205761316872428
+skin_peeling,1,Drug Reaction,0.00205761316872428
+silver_like_dusting,2,Drug Reaction,0.00411522633744856
+small_dents_in_nails,1,Drug Reaction,0.00205761316872428
+inflammatory_nails,1,Drug Reaction,0.00205761316872428
+itching,42,Jaundice,0.08030592734225621
+skin_rash,4,Jaundice,0.0076481835564053535
+nodal_skin_eruptions,1,Jaundice,0.0019120458891013384
+continuous_sneezing,1,Jaundice,0.0019120458891013384
+chills,6,Jaundice,0.011472275334608031
+joint_pain,2,Jaundice,0.0038240917782026767
+stomach_pain,1,Jaundice,0.0019120458891013384
+muscle_wasting,1,Jaundice,0.0019120458891013384
+vomiting,47,Jaundice,0.08986615678776291
+burning_micturition,1,Jaundice,0.0019120458891013384
+fatigue,55,Jaundice,0.10516252390057361
+weight_gain,1,Jaundice,0.0019120458891013384
+anxiety,1,Jaundice,0.0019120458891013384
+cold_hands_and_feets,1,Jaundice,0.0019120458891013384
+mood_swings,1,Jaundice,0.0019120458891013384
+weight_loss,41,Jaundice,0.07839388145315487
+lethargy,2,Jaundice,0.0038240917782026767
+patches_in_throat,1,Jaundice,0.0019120458891013384
+cough,3,Jaundice,0.0057361376673040155
+high_fever,48,Jaundice,0.09177820267686425
+sunken_eyes,1,Jaundice,0.0019120458891013384
+breathlessness,4,Jaundice,0.0076481835564053535
+sweating,5,Jaundice,0.009560229445506692
+dehydration,1,Jaundice,0.0019120458891013384
+indigestion,2,Jaundice,0.0038240917782026767
+headache,7,Jaundice,0.01338432122370937
+yellowish_skin,42,Jaundice,0.08030592734225621
+dark_urine,41,Jaundice,0.07839388145315487
+nausea,7,Jaundice,0.01338432122370937
+loss_of_appetite,7,Jaundice,0.01338432122370937
+back_pain,1,Jaundice,0.0019120458891013384
+constipation,3,Jaundice,0.0057361376673040155
+abdominal_pain,43,Jaundice,0.08221797323135756
+diarrhoea,3,Jaundice,0.0057361376673040155
+mild_fever,4,Jaundice,0.0076481835564053535
+yellowing_of_eyes,4,Jaundice,0.0076481835564053535
+acute_liver_failure,1,Jaundice,0.0019120458891013384
+fluid_overload,1,Jaundice,0.0019120458891013384
+swelled_lymph_nodes,4,Jaundice,0.0076481835564053535
+malaise,6,Jaundice,0.011472275334608031
+blurred_and_distorted_vision,1,Jaundice,0.0019120458891013384
+phlegm,4,Jaundice,0.0076481835564053535
+throat_irritation,1,Jaundice,0.0019120458891013384
+redness_of_eyes,1,Jaundice,0.0019120458891013384
+sinus_pressure,1,Jaundice,0.0019120458891013384
+runny_nose,1,Jaundice,0.0019120458891013384
+congestion,1,Jaundice,0.0019120458891013384
+chest_pain,5,Jaundice,0.009560229445506692
+weakness_in_limbs,1,Jaundice,0.0019120458891013384
+fast_heart_rate,2,Jaundice,0.0038240917782026767
+pain_during_bowel_movements,1,Jaundice,0.0019120458891013384
+pain_in_anal_region,2,Jaundice,0.0038240917782026767
+bloody_stool,1,Jaundice,0.0019120458891013384
+irritation_in_anus,1,Jaundice,0.0019120458891013384
+neck_pain,3,Jaundice,0.0057361376673040155
+dizziness,2,Jaundice,0.0038240917782026767
+cramps,1,Jaundice,0.0019120458891013384
+bruising,1,Jaundice,0.0019120458891013384
+obesity,1,Jaundice,0.0019120458891013384
+swollen_blood_vessels,1,Jaundice,0.0019120458891013384
+puffy_face_and_eyes,1,Jaundice,0.0019120458891013384
+enlarged_thyroid,1,Jaundice,0.0019120458891013384
+brittle_nails,1,Jaundice,0.0019120458891013384
+swollen_extremeties,1,Jaundice,0.0019120458891013384
+excessive_hunger,1,Jaundice,0.0019120458891013384
+extra_marital_contacts,1,Jaundice,0.0019120458891013384
+drying_and_tingling_lips,1,Jaundice,0.0019120458891013384
+slurred_speech,1,Jaundice,0.0019120458891013384
+knee_pain,1,Jaundice,0.0019120458891013384
+hip_joint_pain,1,Jaundice,0.0019120458891013384
+swelling_joints,1,Jaundice,0.0019120458891013384
+movement_stiffness,1,Jaundice,0.0019120458891013384
+spinning_movements,1,Jaundice,0.0019120458891013384
+loss_of_balance,2,Jaundice,0.0038240917782026767
+unsteadiness,1,Jaundice,0.0019120458891013384
+loss_of_smell,1,Jaundice,0.0019120458891013384
+passage_of_gases,1,Jaundice,0.0019120458891013384
+internal_itching,1,Jaundice,0.0019120458891013384
+toxic_look_(typhos),2,Jaundice,0.0038240917782026767
+depression,1,Jaundice,0.0019120458891013384
+irritability,2,Jaundice,0.0038240917782026767
+muscle_pain,1,Jaundice,0.0019120458891013384
+red_spots_over_body,3,Jaundice,0.0057361376673040155
+belly_pain,2,Jaundice,0.0038240917782026767
+abnormal_menstruation,1,Jaundice,0.0019120458891013384
+dischromic _patches,1,Jaundice,0.0019120458891013384
+watering_from_eyes,1,Jaundice,0.0019120458891013384
+family_history,2,Jaundice,0.0038240917782026767
+rusty_sputum,2,Jaundice,0.0038240917782026767
+receiving_unsterile_injections,1,Jaundice,0.0019120458891013384
+fluid_overload,1,Jaundice,0.0019120458891013384
+blood_in_sputum,1,Jaundice,0.0019120458891013384
+prominent_veins_on_calf,2,Jaundice,0.0038240917782026767
+palpitations,1,Jaundice,0.0019120458891013384
+painful_walking,1,Jaundice,0.0019120458891013384
+itching,7,Paralysis (brain hemorrhage),0.014373716632443531
+skin_rash,8,Paralysis (brain hemorrhage),0.01642710472279261
+shivering,1,Paralysis (brain hemorrhage),0.002053388090349076
+chills,8,Paralysis (brain hemorrhage),0.01642710472279261
+joint_pain,7,Paralysis (brain hemorrhage),0.014373716632443531
+stomach_pain,2,Paralysis (brain hemorrhage),0.004106776180698152
+acidity,1,Paralysis (brain hemorrhage),0.002053388090349076
+ulcers_on_tongue,1,Paralysis (brain hemorrhage),0.002053388090349076
+vomiting,61,Paralysis (brain hemorrhage),0.12525667351129363
+burning_micturition,2,Paralysis (brain hemorrhage),0.004106776180698152
+spotting_ urination,1,Paralysis (brain hemorrhage),0.002053388090349076
+fatigue,13,Paralysis (brain hemorrhage),0.026694045174537988
+cold_hands_and_feets,1,Paralysis (brain hemorrhage),0.002053388090349076
+mood_swings,2,Paralysis (brain hemorrhage),0.004106776180698152
+weight_loss,1,Paralysis (brain hemorrhage),0.002053388090349076
+restlessness,2,Paralysis (brain hemorrhage),0.004106776180698152
+lethargy,4,Paralysis (brain hemorrhage),0.008213552361396304
+patches_in_throat,1,Paralysis (brain hemorrhage),0.002053388090349076
+cough,4,Paralysis (brain hemorrhage),0.008213552361396304
+high_fever,10,Paralysis (brain hemorrhage),0.02053388090349076
+sunken_eyes,1,Paralysis (brain hemorrhage),0.002053388090349076
+breathlessness,5,Paralysis (brain hemorrhage),0.01026694045174538
+sweating,6,Paralysis (brain hemorrhage),0.012320328542094456
+indigestion,1,Paralysis (brain hemorrhage),0.002053388090349076
+headache,54,Paralysis (brain hemorrhage),0.11088295687885011
+yellowish_skin,6,Paralysis (brain hemorrhage),0.012320328542094456
+dark_urine,3,Paralysis (brain hemorrhage),0.006160164271047228
+nausea,11,Paralysis (brain hemorrhage),0.022587268993839837
+loss_of_appetite,11,Paralysis (brain hemorrhage),0.022587268993839837
+pain_behind_the_eyes,2,Paralysis (brain hemorrhage),0.004106776180698152
+back_pain,3,Paralysis (brain hemorrhage),0.006160164271047228
+constipation,3,Paralysis (brain hemorrhage),0.006160164271047228
+abdominal_pain,9,Paralysis (brain hemorrhage),0.018480492813141684
+diarrhoea,4,Paralysis (brain hemorrhage),0.008213552361396304
+mild_fever,4,Paralysis (brain hemorrhage),0.008213552361396304
+yellow_urine,1,Paralysis (brain hemorrhage),0.002053388090349076
+yellowing_of_eyes,6,Paralysis (brain hemorrhage),0.012320328542094456
+acute_liver_failure,1,Paralysis (brain hemorrhage),0.002053388090349076
+swelling_of_stomach,1,Paralysis (brain hemorrhage),0.002053388090349076
+swelled_lymph_nodes,3,Paralysis (brain hemorrhage),0.006160164271047228
+malaise,9,Paralysis (brain hemorrhage),0.018480492813141684
+phlegm,3,Paralysis (brain hemorrhage),0.006160164271047228
+throat_irritation,1,Paralysis (brain hemorrhage),0.002053388090349076
+congestion,1,Paralysis (brain hemorrhage),0.002053388090349076
+chest_pain,6,Paralysis (brain hemorrhage),0.012320328542094456
+weakness_in_limbs,1,Paralysis (brain hemorrhage),0.002053388090349076
+fast_heart_rate,4,Paralysis (brain hemorrhage),0.008213552361396304
+pain_during_bowel_movements,1,Paralysis (brain hemorrhage),0.002053388090349076
+pain_in_anal_region,1,Paralysis (brain hemorrhage),0.002053388090349076
+bloody_stool,1,Paralysis (brain hemorrhage),0.002053388090349076
+irritation_in_anus,1,Paralysis (brain hemorrhage),0.002053388090349076
+neck_pain,5,Paralysis (brain hemorrhage),0.01026694045174538
+dizziness,3,Paralysis (brain hemorrhage),0.006160164271047228
+obesity,1,Paralysis (brain hemorrhage),0.002053388090349076
+puffy_face_and_eyes,1,Paralysis (brain hemorrhage),0.002053388090349076
+enlarged_thyroid,1,Paralysis (brain hemorrhage),0.002053388090349076
+brittle_nails,2,Paralysis (brain hemorrhage),0.004106776180698152
+swollen_extremeties,2,Paralysis (brain hemorrhage),0.004106776180698152
+excessive_hunger,1,Paralysis (brain hemorrhage),0.002053388090349076
+knee_pain,2,Paralysis (brain hemorrhage),0.004106776180698152
+hip_joint_pain,2,Paralysis (brain hemorrhage),0.004106776180698152
+muscle_weakness,3,Paralysis (brain hemorrhage),0.006160164271047228
+stiff_neck,3,Paralysis (brain hemorrhage),0.006160164271047228
+swelling_joints,5,Paralysis (brain hemorrhage),0.01026694045174538
+movement_stiffness,4,Paralysis (brain hemorrhage),0.008213552361396304
+spinning_movements,3,Paralysis (brain hemorrhage),0.006160164271047228
+loss_of_balance,6,Paralysis (brain hemorrhage),0.012320328542094456
+unsteadiness,4,Paralysis (brain hemorrhage),0.008213552361396304
+weakness_of_one_body_side,43,Paralysis (brain hemorrhage),0.08829568788501027
+loss_of_smell,1,Paralysis (brain hemorrhage),0.002053388090349076
+bladder_discomfort,2,Paralysis (brain hemorrhage),0.004106776180698152
+foul_smell_of urine,1,Paralysis (brain hemorrhage),0.002053388090349076
+continuous_feel_of_urine,1,Paralysis (brain hemorrhage),0.002053388090349076
+passage_of_gases,1,Paralysis (brain hemorrhage),0.002053388090349076
+internal_itching,1,Paralysis (brain hemorrhage),0.002053388090349076
+toxic_look_(typhos),2,Paralysis (brain hemorrhage),0.004106776180698152
+depression,1,Paralysis (brain hemorrhage),0.002053388090349076
+irritability,2,Paralysis (brain hemorrhage),0.004106776180698152
+muscle_pain,3,Paralysis (brain hemorrhage),0.006160164271047228
+altered_sensorium,46,Paralysis (brain hemorrhage),0.0944558521560575
+red_spots_over_body,5,Paralysis (brain hemorrhage),0.01026694045174538
+belly_pain,2,Paralysis (brain hemorrhage),0.004106776180698152
+abnormal_menstruation,2,Paralysis (brain hemorrhage),0.004106776180698152
+watering_from_eyes,1,Paralysis (brain hemorrhage),0.002053388090349076
+rusty_sputum,3,Paralysis (brain hemorrhage),0.006160164271047228
+lack_of_concentration,1,Paralysis (brain hemorrhage),0.002053388090349076
+receiving_blood_transfusion,1,Paralysis (brain hemorrhage),0.002053388090349076
+receiving_unsterile_injections,1,Paralysis (brain hemorrhage),0.002053388090349076
+coma,1,Paralysis (brain hemorrhage),0.002053388090349076
+stomach_bleeding,1,Paralysis (brain hemorrhage),0.002053388090349076
+distention_of_abdomen,1,Paralysis (brain hemorrhage),0.002053388090349076
+history_of_alcohol_consumption,1,Paralysis (brain hemorrhage),0.002053388090349076
+fluid_overload,1,Paralysis (brain hemorrhage),0.002053388090349076
+blood_in_sputum,1,Paralysis (brain hemorrhage),0.002053388090349076
+painful_walking,5,Paralysis (brain hemorrhage),0.01026694045174538
+pus_filled_pimples,1,Paralysis (brain hemorrhage),0.002053388090349076
+blackheads,1,Paralysis (brain hemorrhage),0.002053388090349076
+scurring,1,Paralysis (brain hemorrhage),0.002053388090349076
+skin_peeling,1,Paralysis (brain hemorrhage),0.002053388090349076
+silver_like_dusting,1,Paralysis (brain hemorrhage),0.002053388090349076
+small_dents_in_nails,1,Paralysis (brain hemorrhage),0.002053388090349076
+inflammatory_nails,1,Paralysis (brain hemorrhage),0.002053388090349076
+itching,3,AIDS,0.009036144578313253
+skin_rash,4,AIDS,0.012048192771084338
+nodal_skin_eruptions,1,AIDS,0.0030120481927710845
+continuous_sneezing,2,AIDS,0.006024096385542169
+shivering,1,AIDS,0.0030120481927710845
+chills,2,AIDS,0.006024096385542169
+joint_pain,2,AIDS,0.006024096385542169
+stomach_pain,2,AIDS,0.006024096385542169
+acidity,1,AIDS,0.0030120481927710845
+ulcers_on_tongue,1,AIDS,0.0030120481927710845
+muscle_wasting,51,AIDS,0.1536144578313253
+vomiting,8,AIDS,0.024096385542168676
+burning_micturition,1,AIDS,0.0030120481927710845
+spotting_ urination,1,AIDS,0.0030120481927710845
+fatigue,4,AIDS,0.012048192771084338
+weight_gain,1,AIDS,0.0030120481927710845
+anxiety,1,AIDS,0.0030120481927710845
+cold_hands_and_feets,1,AIDS,0.0030120481927710845
+mood_swings,1,AIDS,0.0030120481927710845
+weight_loss,1,AIDS,0.0030120481927710845
+lethargy,3,AIDS,0.009036144578313253
+patches_in_throat,54,AIDS,0.16265060240963855
+cough,2,AIDS,0.006024096385542169
+high_fever,55,AIDS,0.16566265060240964
+sunken_eyes,1,AIDS,0.0030120481927710845
+sweating,1,AIDS,0.0030120481927710845
+dehydration,1,AIDS,0.0030120481927710845
+headache,5,AIDS,0.015060240963855422
+yellowish_skin,3,AIDS,0.009036144578313253
+dark_urine,2,AIDS,0.006024096385542169
+nausea,2,AIDS,0.006024096385542169
+loss_of_appetite,2,AIDS,0.006024096385542169
+back_pain,1,AIDS,0.0030120481927710845
+abdominal_pain,4,AIDS,0.012048192771084338
+diarrhoea,1,AIDS,0.0030120481927710845
+mild_fever,2,AIDS,0.006024096385542169
+yellowing_of_eyes,1,AIDS,0.0030120481927710845
+swelling_of_stomach,1,AIDS,0.0030120481927710845
+swelled_lymph_nodes,2,AIDS,0.006024096385542169
+malaise,2,AIDS,0.006024096385542169
+blurred_and_distorted_vision,2,AIDS,0.006024096385542169
+phlegm,1,AIDS,0.0030120481927710845
+throat_irritation,1,AIDS,0.0030120481927710845
+redness_of_eyes,2,AIDS,0.006024096385542169
+sinus_pressure,1,AIDS,0.0030120481927710845
+runny_nose,1,AIDS,0.0030120481927710845
+congestion,1,AIDS,0.0030120481927710845
+chest_pain,2,AIDS,0.006024096385542169
+dizziness,1,AIDS,0.0030120481927710845
+puffy_face_and_eyes,1,AIDS,0.0030120481927710845
+enlarged_thyroid,1,AIDS,0.0030120481927710845
+brittle_nails,1,AIDS,0.0030120481927710845
+swollen_extremeties,1,AIDS,0.0030120481927710845
+excessive_hunger,1,AIDS,0.0030120481927710845
+extra_marital_contacts,48,AIDS,0.14457831325301204
+drying_and_tingling_lips,1,AIDS,0.0030120481927710845
+slurred_speech,1,AIDS,0.0030120481927710845
+muscle_weakness,2,AIDS,0.006024096385542169
+stiff_neck,1,AIDS,0.0030120481927710845
+swelling_joints,1,AIDS,0.0030120481927710845
+movement_stiffness,1,AIDS,0.0030120481927710845
+spinning_movements,1,AIDS,0.0030120481927710845
+loss_of_balance,1,AIDS,0.0030120481927710845
+unsteadiness,1,AIDS,0.0030120481927710845
+weakness_of_one_body_side,2,AIDS,0.006024096385542169
+loss_of_smell,1,AIDS,0.0030120481927710845
+depression,1,AIDS,0.0030120481927710845
+irritability,2,AIDS,0.006024096385542169
+muscle_pain,2,AIDS,0.006024096385542169
+altered_sensorium,1,AIDS,0.0030120481927710845
+red_spots_over_body,1,AIDS,0.0030120481927710845
+abnormal_menstruation,1,AIDS,0.0030120481927710845
+dischromic _patches,1,AIDS,0.0030120481927710845
+watering_from_eyes,1,AIDS,0.0030120481927710845
+stomach_bleeding,1,AIDS,0.0030120481927710845
+distention_of_abdomen,1,AIDS,0.0030120481927710845
+history_of_alcohol_consumption,1,AIDS,0.0030120481927710845
+fluid_overload,1,AIDS,0.0030120481927710845
+palpitations,1,AIDS,0.0030120481927710845
+painful_walking,1,AIDS,0.0030120481927710845
+skin_peeling,1,AIDS,0.0030120481927710845
+small_dents_in_nails,1,AIDS,0.0030120481927710845
+inflammatory_nails,1,AIDS,0.0030120481927710845
+blister,1,AIDS,0.0030120481927710845
+itching,4,Allergy,0.013937282229965157
+skin_rash,2,Allergy,0.006968641114982578
+nodal_skin_eruptions,1,Allergy,0.003484320557491289
+continuous_sneezing,53,Allergy,0.18466898954703834
+shivering,50,Allergy,0.17421602787456447
+chills,50,Allergy,0.17421602787456447
+joint_pain,3,Allergy,0.010452961672473868
+stomach_pain,1,Allergy,0.003484320557491289
+vomiting,8,Allergy,0.027874564459930314
+burning_micturition,1,Allergy,0.003484320557491289
+spotting_ urination,2,Allergy,0.006968641114982578
+fatigue,3,Allergy,0.010452961672473868
+lethargy,1,Allergy,0.003484320557491289
+cough,1,Allergy,0.003484320557491289
+high_fever,3,Allergy,0.010452961672473868
+sweating,1,Allergy,0.003484320557491289
+dehydration,1,Allergy,0.003484320557491289
+headache,2,Allergy,0.006968641114982578
+yellowish_skin,5,Allergy,0.017421602787456445
+dark_urine,2,Allergy,0.006968641114982578
+nausea,6,Allergy,0.020905923344947737
+loss_of_appetite,6,Allergy,0.020905923344947737
+constipation,1,Allergy,0.003484320557491289
+abdominal_pain,4,Allergy,0.013937282229965157
+diarrhoea,1,Allergy,0.003484320557491289
+mild_fever,1,Allergy,0.003484320557491289
+yellowing_of_eyes,5,Allergy,0.017421602787456445
+swelled_lymph_nodes,1,Allergy,0.003484320557491289
+malaise,1,Allergy,0.003484320557491289
+runny_nose,1,Allergy,0.003484320557491289
+fast_heart_rate,1,Allergy,0.003484320557491289
+pain_during_bowel_movements,1,Allergy,0.003484320557491289
+pain_in_anal_region,1,Allergy,0.003484320557491289
+bloody_stool,1,Allergy,0.003484320557491289
+obesity,1,Allergy,0.003484320557491289
+swollen_blood_vessels,1,Allergy,0.003484320557491289
+unsteadiness,1,Allergy,0.003484320557491289
+depression,1,Allergy,0.003484320557491289
+irritability,1,Allergy,0.003484320557491289
+muscle_pain,1,Allergy,0.003484320557491289
+red_spots_over_body,1,Allergy,0.003484320557491289
+belly_pain,1,Allergy,0.003484320557491289
+watering_from_eyes,50,Allergy,0.17421602787456447
+rusty_sputum,1,Allergy,0.003484320557491289
+blood_in_sputum,1,Allergy,0.003484320557491289
+palpitations,1,Allergy,0.003484320557491289
+blister,1,Allergy,0.003484320557491289
+itching,6,Hepatitis C,0.0136986301369863
+skin_rash,3,Hepatitis C,0.00684931506849315
+continuous_sneezing,1,Hepatitis C,0.00228310502283105
+shivering,1,Hepatitis C,0.00228310502283105
+chills,2,Hepatitis C,0.0045662100456621
+joint_pain,4,Hepatitis C,0.0091324200913242
+acidity,2,Hepatitis C,0.0045662100456621
+muscle_wasting,1,Hepatitis C,0.00228310502283105
+vomiting,9,Hepatitis C,0.02054794520547945
+burning_micturition,1,Hepatitis C,0.00228310502283105
+fatigue,55,Hepatitis C,0.12557077625570776
+weight_loss,3,Hepatitis C,0.00684931506849315
+lethargy,3,Hepatitis C,0.00684931506849315
+patches_in_throat,1,Hepatitis C,0.00228310502283105
+cough,1,Hepatitis C,0.00228310502283105
+high_fever,7,Hepatitis C,0.01598173515981735
+breathlessness,2,Hepatitis C,0.0045662100456621
+sweating,2,Hepatitis C,0.0045662100456621
+indigestion,2,Hepatitis C,0.0045662100456621
+headache,5,Hepatitis C,0.01141552511415525
+yellowish_skin,52,Hepatitis C,0.1187214611872146
+dark_urine,5,Hepatitis C,0.01141552511415525
+nausea,52,Hepatitis C,0.1187214611872146
+loss_of_appetite,54,Hepatitis C,0.1232876712328767
+back_pain,2,Hepatitis C,0.0045662100456621
+abdominal_pain,7,Hepatitis C,0.01598173515981735
+mild_fever,3,Hepatitis C,0.00684931506849315
+yellowing_of_eyes,48,Hepatitis C,0.1095890410958904
+swelled_lymph_nodes,3,Hepatitis C,0.00684931506849315
+malaise,5,Hepatitis C,0.01141552511415525
+blurred_and_distorted_vision,2,Hepatitis C,0.0045662100456621
+phlegm,1,Hepatitis C,0.00228310502283105
+chest_pain,2,Hepatitis C,0.0045662100456621
+weakness_in_limbs,1,Hepatitis C,0.00228310502283105
+fast_heart_rate,1,Hepatitis C,0.00228310502283105
+bloody_stool,1,Hepatitis C,0.00228310502283105
+neck_pain,2,Hepatitis C,0.0045662100456621
+dizziness,2,Hepatitis C,0.0045662100456621
+puffy_face_and_eyes,1,Hepatitis C,0.00228310502283105
+excessive_hunger,1,Hepatitis C,0.00228310502283105
+extra_marital_contacts,1,Hepatitis C,0.00228310502283105
+slurred_speech,1,Hepatitis C,0.00228310502283105
+knee_pain,2,Hepatitis C,0.0045662100456621
+hip_joint_pain,1,Hepatitis C,0.00228310502283105
+muscle_weakness,1,Hepatitis C,0.00228310502283105
+stiff_neck,2,Hepatitis C,0.0045662100456621
+swelling_joints,2,Hepatitis C,0.0045662100456621
+movement_stiffness,1,Hepatitis C,0.00228310502283105
+loss_of_balance,2,Hepatitis C,0.0045662100456621
+weakness_of_one_body_side,1,Hepatitis C,0.00228310502283105
+passage_of_gases,1,Hepatitis C,0.00228310502283105
+internal_itching,1,Hepatitis C,0.00228310502283105
+depression,1,Hepatitis C,0.00228310502283105
+irritability,1,Hepatitis C,0.00228310502283105
+altered_sensorium,1,Hepatitis C,0.00228310502283105
+red_spots_over_body,3,Hepatitis C,0.00684931506849315
+watering_from_eyes,1,Hepatitis C,0.00228310502283105
+family_history,47,Hepatitis C,0.10730593607305935
+rusty_sputum,1,Hepatitis C,0.00228310502283105
+lack_of_concentration,2,Hepatitis C,0.0045662100456621
+visual_disturbances,1,Hepatitis C,0.00228310502283105
+prominent_veins_on_calf,1,Hepatitis C,0.00228310502283105
+painful_walking,2,Hepatitis C,0.0045662100456621
+skin_peeling,1,Hepatitis C,0.00228310502283105
+silver_like_dusting,2,Hepatitis C,0.0045662100456621
+small_dents_in_nails,1,Hepatitis C,0.00228310502283105
+inflammatory_nails,1,Hepatitis C,0.00228310502283105
+itching,3,hepatitis A,0.004615384615384616
+skin_rash,1,hepatitis A,0.0015384615384615385
+continuous_sneezing,1,hepatitis A,0.0015384615384615385
+chills,4,hepatitis A,0.006153846153846154
+joint_pain,47,hepatitis A,0.07230769230769231
+stomach_pain,1,hepatitis A,0.0015384615384615385
+acidity,1,hepatitis A,0.0015384615384615385
+ulcers_on_tongue,1,hepatitis A,0.0015384615384615385
+vomiting,48,hepatitis A,0.07384615384615385
+burning_micturition,1,hepatitis A,0.0015384615384615385
+spotting_ urination,1,hepatitis A,0.0015384615384615385
+fatigue,11,hepatitis A,0.016923076923076923
+weight_gain,1,hepatitis A,0.0015384615384615385
+cold_hands_and_feets,1,hepatitis A,0.0015384615384615385
+weight_loss,2,hepatitis A,0.003076923076923077
+lethargy,3,hepatitis A,0.004615384615384616
+cough,4,hepatitis A,0.006153846153846154
+high_fever,7,hepatitis A,0.010769230769230769
+breathlessness,4,hepatitis A,0.006153846153846154
+sweating,4,hepatitis A,0.006153846153846154
+indigestion,2,hepatitis A,0.003076923076923077
+headache,3,hepatitis A,0.004615384615384616
+yellowish_skin,46,hepatitis A,0.07076923076923076
+dark_urine,48,hepatitis A,0.07384615384615385
+nausea,47,hepatitis A,0.07230769230769231
+loss_of_appetite,49,hepatitis A,0.07538461538461538
+constipation,2,hepatitis A,0.003076923076923077
+abdominal_pain,47,hepatitis A,0.07230769230769231
+diarrhoea,42,hepatitis A,0.06461538461538462
+mild_fever,45,hepatitis A,0.06923076923076923
+yellow_urine,2,hepatitis A,0.003076923076923077
+yellowing_of_eyes,50,hepatitis A,0.07692307692307693
+acute_liver_failure,2,hepatitis A,0.003076923076923077
+swelling_of_stomach,1,hepatitis A,0.0015384615384615385
+swelled_lymph_nodes,1,hepatitis A,0.0015384615384615385
+malaise,6,hepatitis A,0.009230769230769232
+phlegm,4,hepatitis A,0.006153846153846154
+throat_irritation,1,hepatitis A,0.0015384615384615385
+redness_of_eyes,1,hepatitis A,0.0015384615384615385
+sinus_pressure,1,hepatitis A,0.0015384615384615385
+runny_nose,1,hepatitis A,0.0015384615384615385
+congestion,1,hepatitis A,0.0015384615384615385
+chest_pain,6,hepatitis A,0.009230769230769232
+fast_heart_rate,1,hepatitis A,0.0015384615384615385
+pain_during_bowel_movements,1,hepatitis A,0.0015384615384615385
+pain_in_anal_region,1,hepatitis A,0.0015384615384615385
+bloody_stool,1,hepatitis A,0.0015384615384615385
+irritation_in_anus,1,hepatitis A,0.0015384615384615385
+neck_pain,1,hepatitis A,0.0015384615384615385
+dizziness,2,hepatitis A,0.003076923076923077
+puffy_face_and_eyes,1,hepatitis A,0.0015384615384615385
+enlarged_thyroid,1,hepatitis A,0.0015384615384615385
+brittle_nails,1,hepatitis A,0.0015384615384615385
+swollen_extremeties,1,hepatitis A,0.0015384615384615385
+knee_pain,1,hepatitis A,0.0015384615384615385
+hip_joint_pain,1,hepatitis A,0.0015384615384615385
+swelling_joints,1,hepatitis A,0.0015384615384615385
+movement_stiffness,1,hepatitis A,0.0015384615384615385
+loss_of_balance,1,hepatitis A,0.0015384615384615385
+unsteadiness,1,hepatitis A,0.0015384615384615385
+loss_of_smell,1,hepatitis A,0.0015384615384615385
+bladder_discomfort,2,hepatitis A,0.003076923076923077
+foul_smell_of urine,2,hepatitis A,0.003076923076923077
+continuous_feel_of_urine,1,hepatitis A,0.0015384615384615385
+passage_of_gases,1,hepatitis A,0.0015384615384615385
+internal_itching,1,hepatitis A,0.0015384615384615385
+toxic_look_(typhos),2,hepatitis A,0.003076923076923077
+depression,1,hepatitis A,0.0015384615384615385
+irritability,1,hepatitis A,0.0015384615384615385
+muscle_pain,45,hepatitis A,0.06923076923076923
+belly_pain,1,hepatitis A,0.0015384615384615385
+abnormal_menstruation,1,hepatitis A,0.0015384615384615385
+increased_appetite,1,hepatitis A,0.0015384615384615385
+rusty_sputum,1,hepatitis A,0.0015384615384615385
+lack_of_concentration,1,hepatitis A,0.0015384615384615385
+visual_disturbances,1,hepatitis A,0.0015384615384615385
+receiving_blood_transfusion,2,hepatitis A,0.003076923076923077
+receiving_unsterile_injections,3,hepatitis A,0.004615384615384616
+coma,2,hepatitis A,0.003076923076923077
+stomach_bleeding,2,hepatitis A,0.003076923076923077
+history_of_alcohol_consumption,1,hepatitis A,0.0015384615384615385
+blood_in_sputum,1,hepatitis A,0.0015384615384615385
+painful_walking,1,hepatitis A,0.0015384615384615385
+blister,1,hepatitis A,0.0015384615384615385
+red_sore_around_nose,1,hepatitis A,0.0015384615384615385
+yellow_crust_ooze,1,hepatitis A,0.0015384615384615385
+itching,1,Bronchial Asthma,0.002277904328018223
+skin_rash,4,Bronchial Asthma,0.009111617312072893
+continuous_sneezing,1,Bronchial Asthma,0.002277904328018223
+shivering,2,Bronchial Asthma,0.004555808656036446
+chills,4,Bronchial Asthma,0.009111617312072893
+joint_pain,6,Bronchial Asthma,0.01366742596810934
+stomach_pain,2,Bronchial Asthma,0.004555808656036446
+acidity,2,Bronchial Asthma,0.004555808656036446
+ulcers_on_tongue,1,Bronchial Asthma,0.002277904328018223
+muscle_wasting,1,Bronchial Asthma,0.002277904328018223
+vomiting,9,Bronchial Asthma,0.02050113895216401
+burning_micturition,2,Bronchial Asthma,0.004555808656036446
+fatigue,49,Bronchial Asthma,0.11161731207289294
+weight_gain,1,Bronchial Asthma,0.002277904328018223
+cold_hands_and_feets,1,Bronchial Asthma,0.002277904328018223
+mood_swings,3,Bronchial Asthma,0.00683371298405467
+weight_loss,1,Bronchial Asthma,0.002277904328018223
+lethargy,1,Bronchial Asthma,0.002277904328018223
+patches_in_throat,1,Bronchial Asthma,0.002277904328018223
+cough,47,Bronchial Asthma,0.1070615034168565
+high_fever,51,Bronchial Asthma,0.11617312072892938
+breathlessness,45,Bronchial Asthma,0.10250569476082004
+sweating,2,Bronchial Asthma,0.004555808656036446
+indigestion,2,Bronchial Asthma,0.004555808656036446
+headache,4,Bronchial Asthma,0.009111617312072893
+yellowish_skin,3,Bronchial Asthma,0.00683371298405467
+dark_urine,1,Bronchial Asthma,0.002277904328018223
+nausea,5,Bronchial Asthma,0.011389521640091117
+loss_of_appetite,4,Bronchial Asthma,0.009111617312072893
+pain_behind_the_eyes,1,Bronchial Asthma,0.002277904328018223
+back_pain,1,Bronchial Asthma,0.002277904328018223
+constipation,1,Bronchial Asthma,0.002277904328018223
+abdominal_pain,5,Bronchial Asthma,0.011389521640091117
+diarrhoea,2,Bronchial Asthma,0.004555808656036446
+yellowing_of_eyes,2,Bronchial Asthma,0.004555808656036446
+acute_liver_failure,2,Bronchial Asthma,0.004555808656036446
+swelling_of_stomach,1,Bronchial Asthma,0.002277904328018223
+malaise,1,Bronchial Asthma,0.002277904328018223
+blurred_and_distorted_vision,1,Bronchial Asthma,0.002277904328018223
+chest_pain,2,Bronchial Asthma,0.004555808656036446
+fast_heart_rate,1,Bronchial Asthma,0.002277904328018223
+irritation_in_anus,1,Bronchial Asthma,0.002277904328018223
+neck_pain,2,Bronchial Asthma,0.004555808656036446
+dizziness,1,Bronchial Asthma,0.002277904328018223
+cramps,2,Bronchial Asthma,0.004555808656036446
+bruising,1,Bronchial Asthma,0.002277904328018223
+obesity,1,Bronchial Asthma,0.002277904328018223
+swollen_legs,1,Bronchial Asthma,0.002277904328018223
+swollen_blood_vessels,1,Bronchial Asthma,0.002277904328018223
+puffy_face_and_eyes,1,Bronchial Asthma,0.002277904328018223
+enlarged_thyroid,1,Bronchial Asthma,0.002277904328018223
+brittle_nails,1,Bronchial Asthma,0.002277904328018223
+swollen_extremeties,1,Bronchial Asthma,0.002277904328018223
+excessive_hunger,3,Bronchial Asthma,0.00683371298405467
+extra_marital_contacts,1,Bronchial Asthma,0.002277904328018223
+knee_pain,2,Bronchial Asthma,0.004555808656036446
+hip_joint_pain,2,Bronchial Asthma,0.004555808656036446
+muscle_weakness,2,Bronchial Asthma,0.004555808656036446
+stiff_neck,2,Bronchial Asthma,0.004555808656036446
+swelling_joints,2,Bronchial Asthma,0.004555808656036446
+movement_stiffness,1,Bronchial Asthma,0.002277904328018223
+spinning_movements,1,Bronchial Asthma,0.002277904328018223
+loss_of_balance,1,Bronchial Asthma,0.002277904328018223
+unsteadiness,1,Bronchial Asthma,0.002277904328018223
+bladder_discomfort,1,Bronchial Asthma,0.002277904328018223
+foul_smell_of urine,1,Bronchial Asthma,0.002277904328018223
+continuous_feel_of_urine,1,Bronchial Asthma,0.002277904328018223
+passage_of_gases,2,Bronchial Asthma,0.004555808656036446
+internal_itching,2,Bronchial Asthma,0.004555808656036446
+toxic_look_(typhos),1,Bronchial Asthma,0.002277904328018223
+depression,2,Bronchial Asthma,0.004555808656036446
+irritability,3,Bronchial Asthma,0.00683371298405467
+red_spots_over_body,1,Bronchial Asthma,0.002277904328018223
+belly_pain,1,Bronchial Asthma,0.002277904328018223
+abnormal_menstruation,2,Bronchial Asthma,0.004555808656036446
+watering_from_eyes,2,Bronchial Asthma,0.004555808656036446
+family_history,48,Bronchial Asthma,0.10933940774487472
+mucoid_sputum,46,Bronchial Asthma,0.10478359908883828
+rusty_sputum,2,Bronchial Asthma,0.004555808656036446
+coma,1,Bronchial Asthma,0.002277904328018223
+stomach_bleeding,1,Bronchial Asthma,0.002277904328018223
+distention_of_abdomen,1,Bronchial Asthma,0.002277904328018223
+history_of_alcohol_consumption,1,Bronchial Asthma,0.002277904328018223
+fluid_overload,1,Bronchial Asthma,0.002277904328018223
+prominent_veins_on_calf,1,Bronchial Asthma,0.002277904328018223
+painful_walking,3,Bronchial Asthma,0.00683371298405467
+silver_like_dusting,2,Bronchial Asthma,0.004555808656036446
+small_dents_in_nails,2,Bronchial Asthma,0.004555808656036446
+inflammatory_nails,2,Bronchial Asthma,0.004555808656036446
+red_sore_around_nose,1,Bronchial Asthma,0.002277904328018223
+itching,6,Heart attack,0.014962593516209476
+skin_rash,2,Heart attack,0.004987531172069825
+continuous_sneezing,3,Heart attack,0.007481296758104738
+shivering,2,Heart attack,0.004987531172069825
+chills,4,Heart attack,0.00997506234413965
+joint_pain,6,Heart attack,0.014962593516209476
+stomach_pain,2,Heart attack,0.004987531172069825
+acidity,1,Heart attack,0.0024937655860349127
+ulcers_on_tongue,1,Heart attack,0.0024937655860349127
+muscle_wasting,1,Heart attack,0.0024937655860349127
+vomiting,57,Heart attack,0.14214463840399003
+burning_micturition,2,Heart attack,0.004987531172069825
+spotting_ urination,1,Heart attack,0.0024937655860349127
+fatigue,9,Heart attack,0.022443890274314215
+weight_gain,1,Heart attack,0.0024937655860349127
+anxiety,2,Heart attack,0.004987531172069825
+cold_hands_and_feets,1,Heart attack,0.0024937655860349127
+mood_swings,1,Heart attack,0.0024937655860349127
+weight_loss,1,Heart attack,0.0024937655860349127
+lethargy,3,Heart attack,0.007481296758104738
+patches_in_throat,1,Heart attack,0.0024937655860349127
+irregular_sugar_level,1,Heart attack,0.0024937655860349127
+cough,2,Heart attack,0.004987531172069825
+high_fever,5,Heart attack,0.012468827930174564
+sunken_eyes,1,Heart attack,0.0024937655860349127
+breathlessness,42,Heart attack,0.10473815461346633
+sweating,43,Heart attack,0.10723192019950124
+dehydration,1,Heart attack,0.0024937655860349127
+headache,6,Heart attack,0.014962593516209476
+yellowish_skin,8,Heart attack,0.0199501246882793
+dark_urine,5,Heart attack,0.012468827930174564
+nausea,7,Heart attack,0.017456359102244388
+loss_of_appetite,7,Heart attack,0.017456359102244388
+pain_behind_the_eyes,1,Heart attack,0.0024937655860349127
+back_pain,1,Heart attack,0.0024937655860349127
+abdominal_pain,8,Heart attack,0.0199501246882793
+diarrhoea,2,Heart attack,0.004987531172069825
+mild_fever,1,Heart attack,0.0024937655860349127
+yellow_urine,3,Heart attack,0.007481296758104738
+yellowing_of_eyes,6,Heart attack,0.014962593516209476
+swelling_of_stomach,2,Heart attack,0.004987531172069825
+swelled_lymph_nodes,1,Heart attack,0.0024937655860349127
+malaise,5,Heart attack,0.012468827930174564
+blurred_and_distorted_vision,2,Heart attack,0.004987531172069825
+phlegm,1,Heart attack,0.0024937655860349127
+throat_irritation,1,Heart attack,0.0024937655860349127
+redness_of_eyes,1,Heart attack,0.0024937655860349127
+sinus_pressure,1,Heart attack,0.0024937655860349127
+runny_nose,1,Heart attack,0.0024937655860349127
+congestion,2,Heart attack,0.004987531172069825
+chest_pain,49,Heart attack,0.12219451371571072
+weakness_in_limbs,1,Heart attack,0.0024937655860349127
+neck_pain,3,Heart attack,0.007481296758104738
+dizziness,3,Heart attack,0.007481296758104738
+cramps,1,Heart attack,0.0024937655860349127
+swollen_blood_vessels,1,Heart attack,0.0024937655860349127
+puffy_face_and_eyes,1,Heart attack,0.0024937655860349127
+enlarged_thyroid,1,Heart attack,0.0024937655860349127
+brittle_nails,1,Heart attack,0.0024937655860349127
+swollen_extremeties,1,Heart attack,0.0024937655860349127
+excessive_hunger,2,Heart attack,0.004987531172069825
+extra_marital_contacts,1,Heart attack,0.0024937655860349127
+drying_and_tingling_lips,2,Heart attack,0.004987531172069825
+slurred_speech,2,Heart attack,0.004987531172069825
+knee_pain,2,Heart attack,0.004987531172069825
+hip_joint_pain,3,Heart attack,0.007481296758104738
+muscle_weakness,3,Heart attack,0.007481296758104738
+stiff_neck,2,Heart attack,0.004987531172069825
+swelling_joints,5,Heart attack,0.012468827930174564
+movement_stiffness,2,Heart attack,0.004987531172069825
+loss_of_balance,3,Heart attack,0.007481296758104738
+unsteadiness,1,Heart attack,0.0024937655860349127
+loss_of_smell,1,Heart attack,0.0024937655860349127
+bladder_discomfort,1,Heart attack,0.0024937655860349127
+foul_smell_of urine,1,Heart attack,0.0024937655860349127
+continuous_feel_of_urine,1,Heart attack,0.0024937655860349127
+passage_of_gases,1,Heart attack,0.0024937655860349127
+depression,1,Heart attack,0.0024937655860349127
+irritability,3,Heart attack,0.007481296758104738
+muscle_pain,3,Heart attack,0.007481296758104738
+altered_sensorium,1,Heart attack,0.0024937655860349127
+red_spots_over_body,1,Heart attack,0.0024937655860349127
+abnormal_menstruation,1,Heart attack,0.0024937655860349127
+watering_from_eyes,1,Heart attack,0.0024937655860349127
+lack_of_concentration,2,Heart attack,0.004987531172069825
+receiving_blood_transfusion,3,Heart attack,0.007481296758104738
+receiving_unsterile_injections,3,Heart attack,0.007481296758104738
+distention_of_abdomen,1,Heart attack,0.0024937655860349127
+history_of_alcohol_consumption,1,Heart attack,0.0024937655860349127
+fluid_overload,1,Heart attack,0.0024937655860349127
+palpitations,2,Heart attack,0.004987531172069825
+painful_walking,4,Heart attack,0.00997506234413965
+skin_peeling,1,Heart attack,0.0024937655860349127
+silver_like_dusting,1,Heart attack,0.0024937655860349127
+small_dents_in_nails,1,Heart attack,0.0024937655860349127
+inflammatory_nails,1,Heart attack,0.0024937655860349127
+itching,42,Chronic cholestasis,0.08300395256916997
+skin_rash,4,Chronic cholestasis,0.007905138339920948
+nodal_skin_eruptions,1,Chronic cholestasis,0.001976284584980237
+continuous_sneezing,1,Chronic cholestasis,0.001976284584980237
+shivering,1,Chronic cholestasis,0.001976284584980237
+chills,4,Chronic cholestasis,0.007905138339920948
+joint_pain,3,Chronic cholestasis,0.005928853754940711
+vomiting,47,Chronic cholestasis,0.09288537549407115
+fatigue,16,Chronic cholestasis,0.03162055335968379
+weight_gain,1,Chronic cholestasis,0.001976284584980237
+anxiety,2,Chronic cholestasis,0.003952569169960474
+cold_hands_and_feets,1,Chronic cholestasis,0.001976284584980237
+mood_swings,2,Chronic cholestasis,0.003952569169960474
+weight_loss,4,Chronic cholestasis,0.007905138339920948
+restlessness,4,Chronic cholestasis,0.007905138339920948
+lethargy,4,Chronic cholestasis,0.007905138339920948
+irregular_sugar_level,2,Chronic cholestasis,0.003952569169960474
+cough,2,Chronic cholestasis,0.003952569169960474
+high_fever,4,Chronic cholestasis,0.007905138339920948
+sunken_eyes,1,Chronic cholestasis,0.001976284584980237
+breathlessness,3,Chronic cholestasis,0.005928853754940711
+sweating,7,Chronic cholestasis,0.01383399209486166
+dehydration,1,Chronic cholestasis,0.001976284584980237
+indigestion,1,Chronic cholestasis,0.001976284584980237
+headache,5,Chronic cholestasis,0.009881422924901186
+yellowish_skin,45,Chronic cholestasis,0.08893280632411067
+nausea,47,Chronic cholestasis,0.09288537549407115
+loss_of_appetite,45,Chronic cholestasis,0.08893280632411067
+pain_behind_the_eyes,1,Chronic cholestasis,0.001976284584980237
+back_pain,1,Chronic cholestasis,0.001976284584980237
+constipation,4,Chronic cholestasis,0.007905138339920948
+abdominal_pain,44,Chronic cholestasis,0.08695652173913043
+diarrhoea,4,Chronic cholestasis,0.007905138339920948
+mild_fever,1,Chronic cholestasis,0.001976284584980237
+yellowing_of_eyes,43,Chronic cholestasis,0.08498023715415019
+swelling_of_stomach,2,Chronic cholestasis,0.003952569169960474
+swelled_lymph_nodes,1,Chronic cholestasis,0.001976284584980237
+malaise,4,Chronic cholestasis,0.007905138339920948
+blurred_and_distorted_vision,4,Chronic cholestasis,0.007905138339920948
+phlegm,2,Chronic cholestasis,0.003952569169960474
+throat_irritation,1,Chronic cholestasis,0.001976284584980237
+chest_pain,3,Chronic cholestasis,0.005928853754940711
+fast_heart_rate,4,Chronic cholestasis,0.007905138339920948
+pain_during_bowel_movements,3,Chronic cholestasis,0.005928853754940711
+pain_in_anal_region,3,Chronic cholestasis,0.005928853754940711
+bloody_stool,3,Chronic cholestasis,0.005928853754940711
+irritation_in_anus,3,Chronic cholestasis,0.005928853754940711
+neck_pain,1,Chronic cholestasis,0.001976284584980237
+dizziness,2,Chronic cholestasis,0.003952569169960474
+cramps,1,Chronic cholestasis,0.001976284584980237
+bruising,2,Chronic cholestasis,0.003952569169960474
+obesity,4,Chronic cholestasis,0.007905138339920948
+swollen_legs,2,Chronic cholestasis,0.003952569169960474
+swollen_blood_vessels,2,Chronic cholestasis,0.003952569169960474
+puffy_face_and_eyes,1,Chronic cholestasis,0.001976284584980237
+enlarged_thyroid,1,Chronic cholestasis,0.001976284584980237
+brittle_nails,1,Chronic cholestasis,0.001976284584980237
+swollen_extremeties,1,Chronic cholestasis,0.001976284584980237
+excessive_hunger,7,Chronic cholestasis,0.01383399209486166
+drying_and_tingling_lips,3,Chronic cholestasis,0.005928853754940711
+slurred_speech,2,Chronic cholestasis,0.003952569169960474
+knee_pain,1,Chronic cholestasis,0.001976284584980237
+hip_joint_pain,1,Chronic cholestasis,0.001976284584980237
+muscle_weakness,2,Chronic cholestasis,0.003952569169960474
+swelling_joints,1,Chronic cholestasis,0.001976284584980237
+passage_of_gases,1,Chronic cholestasis,0.001976284584980237
+internal_itching,1,Chronic cholestasis,0.001976284584980237
+toxic_look_(typhos),1,Chronic cholestasis,0.001976284584980237
+depression,1,Chronic cholestasis,0.001976284584980237
+irritability,5,Chronic cholestasis,0.009881422924901186
+muscle_pain,1,Chronic cholestasis,0.001976284584980237
+red_spots_over_body,2,Chronic cholestasis,0.003952569169960474
+belly_pain,1,Chronic cholestasis,0.001976284584980237
+abnormal_menstruation,3,Chronic cholestasis,0.005928853754940711
+watering_from_eyes,1,Chronic cholestasis,0.001976284584980237
+increased_appetite,2,Chronic cholestasis,0.003952569169960474
+polyuria,2,Chronic cholestasis,0.003952569169960474
+family_history,2,Chronic cholestasis,0.003952569169960474
+rusty_sputum,2,Chronic cholestasis,0.003952569169960474
+distention_of_abdomen,2,Chronic cholestasis,0.003952569169960474
+history_of_alcohol_consumption,1,Chronic cholestasis,0.001976284584980237
+fluid_overload,2,Chronic cholestasis,0.003952569169960474
+prominent_veins_on_calf,2,Chronic cholestasis,0.003952569169960474
+palpitations,2,Chronic cholestasis,0.003952569169960474
+painful_walking,1,Chronic cholestasis,0.001976284584980237
+skin_peeling,1,Chronic cholestasis,0.001976284584980237
+silver_like_dusting,1,Chronic cholestasis,0.001976284584980237
+small_dents_in_nails,1,Chronic cholestasis,0.001976284584980237
+inflammatory_nails,2,Chronic cholestasis,0.003952569169960474
+itching,1,Hypothyroidism,0.0015748031496062992
+skin_rash,1,Hypothyroidism,0.0015748031496062992
+shivering,1,Hypothyroidism,0.0015748031496062992
+chills,3,Hypothyroidism,0.004724409448818898
+joint_pain,2,Hypothyroidism,0.0031496062992125984
+stomach_pain,4,Hypothyroidism,0.006299212598425197
+acidity,2,Hypothyroidism,0.0031496062992125984
+ulcers_on_tongue,3,Hypothyroidism,0.004724409448818898
+vomiting,11,Hypothyroidism,0.01732283464566929
+spotting_ urination,1,Hypothyroidism,0.0015748031496062992
+fatigue,40,Hypothyroidism,0.06299212598425197
+weight_gain,35,Hypothyroidism,0.05511811023622047
+anxiety,2,Hypothyroidism,0.0031496062992125984
+cold_hands_and_feets,37,Hypothyroidism,0.05826771653543307
+mood_swings,37,Hypothyroidism,0.05826771653543307
+weight_loss,2,Hypothyroidism,0.0031496062992125984
+restlessness,2,Hypothyroidism,0.0031496062992125984
+lethargy,38,Hypothyroidism,0.05984251968503937
+irregular_sugar_level,1,Hypothyroidism,0.0015748031496062992
+cough,2,Hypothyroidism,0.0031496062992125984
+high_fever,2,Hypothyroidism,0.0031496062992125984
+breathlessness,1,Hypothyroidism,0.0015748031496062992
+sweating,3,Hypothyroidism,0.004724409448818898
+indigestion,1,Hypothyroidism,0.0015748031496062992
+headache,4,Hypothyroidism,0.006299212598425197
+yellowish_skin,3,Hypothyroidism,0.004724409448818898
+dark_urine,1,Hypothyroidism,0.0015748031496062992
+nausea,5,Hypothyroidism,0.007874015748031496
+loss_of_appetite,2,Hypothyroidism,0.0031496062992125984
+constipation,3,Hypothyroidism,0.004724409448818898
+abdominal_pain,4,Hypothyroidism,0.006299212598425197
+diarrhoea,4,Hypothyroidism,0.006299212598425197
+mild_fever,1,Hypothyroidism,0.0015748031496062992
+yellowing_of_eyes,1,Hypothyroidism,0.0015748031496062992
+swelling_of_stomach,2,Hypothyroidism,0.0031496062992125984
+blurred_and_distorted_vision,2,Hypothyroidism,0.0031496062992125984
+congestion,1,Hypothyroidism,0.0015748031496062992
+chest_pain,3,Hypothyroidism,0.004724409448818898
+fast_heart_rate,1,Hypothyroidism,0.0015748031496062992
+pain_during_bowel_movements,1,Hypothyroidism,0.0015748031496062992
+pain_in_anal_region,1,Hypothyroidism,0.0015748031496062992
+bloody_stool,1,Hypothyroidism,0.0015748031496062992
+irritation_in_anus,1,Hypothyroidism,0.0015748031496062992
+neck_pain,1,Hypothyroidism,0.0015748031496062992
+dizziness,38,Hypothyroidism,0.05984251968503937
+cramps,3,Hypothyroidism,0.004724409448818898
+bruising,3,Hypothyroidism,0.004724409448818898
+obesity,4,Hypothyroidism,0.006299212598425197
+swollen_legs,2,Hypothyroidism,0.0031496062992125984
+swollen_blood_vessels,3,Hypothyroidism,0.004724409448818898
+puffy_face_and_eyes,35,Hypothyroidism,0.05511811023622047
+enlarged_thyroid,38,Hypothyroidism,0.05984251968503937
+brittle_nails,38,Hypothyroidism,0.05984251968503937
+swollen_extremeties,38,Hypothyroidism,0.05984251968503937
+excessive_hunger,3,Hypothyroidism,0.004724409448818898
+drying_and_tingling_lips,1,Hypothyroidism,0.0015748031496062992
+slurred_speech,2,Hypothyroidism,0.0031496062992125984
+knee_pain,1,Hypothyroidism,0.0015748031496062992
+hip_joint_pain,2,Hypothyroidism,0.0031496062992125984
+muscle_weakness,1,Hypothyroidism,0.0015748031496062992
+swelling_joints,1,Hypothyroidism,0.0015748031496062992
+spinning_movements,1,Hypothyroidism,0.0015748031496062992
+loss_of_balance,1,Hypothyroidism,0.0015748031496062992
+unsteadiness,1,Hypothyroidism,0.0015748031496062992
+loss_of_smell,1,Hypothyroidism,0.0015748031496062992
+passage_of_gases,1,Hypothyroidism,0.0015748031496062992
+internal_itching,1,Hypothyroidism,0.0015748031496062992
+toxic_look_(typhos),1,Hypothyroidism,0.0015748031496062992
+depression,38,Hypothyroidism,0.05984251968503937
+irritability,40,Hypothyroidism,0.06299212598425197
+muscle_pain,1,Hypothyroidism,0.0015748031496062992
+red_spots_over_body,1,Hypothyroidism,0.0015748031496062992
+belly_pain,2,Hypothyroidism,0.0031496062992125984
+abnormal_menstruation,39,Hypothyroidism,0.06141732283464567
+watering_from_eyes,1,Hypothyroidism,0.0015748031496062992
+increased_appetite,1,Hypothyroidism,0.0015748031496062992
+polyuria,1,Hypothyroidism,0.0015748031496062992
+rusty_sputum,1,Hypothyroidism,0.0015748031496062992
+visual_disturbances,1,Hypothyroidism,0.0015748031496062992
+coma,1,Hypothyroidism,0.0015748031496062992
+stomach_bleeding,1,Hypothyroidism,0.0015748031496062992
+distention_of_abdomen,3,Hypothyroidism,0.004724409448818898
+history_of_alcohol_consumption,2,Hypothyroidism,0.0031496062992125984
+fluid_overload,2,Hypothyroidism,0.0031496062992125984
+prominent_veins_on_calf,3,Hypothyroidism,0.004724409448818898
+palpitations,1,Hypothyroidism,0.0015748031496062992
+skin_peeling,2,Hypothyroidism,0.0031496062992125984
+itching,2,Diabetes ,0.0030581039755351682
+skin_rash,3,Diabetes ,0.0045871559633027525
+nodal_skin_eruptions,1,Diabetes ,0.0015290519877675841
+continuous_sneezing,1,Diabetes ,0.0015290519877675841
+chills,3,Diabetes ,0.0045871559633027525
+joint_pain,4,Diabetes ,0.0061162079510703364
+stomach_pain,1,Diabetes ,0.0015290519877675841
+vomiting,4,Diabetes ,0.0061162079510703364
+burning_micturition,1,Diabetes ,0.0015290519877675841
+fatigue,57,Diabetes ,0.0871559633027523
+mood_swings,2,Diabetes ,0.0030581039755351682
+weight_loss,55,Diabetes ,0.08409785932721713
+restlessness,55,Diabetes ,0.08409785932721713
+lethargy,52,Diabetes ,0.07951070336391437
+irregular_sugar_level,51,Diabetes ,0.0779816513761468
+cough,2,Diabetes ,0.0030581039755351682
+high_fever,4,Diabetes ,0.0061162079510703364
+breathlessness,2,Diabetes ,0.0030581039755351682
+sweating,5,Diabetes ,0.00764525993883792
+headache,3,Diabetes ,0.0045871559633027525
+yellowish_skin,3,Diabetes ,0.0045871559633027525
+dark_urine,4,Diabetes ,0.0061162079510703364
+nausea,4,Diabetes ,0.0061162079510703364
+loss_of_appetite,3,Diabetes ,0.0045871559633027525
+abdominal_pain,3,Diabetes ,0.0045871559633027525
+diarrhoea,4,Diabetes ,0.0061162079510703364
+mild_fever,1,Diabetes ,0.0015290519877675841
+yellow_urine,3,Diabetes ,0.0045871559633027525
+yellowing_of_eyes,4,Diabetes ,0.0061162079510703364
+malaise,3,Diabetes ,0.0045871559633027525
+blurred_and_distorted_vision,53,Diabetes ,0.08103975535168195
+phlegm,1,Diabetes ,0.0015290519877675841
+chest_pain,2,Diabetes ,0.0030581039755351682
+fast_heart_rate,3,Diabetes ,0.0045871559633027525
+neck_pain,1,Diabetes ,0.0015290519877675841
+obesity,53,Diabetes ,0.08103975535168195
+swollen_legs,1,Diabetes ,0.0015290519877675841
+excessive_hunger,56,Diabetes ,0.0856269113149847
+muscle_weakness,2,Diabetes ,0.0030581039755351682
+spinning_movements,1,Diabetes ,0.0015290519877675841
+loss_of_balance,1,Diabetes ,0.0015290519877675841
+unsteadiness,1,Diabetes ,0.0015290519877675841
+bladder_discomfort,1,Diabetes ,0.0015290519877675841
+foul_smell_of urine,1,Diabetes ,0.0015290519877675841
+continuous_feel_of_urine,1,Diabetes ,0.0015290519877675841
+irritability,2,Diabetes ,0.0030581039755351682
+muscle_pain,2,Diabetes ,0.0030581039755351682
+abnormal_menstruation,2,Diabetes ,0.0030581039755351682
+increased_appetite,55,Diabetes ,0.08409785932721713
+polyuria,55,Diabetes ,0.08409785932721713
+family_history,1,Diabetes ,0.0015290519877675841
+rusty_sputum,1,Diabetes ,0.0015290519877675841
+receiving_blood_transfusion,2,Diabetes ,0.0030581039755351682
+receiving_unsterile_injections,2,Diabetes ,0.0030581039755351682
+stomach_bleeding,1,Diabetes ,0.0015290519877675841
+pus_filled_pimples,2,Diabetes ,0.0030581039755351682
+blackheads,2,Diabetes ,0.0030581039755351682
+scurring,2,Diabetes ,0.0030581039755351682
+skin_peeling,1,Diabetes ,0.0015290519877675841
+silver_like_dusting,1,Diabetes ,0.0015290519877675841
+small_dents_in_nails,1,Diabetes ,0.0015290519877675841
+inflammatory_nails,1,Diabetes ,0.0015290519877675841
+blister,1,Diabetes ,0.0015290519877675841
+red_sore_around_nose,1,Diabetes ,0.0015290519877675841
+yellow_crust_ooze,1,Diabetes ,0.0015290519877675841
+itching,5,GERD,0.010845986984815618
+skin_rash,9,GERD,0.019522776572668113
+nodal_skin_eruptions,1,GERD,0.0021691973969631237
+continuous_sneezing,1,GERD,0.0021691973969631237
+chills,3,GERD,0.006507592190889371
+joint_pain,5,GERD,0.010845986984815618
+stomach_pain,45,GERD,0.09761388286334056
+acidity,41,GERD,0.08893709327548807
+ulcers_on_tongue,42,GERD,0.0911062906724512
+muscle_wasting,1,GERD,0.0021691973969631237
+vomiting,47,GERD,0.1019522776572668
+fatigue,10,GERD,0.021691973969631236
+weight_gain,2,GERD,0.004338394793926247
+anxiety,1,GERD,0.0021691973969631237
+cold_hands_and_feets,2,GERD,0.004338394793926247
+mood_swings,2,GERD,0.004338394793926247
+restlessness,1,GERD,0.0021691973969631237
+lethargy,4,GERD,0.008676789587852495
+patches_in_throat,2,GERD,0.004338394793926247
+cough,43,GERD,0.09327548806941431
+high_fever,8,GERD,0.01735357917570499
+sunken_eyes,2,GERD,0.004338394793926247
+breathlessness,1,GERD,0.0021691973969631237
+sweating,1,GERD,0.0021691973969631237
+dehydration,1,GERD,0.0021691973969631237
+indigestion,1,GERD,0.0021691973969631237
+headache,6,GERD,0.013015184381778741
+yellowish_skin,5,GERD,0.010845986984815618
+dark_urine,2,GERD,0.004338394793926247
+nausea,4,GERD,0.008676789587852495
+loss_of_appetite,7,GERD,0.015184381778741865
+pain_behind_the_eyes,1,GERD,0.0021691973969631237
+back_pain,2,GERD,0.004338394793926247
+abdominal_pain,3,GERD,0.006507592190889371
+diarrhoea,1,GERD,0.0021691973969631237
+mild_fever,2,GERD,0.004338394793926247
+yellow_urine,2,GERD,0.004338394793926247
+yellowing_of_eyes,4,GERD,0.008676789587852495
+fluid_overload,1,GERD,0.0021691973969631237
+swelling_of_stomach,1,GERD,0.0021691973969631237
+swelled_lymph_nodes,3,GERD,0.006507592190889371
+malaise,5,GERD,0.010845986984815618
+blurred_and_distorted_vision,1,GERD,0.0021691973969631237
+phlegm,1,GERD,0.0021691973969631237
+throat_irritation,1,GERD,0.0021691973969631237
+redness_of_eyes,1,GERD,0.0021691973969631237
+sinus_pressure,1,GERD,0.0021691973969631237
+runny_nose,1,GERD,0.0021691973969631237
+congestion,1,GERD,0.0021691973969631237
+chest_pain,48,GERD,0.10412147505422993
+weakness_in_limbs,1,GERD,0.0021691973969631237
+neck_pain,2,GERD,0.004338394793926247
+dizziness,5,GERD,0.010845986984815618
+puffy_face_and_eyes,2,GERD,0.004338394793926247
+enlarged_thyroid,2,GERD,0.004338394793926247
+brittle_nails,2,GERD,0.004338394793926247
+swollen_extremeties,2,GERD,0.004338394793926247
+excessive_hunger,1,GERD,0.0021691973969631237
+extra_marital_contacts,1,GERD,0.0021691973969631237
+drying_and_tingling_lips,1,GERD,0.0021691973969631237
+slurred_speech,1,GERD,0.0021691973969631237
+knee_pain,1,GERD,0.0021691973969631237
+hip_joint_pain,1,GERD,0.0021691973969631237
+swelling_joints,1,GERD,0.0021691973969631237
+loss_of_balance,3,GERD,0.006507592190889371
+unsteadiness,1,GERD,0.0021691973969631237
+loss_of_smell,1,GERD,0.0021691973969631237
+depression,2,GERD,0.004338394793926247
+irritability,3,GERD,0.006507592190889371
+muscle_pain,2,GERD,0.004338394793926247
+red_spots_over_body,3,GERD,0.006507592190889371
+abnormal_menstruation,2,GERD,0.004338394793926247
+dischromic _patches,2,GERD,0.004338394793926247
+family_history,2,GERD,0.004338394793926247
+mucoid_sputum,2,GERD,0.004338394793926247
+lack_of_concentration,2,GERD,0.004338394793926247
+receiving_blood_transfusion,1,GERD,0.0021691973969631237
+receiving_unsterile_injections,1,GERD,0.0021691973969631237
+stomach_bleeding,1,GERD,0.0021691973969631237
+distention_of_abdomen,1,GERD,0.0021691973969631237
+history_of_alcohol_consumption,2,GERD,0.004338394793926247
+fluid_overload,2,GERD,0.004338394793926247
+prominent_veins_on_calf,1,GERD,0.0021691973969631237
+palpitations,1,GERD,0.0021691973969631237
+painful_walking,3,GERD,0.006507592190889371
+skin_peeling,3,GERD,0.006507592190889371
+silver_like_dusting,2,GERD,0.004338394793926247
+small_dents_in_nails,2,GERD,0.004338394793926247
+inflammatory_nails,2,GERD,0.004338394793926247
+blister,2,GERD,0.004338394793926247
+red_sore_around_nose,2,GERD,0.004338394793926247
+yellow_crust_ooze,2,GERD,0.004338394793926247
